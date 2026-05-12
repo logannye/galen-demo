@@ -1,0 +1,12 @@
+{
+  "coeffs": {
+    "intercept": -1.7994354826542587,
+    "hybrid_rank_inverse": 3.2427632978186205,
+    "scm_rank_inverse": 0.0,
+    "llm_name_agrees": 0.0,
+    "override_applied": -1.4228872190938409,
+    "drug_in_catalog": -1.0804914154742964
+  },
+  "n_train": 6305,
+  "hit_rate": 0.2120539254559873
+}

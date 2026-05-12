@@ -1,0 +1,4294 @@
+{
+  "n_unique_edges": 306,
+  "n_targets_with_edges": 97,
+  "edges": {
+    "P30411": {
+      "C0010200": {
+        "uniprot": "P30411",
+        "umls": "C0010200",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain",
+          "enalapril;imidapril;lisinopril"
+        ],
+        "examples_phenotypes": [
+          "Cough"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P30411",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P08588": {
+      "C0011849": {
+        "uniprot": "P08588",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "muraglitazar"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      },
+      "C0013604": {
+        "uniprot": "P08588",
+        "umls": "C0013604",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "muraglitazar"
+        ],
+        "examples_phenotypes": [
+          "Edema"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P28335": {
+      "C0043094": {
+        "uniprot": "P28335",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "olanzapine",
+          "risperidone"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      },
+      "C0004936": {
+        "uniprot": "P28335",
+        "umls": "C0004936",
+        "max_evidence_score": 2,
+        "n_annotations": 5,
+        "examples_drugs": [
+          "antipsychotics",
+          "olanzapine",
+          "risperidone",
+          "clozapine"
+        ],
+        "examples_phenotypes": [
+          "Mental Disorders"
+        ],
+        "best_level": "3"
+      },
+      "C0220981": {
+        "uniprot": "P28335",
+        "umls": "C0220981",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "risperidone",
+          "clozapine"
+        ],
+        "examples_phenotypes": [
+          "Metabolic Syndrome"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P04626": {
+      "C0006145": {
+        "uniprot": "P04626",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "trastuzumab"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P04626",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "trastuzumab"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P00797": {
+      "C0011849": {
+        "uniprot": "P00797",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "muraglitazar"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      },
+      "C0013604": {
+        "uniprot": "P00797",
+        "umls": "C0013604",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "muraglitazar"
+        ],
+        "examples_phenotypes": [
+          "Edema"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q92887": {
+      "C0018799": {
+        "uniprot": "Q92887",
+        "umls": "C0018799",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "doxorubicin"
+        ],
+        "examples_phenotypes": [
+          "Cardiac rhythm disease"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "Q92887",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "doxorubicin",
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "Q92887",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "doxorubicin",
+          "irinotecan",
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Non-Hodgkin Lymphoma",
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "Q92887",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0948089": {
+        "uniprot": "Q92887",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      },
+      "C0024299": {
+        "uniprot": "Q92887",
+        "umls": "C0024299",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Lymphoma"
+        ],
+        "best_level": "3"
+      },
+      "C0023530": {
+        "uniprot": "Q92887",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0014518": {
+        "uniprot": "Q92887",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Drugs For Treatment Of Tuberculosis"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "Q92887",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Drugs For Treatment Of Tuberculosis"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0006413": {
+        "uniprot": "Q92887",
+        "umls": "C0006413",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Burkitt Lymphoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P33527": {
+      "C0018799": {
+        "uniprot": "P33527",
+        "umls": "C0018799",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "doxorubicin"
+        ],
+        "examples_phenotypes": [
+          "Cardiac rhythm disease"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P33527",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "doxorubicin",
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P33527",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "doxorubicin"
+        ],
+        "examples_phenotypes": [
+          "Non-Hodgkin Lymphoma"
+        ],
+        "best_level": "3"
+      },
+      "C0033860": {
+        "uniprot": "P33527",
+        "umls": "C0033860",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Psoriasis"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P33527",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "irinotecan"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P08183": {
+      "C0014518": {
+        "uniprot": "P08183",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "nevirapine"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P08183",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "paclitaxel",
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P08183",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "paclitaxel",
+          "sunitinib",
+          "irinotecan"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0010072": {
+        "uniprot": "P08183",
+        "umls": "C0010072",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "clopidogrel",
+          "atorvastatin"
+        ],
+        "examples_phenotypes": [
+          "Coronary Disease",
+          "Coronary Artery Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0019080": {
+        "uniprot": "P08183",
+        "umls": "C0019080",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Hemorrhage"
+        ],
+        "best_level": "3"
+      },
+      "C2830004": {
+        "uniprot": "P08183",
+        "umls": "C2830004",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Somnolence"
+        ],
+        "best_level": "3"
+      },
+      "C0004093": {
+        "uniprot": "P08183",
+        "umls": "C0004093",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Asthenia"
+        ],
+        "best_level": "3"
+      },
+      "C0018799": {
+        "uniprot": "P08183",
+        "umls": "C0018799",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Cardiac rhythm disease"
+        ],
+        "best_level": "3"
+      },
+      "C0231528": {
+        "uniprot": "P08183",
+        "umls": "C0231528",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "atorvastatin",
+          "simvastatin"
+        ],
+        "examples_phenotypes": [
+          "Myalgia"
+        ],
+        "best_level": "3"
+      },
+      "C0011570": {
+        "uniprot": "P08183",
+        "umls": "C0011570",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "clomipramine;lithium;nefazodone;paroxetine;venlafaxine",
+          "nortriptyline"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P08183",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 5,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin;fluorouracil",
+          "everolimus",
+          "paclitaxel",
+          "anastrozole"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0747102": {
+        "uniprot": "P08183",
+        "umls": "C0747102",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "Platinum compounds;taxanes"
+        ],
+        "examples_phenotypes": [
+          "Ovarian Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0948089": {
+        "uniprot": "P08183",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "clopidogrel",
+          "methotrexate",
+          "vincristine"
+        ],
+        "examples_phenotypes": [
+          "Acute coronary syndrome",
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      },
+      "C0027051": {
+        "uniprot": "P08183",
+        "umls": "C0027051",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Myocardial Infarction"
+        ],
+        "best_level": "3"
+      },
+      "C0024312": {
+        "uniprot": "P08183",
+        "umls": "C0024312",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "everolimus"
+        ],
+        "examples_phenotypes": [
+          "Lymphopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0042963": {
+        "uniprot": "P08183",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bleomycin;cisplatin;etoposide"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      },
+      "C0024299": {
+        "uniprot": "P08183",
+        "umls": "C0024299",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Lymphoma"
+        ],
+        "best_level": "3"
+      },
+      "C0030193": {
+        "uniprot": "P08183",
+        "umls": "C0030193",
+        "max_evidence_score": 2,
+        "n_annotations": 5,
+        "examples_drugs": [
+          "fentanyl",
+          "codeine"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "3"
+      },
+      "C0687713": {
+        "uniprot": "P08183",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "imatinib"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal Stromal Tumors"
+        ],
+        "best_level": "3"
+      },
+      "C0035078": {
+        "uniprot": "P08183",
+        "umls": "C0035078",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "sunitinib",
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Renal Cell Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P08183",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "sorafenib",
+          "atenolol"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P08183",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "bleomycin;cyclophosphamide;doxorubicin;prednisone;rituximab;vincristine;vindesine",
+          "gefitinib",
+          "Platinum compounds"
+        ],
+        "examples_phenotypes": [
+          "Non-Hodgkin Lymphoma",
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0006413": {
+        "uniprot": "P08183",
+        "umls": "C0006413",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Burkitt Lymphoma"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "P08183",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "Antivirals for treatment of HIV infections, combinations;Drugs For Treatment Of Tuberculosis",
+          "Drugs For Treatment Of Tuberculosis;isoniazid"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0003862": {
+        "uniprot": "P08183",
+        "umls": "C0003862",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "anastrozole"
+        ],
+        "examples_phenotypes": [
+          "Arthralgia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P41440": {
+      "C0687133": {
+        "uniprot": "P41440",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0687713": {
+        "uniprot": "P41440",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "imatinib"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal Stromal Tumors"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P21964": {
+      "C0687133": {
+        "uniprot": "P21964",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cisplatin"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0009806": {
+        "uniprot": "P21964",
+        "umls": "C0009806",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "oxycodone",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Constipation"
+        ],
+        "best_level": "4"
+      },
+      "C0011206": {
+        "uniprot": "P21964",
+        "umls": "C0011206",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "oxycodone",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Delirium"
+        ],
+        "best_level": "4"
+      },
+      "C0027497": {
+        "uniprot": "P21964",
+        "umls": "C0027497",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "oxycodone",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "4"
+      },
+      "C0033774": {
+        "uniprot": "P21964",
+        "umls": "C0033774",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "oxycodone",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Pruritus"
+        ],
+        "best_level": "4"
+      },
+      "C2830004": {
+        "uniprot": "P21964",
+        "umls": "C2830004",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "oxycodone",
+          "fentanyl",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Somnolence"
+        ],
+        "best_level": "3"
+      },
+      "C0042075": {
+        "uniprot": "P21964",
+        "umls": "C0042075",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "oxycodone",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Urinary Retention"
+        ],
+        "best_level": "4"
+      },
+      "C0042963": {
+        "uniprot": "P21964",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "naloxone;oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      },
+      "C0041834": {
+        "uniprot": "P21964",
+        "umls": "C0041834",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "naloxone;oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Erythema"
+        ],
+        "best_level": "3"
+      },
+      "C0012833": {
+        "uniprot": "P21964",
+        "umls": "C0012833",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "opioids"
+        ],
+        "examples_phenotypes": [
+          "Dizziness"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q9Y6L6": {
+      "C0948089": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "methotrexate",
+          "cytarabine;fludarabine;gemtuzumab ozogamicin;idarubicin",
+          "mercaptopurine"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia",
+          "Acute"
+        ],
+        "best_level": "3"
+      },
+      "C0024299": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0024299",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Lymphoma"
+        ],
+        "best_level": "4"
+      },
+      "C0023470": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0023470",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cytarabine;fludarabine;gemtuzumab ozogamicin;idarubicin"
+        ],
+        "examples_phenotypes": [
+          "Myeloid"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "irinotecan"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0010072": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0010072",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "hmg coa reductase inhibitors"
+        ],
+        "examples_phenotypes": [
+          "Coronary Artery Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0011849": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "hmg coa reductase inhibitors"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      },
+      "C0035410": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0035410",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cerivastatin"
+        ],
+        "examples_phenotypes": [
+          "Rhabdomyolysis"
+        ],
+        "best_level": "3"
+      },
+      "C0687713": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "mercaptopurine"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0040034": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide;docetaxel;doxorubicin;epirubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0151786": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0151786",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "simvastatin"
+        ],
+        "examples_phenotypes": [
+          "Muscular Diseases"
+        ],
+        "best_level": "4"
+      },
+      "C0687133": {
+        "uniprot": "Q9Y6L6",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "rifampin"
+        ],
+        "examples_phenotypes": [
+          "Drug-induced liver injury"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P08473": {
+      "C0010200": {
+        "uniprot": "P08473",
+        "umls": "C0010200",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain"
+        ],
+        "examples_phenotypes": [
+          "Cough"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P08473",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P00533": {
+      "C0024305": {
+        "uniprot": "P00533",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "egfr inhibitors"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0687713": {
+        "uniprot": "P00533",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "imatinib"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal Stromal Tumors"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P00533",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P20815": {
+      "C0035078": {
+        "uniprot": "P20815",
+        "umls": "C0035078",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sunitinib"
+        ],
+        "examples_phenotypes": [
+          "Renal Cell Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C2830004": {
+        "uniprot": "P20815",
+        "umls": "C2830004",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Somnolence"
+        ],
+        "best_level": "3"
+      },
+      "C0231528": {
+        "uniprot": "P20815",
+        "umls": "C0231528",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atorvastatin"
+        ],
+        "examples_phenotypes": [
+          "Myalgia"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P20815",
+        "umls": "C0020538",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tacrolimus"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "4"
+      },
+      "C0014518": {
+        "uniprot": "P20815",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tacrolimus"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      },
+      "C0030193": {
+        "uniprot": "P20815",
+        "umls": "C0030193",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "fentanyl"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "3"
+      },
+      "C0023530": {
+        "uniprot": "P20815",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P20815",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0747102": {
+        "uniprot": "P20815",
+        "umls": "C0747102",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Ovarian Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P10635": {
+      "C0030193": {
+        "uniprot": "P10635",
+        "umls": "C0030193",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "codeine"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "1A"
+      },
+      "C0687133": {
+        "uniprot": "P10635",
+        "umls": "C0687133",
+        "max_evidence_score": 6,
+        "n_annotations": 5,
+        "examples_drugs": [
+          "oxycodone",
+          "gefitinib",
+          "hydrocodone",
+          "tramadol",
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "1A"
+      },
+      "C0043094": {
+        "uniprot": "P10635",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      },
+      "C0011570": {
+        "uniprot": "P10635",
+        "umls": "C0011570",
+        "max_evidence_score": 6,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "maprotiline;opipramol",
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "1A"
+      },
+      "C0024305": {
+        "uniprot": "P10635",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0014518": {
+        "uniprot": "P10635",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      },
+      "C0085631": {
+        "uniprot": "P10635",
+        "umls": "C0085631",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Agitation"
+        ],
+        "best_level": "1A"
+      },
+      "C0013604": {
+        "uniprot": "P10635",
+        "umls": "C0013604",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Edema"
+        ],
+        "best_level": "1A"
+      },
+      "C0027497": {
+        "uniprot": "P10635",
+        "umls": "C0027497",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "1A"
+      },
+      "C0039231": {
+        "uniprot": "P10635",
+        "umls": "C0039231",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Tachycardia"
+        ],
+        "best_level": "1A"
+      },
+      "C0042963": {
+        "uniprot": "P10635",
+        "umls": "C0042963",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "1A"
+      }
+    },
+    "P28223": {
+      "C0011570": {
+        "uniprot": "P28223",
+        "umls": "C0011570",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "paroxetine",
+          "antidepressants"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "3"
+      },
+      "C0027497": {
+        "uniprot": "P28223",
+        "umls": "C0027497",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "citalopram"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "3"
+      },
+      "C0042963": {
+        "uniprot": "P28223",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "citalopram"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      },
+      "C0012833": {
+        "uniprot": "P28223",
+        "umls": "C0012833",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Selective serotonin reuptake inhibitors"
+        ],
+        "examples_phenotypes": [
+          "Dizziness"
+        ],
+        "best_level": "3"
+      },
+      "C0040822": {
+        "uniprot": "P28223",
+        "umls": "C0040822",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Selective serotonin reuptake inhibitors"
+        ],
+        "examples_phenotypes": [
+          "Tremor"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P28223",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "risperidone"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0043094": {
+        "uniprot": "P28223",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      },
+      "C0003467": {
+        "uniprot": "P28223",
+        "umls": "C0003467",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "escitalopram"
+        ],
+        "examples_phenotypes": [
+          "Anxiety Disorders"
+        ],
+        "best_level": "3"
+      },
+      "C0033975": {
+        "uniprot": "P28223",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "antipsychotics"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P28222": {
+      "C0011570": {
+        "uniprot": "P28222",
+        "umls": "C0011570",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clomipramine;liothyronine;lithium;nefazodone;venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "3"
+      },
+      "C0003467": {
+        "uniprot": "P28222",
+        "umls": "C0003467",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "escitalopram",
+          "citalopram"
+        ],
+        "examples_phenotypes": [
+          "Anxiety Disorders"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P23219": {
+      "C0948089": {
+        "uniprot": "P23219",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Antiinflammatory agents, non-steroids"
+        ],
+        "examples_phenotypes": [
+          "Acute coronary syndrome"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P33261": {
+      "C0948089": {
+        "uniprot": "P33261",
+        "umls": "C0948089",
+        "max_evidence_score": 6,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "clopidogrel",
+          "prasugrel"
+        ],
+        "examples_phenotypes": [
+          "Acute coronary syndrome"
+        ],
+        "best_level": "1A"
+      },
+      "C0010072": {
+        "uniprot": "P33261",
+        "umls": "C0010072",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Coronary Artery Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0019080": {
+        "uniprot": "P33261",
+        "umls": "C0019080",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Hemorrhage"
+        ],
+        "best_level": "3"
+      },
+      "C0027051": {
+        "uniprot": "P33261",
+        "umls": "C0027051",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Myocardial Infarction"
+        ],
+        "best_level": "3"
+      },
+      "C0024141": {
+        "uniprot": "P33261",
+        "umls": "C0024141",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "Systemic lupus erythematosus"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P33261",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0011570": {
+        "uniprot": "P33261",
+        "umls": "C0011570",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "venlafaxine"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "P33261",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ethambutol;isoniazid;pyrazinamide;rifampin"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0007222": {
+        "uniprot": "P33261",
+        "umls": "C0007222",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Cardiovascular Disease"
+        ],
+        "best_level": "1A"
+      },
+      "C0007787": {
+        "uniprot": "P33261",
+        "umls": "C0007787",
+        "max_evidence_score": 6,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "clopidogrel"
+        ],
+        "examples_phenotypes": [
+          "Transient Ischemic Attack"
+        ],
+        "best_level": "1A"
+      }
+    },
+    "P01375": {
+      "C0014518": {
+        "uniprot": "P01375",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ethambutol;isoniazid;pyrazinamide;rifampin"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "P01375",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ethambutol;isoniazid;pyrazinamide;rifampin"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0151763": {
+        "uniprot": "P01375",
+        "umls": "C0151763",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Hepatocellular Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P01375",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0040034": {
+        "uniprot": "P01375",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P36888": {
+      "C0023530": {
+        "uniprot": "P36888",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sunitinib"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P36888",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sunitinib"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0040034": {
+        "uniprot": "P36888",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sunitinib"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P03372": {
+      "C0033975": {
+        "uniprot": "P03372",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methamphetamine"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P03372",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "letrozole",
+          "exemestane;letrozole",
+          "exemestane"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q9C0B1": {
+      "C0023530": {
+        "uniprot": "Q9C0B1",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "azathioprine;mercaptopurine",
+          "azathioprine",
+          "mercaptopurine"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "Q9C0B1",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "azathioprine",
+          "mercaptopurine"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "Q9C0B1",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "atenolol"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P04818": {
+      "C0687133": {
+        "uniprot": "P04818",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "methotrexate",
+          "fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0033860": {
+        "uniprot": "P04818",
+        "umls": "C0033860",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Psoriasis"
+        ],
+        "best_level": "4"
+      },
+      "C0014518": {
+        "uniprot": "P04818",
+        "umls": "C0014518",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "4"
+      },
+      "C0948089": {
+        "uniprot": "P04818",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P04818",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Non-Hodgkin Lymphoma"
+        ],
+        "best_level": "3"
+      },
+      "C0004093": {
+        "uniprot": "P04818",
+        "umls": "C0004093",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "capecitabine"
+        ],
+        "examples_phenotypes": [
+          "Asthenia"
+        ],
+        "best_level": "3"
+      },
+      "C0027497": {
+        "uniprot": "P04818",
+        "umls": "C0027497",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "capecitabine"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "3"
+      },
+      "C0042963": {
+        "uniprot": "P04818",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "capecitabine"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P20813": {
+      "C0085605": {
+        "uniprot": "P20813",
+        "umls": "C0085605",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "Hepatic Veno-Occlusive Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P20813",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0010692": {
+        "uniprot": "P20813",
+        "umls": "C0010692",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "Cystitis"
+        ],
+        "best_level": "3"
+      },
+      "C0919715": {
+        "uniprot": "P20813",
+        "umls": "C0919715",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "Lupus erythematosus"
+        ],
+        "best_level": "3"
+      },
+      "C0023473": {
+        "uniprot": "P20813",
+        "umls": "C0023473",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "imatinib",
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "Chronic myelogenous leukemia",
+          "Chronic"
+        ],
+        "best_level": "3"
+      },
+      "C0038325": {
+        "uniprot": "P20813",
+        "umls": "C0038325",
+        "max_evidence_score": 4,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "nevirapine"
+        ],
+        "examples_phenotypes": [
+          "Stevens-Johnson Syndrome"
+        ],
+        "best_level": "2A"
+      },
+      "C0014518": {
+        "uniprot": "P20813",
+        "umls": "C0014518",
+        "max_evidence_score": 4,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "nevirapine"
+        ],
+        "examples_phenotypes": [
+          "Toxic Epidermal Necrolysis",
+          "Toxic liver disease"
+        ],
+        "best_level": "2A"
+      },
+      "C0079731": {
+        "uniprot": "P20813",
+        "umls": "C0079731",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide"
+        ],
+        "examples_phenotypes": [
+          "B-Cell"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "P20813",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "ethambutol;isoniazid;pyrazinamide;rifampin",
+          "Antivirals for treatment of HIV infections, combinations;Drugs For Treatment Of Tuberculosis"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P20813",
+        "umls": "C0687133",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "nevirapine"
+        ],
+        "examples_phenotypes": [
+          "Drug Reaction with Eosinophilia and Systemic Symptoms"
+        ],
+        "best_level": "4"
+      }
+    },
+    "Q16678": {
+      "C0006145": {
+        "uniprot": "Q16678",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin;fluorouracil",
+          "cyclophosphamide;epirubicin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q9UNQ0": {
+      "C0006145": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide;doxorubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "irinotecan",
+          "gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0948089": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0948089",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "4"
+      },
+      "C0006413": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0006413",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Burkitt Lymphoma"
+        ],
+        "best_level": "4"
+      },
+      "C0687133": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0687133",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "4"
+      },
+      "C0024299": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0024299",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Lymphoma"
+        ],
+        "best_level": "4"
+      },
+      "C0024115": {
+        "uniprot": "Q9UNQ0",
+        "umls": "C0024115",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Lung Neoplasms"
+        ],
+        "best_level": "4"
+      }
+    },
+    "Q14654": {
+      "C0011849": {
+        "uniprot": "Q14654",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tacrolimus"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q15375": {
+      "C0019080": {
+        "uniprot": "Q15375",
+        "umls": "C0019080",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "warfarin"
+        ],
+        "examples_phenotypes": [
+          "Hemorrhage"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O14980": {
+      "C0687133": {
+        "uniprot": "O14980",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "Drugs For Treatment Of Tuberculosis",
+          "isoniazid"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity",
+          "Drug-induced liver injury"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "O14980",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Drugs For Treatment Of Tuberculosis"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      },
+      "C0014518": {
+        "uniprot": "O14980",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "isoniazid"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P35372": {
+      "C0851578": {
+        "uniprot": "P35372",
+        "umls": "C0851578",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "morphine",
+          "opioids",
+          "methadone"
+        ],
+        "examples_phenotypes": [
+          "Sleep Apnea Syndromes",
+          "Sleep Disorders"
+        ],
+        "best_level": "3"
+      },
+      "C0030193": {
+        "uniprot": "P35372",
+        "umls": "C0030193",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "sufentanil",
+          "fentanyl",
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "3"
+      },
+      "C0747102": {
+        "uniprot": "P35372",
+        "umls": "C0747102",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;docetaxel;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Ovarian Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0027497": {
+        "uniprot": "P35372",
+        "umls": "C0027497",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "fentanyl",
+          "morphine",
+          "oxycodone",
+          "opioids"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "3"
+      },
+      "C0042963": {
+        "uniprot": "P35372",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "fentanyl",
+          "morphine",
+          "opioids"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      },
+      "C2830004": {
+        "uniprot": "P35372",
+        "umls": "C2830004",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "fentanyl",
+          "morphine",
+          "oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Somnolence"
+        ],
+        "best_level": "3"
+      },
+      "C0018799": {
+        "uniprot": "P35372",
+        "umls": "C0018799",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "antidepressants;antipsychotics;benzodiazepine derivatives;opioids;Sympathomimetics"
+        ],
+        "examples_phenotypes": [
+          "Cardiac Arrest"
+        ],
+        "best_level": "3"
+      },
+      "C1145670": {
+        "uniprot": "P35372",
+        "umls": "C1145670",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "antidepressants;antipsychotics;benzodiazepine derivatives;opioids;Sympathomimetics",
+          "morphine",
+          "hydrocodone"
+        ],
+        "examples_phenotypes": [
+          "Respiratory Insufficiency"
+        ],
+        "best_level": "3"
+      },
+      "C0009806": {
+        "uniprot": "P35372",
+        "umls": "C0009806",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "morphine",
+          "oxycodone",
+          "hydrocodone"
+        ],
+        "examples_phenotypes": [
+          "Constipation"
+        ],
+        "best_level": "3"
+      },
+      "C0011206": {
+        "uniprot": "P35372",
+        "umls": "C0011206",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "morphine",
+          "oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Delirium"
+        ],
+        "best_level": "4"
+      },
+      "C0012833": {
+        "uniprot": "P35372",
+        "umls": "C0012833",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "morphine"
+        ],
+        "examples_phenotypes": [
+          "Dizziness"
+        ],
+        "best_level": "4"
+      },
+      "C0033774": {
+        "uniprot": "P35372",
+        "umls": "C0033774",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "morphine",
+          "oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Pruritus"
+        ],
+        "best_level": "4"
+      },
+      "C0042075": {
+        "uniprot": "P35372",
+        "umls": "C0042075",
+        "max_evidence_score": 1,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "morphine",
+          "oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Urinary Retention"
+        ],
+        "best_level": "4"
+      },
+      "C0043352": {
+        "uniprot": "P35372",
+        "umls": "C0043352",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "hydrocodone"
+        ],
+        "examples_phenotypes": [
+          "Dry mouth"
+        ],
+        "best_level": "3"
+      },
+      "C0041834": {
+        "uniprot": "P35372",
+        "umls": "C0041834",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "naloxone;oxycodone"
+        ],
+        "examples_phenotypes": [
+          "Erythema"
+        ],
+        "best_level": "3"
+      },
+      "C0424000": {
+        "uniprot": "P35372",
+        "umls": "C0424000",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tianeptine"
+        ],
+        "examples_phenotypes": [
+          "suicidal ideation"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P30556": {
+      "C0010072": {
+        "uniprot": "P30556",
+        "umls": "C0010072",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain"
+        ],
+        "examples_phenotypes": [
+          "Coronary Artery Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P30556",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Ace Inhibitors, Plain"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P32245": {
+      "C0043094": {
+        "uniprot": "P32245",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 12,
+        "examples_drugs": [
+          "amisulpride",
+          "quetiapine",
+          "paliperidone",
+          "haloperidol",
+          "risperidone",
+          "aripiprazole",
+          "antipsychotics",
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P22309": {
+      "C0024299": {
+        "uniprot": "P22309",
+        "umls": "C0024299",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "irinotecan"
+        ],
+        "examples_phenotypes": [
+          "Lymphoma"
+        ],
+        "best_level": "4"
+      },
+      "C0040034": {
+        "uniprot": "P22309",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "FOLFIRINOX"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P22309",
+        "umls": "C0027947",
+        "max_evidence_score": 6,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "sacituzumab govitecan",
+          "FOLFIRI;irinotecan",
+          "irinotecan"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "1A"
+      },
+      "C0015672": {
+        "uniprot": "P22309",
+        "umls": "C0015672",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Fatigue"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P22309",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "deferasirox"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0392525": {
+        "uniprot": "P22309",
+        "umls": "C0392525",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "atazanavir;ritonavir"
+        ],
+        "examples_phenotypes": [
+          "Nephrolithiasis"
+        ],
+        "best_level": "3"
+      },
+      "C0035078": {
+        "uniprot": "P22309",
+        "umls": "C0035078",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "pazopanib"
+        ],
+        "examples_phenotypes": [
+          "Renal Cell Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0151763": {
+        "uniprot": "P22309",
+        "umls": "C0151763",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Hepatocellular Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P04439": {
+      "C0687133": {
+        "uniprot": "P04439",
+        "umls": "C0687133",
+        "max_evidence_score": 6,
+        "n_annotations": 9,
+        "examples_drugs": [
+          "allopurinol",
+          "carbamazepine",
+          "vancomycin",
+          "dapsone",
+          "oxcarbazepine"
+        ],
+        "examples_phenotypes": [
+          "Drug Hypersensitivity",
+          "Drug Reaction with Eosinophilia and Systemic Symptoms"
+        ],
+        "best_level": "1A"
+      },
+      "C0038325": {
+        "uniprot": "P04439",
+        "umls": "C0038325",
+        "max_evidence_score": 6,
+        "n_annotations": 8,
+        "examples_drugs": [
+          "allopurinol",
+          "zonisamide",
+          "carbamazepine",
+          "lamotrigine",
+          "phenytoin"
+        ],
+        "examples_phenotypes": [
+          "Stevens-Johnson Syndrome"
+        ],
+        "best_level": "1A"
+      },
+      "C0014518": {
+        "uniprot": "P04439",
+        "umls": "C0014518",
+        "max_evidence_score": 6,
+        "n_annotations": 6,
+        "examples_drugs": [
+          "zonisamide",
+          "carbamazepine",
+          "phenytoin"
+        ],
+        "examples_phenotypes": [
+          "Toxic Epidermal Necrolysis"
+        ],
+        "best_level": "1A"
+      }
+    },
+    "O15438": {
+      "C0687133": {
+        "uniprot": "O15438",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cisplatin"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q13224": {
+      "C0687133": {
+        "uniprot": "Q13224",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "risperidone",
+          "quetiapine"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P14416": {
+      "C0004936": {
+        "uniprot": "P14416",
+        "umls": "C0004936",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Mental Disorders"
+        ],
+        "best_level": "3"
+      },
+      "C0033975": {
+        "uniprot": "P14416",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "antipsychotics"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P31645": {
+      "C0011570": {
+        "uniprot": "P31645",
+        "umls": "C0011570",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "antidepressants"
+        ],
+        "examples_phenotypes": [
+          "Depression"
+        ],
+        "best_level": "3"
+      },
+      "C0003467": {
+        "uniprot": "P31645",
+        "umls": "C0003467",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sertraline"
+        ],
+        "examples_phenotypes": [
+          "Anxiety Disorders"
+        ],
+        "best_level": "4"
+      },
+      "C0687133": {
+        "uniprot": "P31645",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "risperidone"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0023473": {
+        "uniprot": "P31645",
+        "umls": "C0023473",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "peginterferon alfa-2b;ribavirin"
+        ],
+        "examples_phenotypes": [
+          "Chronic hepatitis C virus infection"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O15439": {
+      "C0029445": {
+        "uniprot": "O15439",
+        "umls": "C0029445",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Bisphosphonates"
+        ],
+        "examples_phenotypes": [
+          "Osteonecrosis"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "O15439",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide",
+          "cyclophosphamide;doxorubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "O15439",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide",
+          "tenofovir"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0948089": {
+        "uniprot": "O15439",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      },
+      "C0006413": {
+        "uniprot": "O15439",
+        "umls": "C0006413",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Burkitt Lymphoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P30542": {
+      "C0004096": {
+        "uniprot": "P30542",
+        "umls": "C0004096",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Asthma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P37231": {
+      "C0004096": {
+        "uniprot": "P37231",
+        "umls": "C0004096",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Asthma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q96KQ7": {
+      "C0001824": {
+        "uniprot": "Q96KQ7",
+        "umls": "C0001824",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Antithyroid Preparations"
+        ],
+        "examples_phenotypes": [
+          "Agranulocytosis"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P05177": {
+      "C0917801": {
+        "uniprot": "P05177",
+        "umls": "C0917801",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "caffeine"
+        ],
+        "examples_phenotypes": [
+          "Insomnia"
+        ],
+        "best_level": "3"
+      },
+      "C0027051": {
+        "uniprot": "P05177",
+        "umls": "C0027051",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "caffeine"
+        ],
+        "examples_phenotypes": [
+          "Myocardial Infarction"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P18074": {
+      "C0002871": {
+        "uniprot": "P18074",
+        "umls": "C0002871",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bleomycin;cisplatin;etoposide"
+        ],
+        "examples_phenotypes": [
+          "Anemia"
+        ],
+        "best_level": "3"
+      },
+      "C0002170": {
+        "uniprot": "P18074",
+        "umls": "C0002170",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bleomycin;cisplatin;etoposide"
+        ],
+        "examples_phenotypes": [
+          "Alopecia"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P18074",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 5,
+        "examples_drugs": [
+          "Platinum compounds"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P18074",
+        "umls": "C0006145",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "docetaxel"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "4"
+      },
+      "C0023530": {
+        "uniprot": "P18074",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bleomycin;cisplatin;etoposide"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O95264": {
+      "C0231528": {
+        "uniprot": "O95264",
+        "umls": "C0231528",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atorvastatin;pravastatin;simvastatin"
+        ],
+        "examples_phenotypes": [
+          "Myalgia"
+        ],
+        "best_level": "3"
+      },
+      "C0004936": {
+        "uniprot": "O95264",
+        "umls": "C0004936",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "paroxetine"
+        ],
+        "examples_phenotypes": [
+          "Mental Disorders"
+        ],
+        "best_level": "4"
+      }
+    },
+    "P34969": {
+      "C0231528": {
+        "uniprot": "P34969",
+        "umls": "C0231528",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atorvastatin;hmg coa reductase inhibitors;pravastatin;simvastatin"
+        ],
+        "examples_phenotypes": [
+          "Myalgia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P08684": {
+      "C0006145": {
+        "uniprot": "P08684",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "cyclophosphamide",
+          "paclitaxel",
+          "tamoxifen"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0002170": {
+        "uniprot": "P08684",
+        "umls": "C0002170",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bleomycin;cisplatin;etoposide"
+        ],
+        "examples_phenotypes": [
+          "Alopecia"
+        ],
+        "best_level": "3"
+      },
+      "C0747102": {
+        "uniprot": "P08684",
+        "umls": "C0747102",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Ovarian Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0003467": {
+        "uniprot": "P08684",
+        "umls": "C0003467",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "alprazolam"
+        ],
+        "examples_phenotypes": [
+          "Anxiety Disorders"
+        ],
+        "best_level": "3"
+      },
+      "C0151766": {
+        "uniprot": "P08684",
+        "umls": "C0151766",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tacrolimus"
+        ],
+        "examples_phenotypes": [
+          "Liver transplantation"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P00374": {
+      "C0948089": {
+        "uniprot": "P00374",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P00374",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Drug-induced liver injury"
+        ],
+        "best_level": "3"
+      },
+      "C0023530": {
+        "uniprot": "P00374",
+        "umls": "C0023530",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Leukopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0040034": {
+        "uniprot": "P00374",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "P00374",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "pemetrexed"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q16873": {
+      "C0042109": {
+        "uniprot": "Q16873",
+        "umls": "C0042109",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Urticaria"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P10632": {
+      "C0016655": {
+        "uniprot": "P10632",
+        "umls": "C0016655",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Bisphosphonates;pamidronate;zoledronate"
+        ],
+        "examples_phenotypes": [
+          "Multiple Myeloma"
+        ],
+        "best_level": "4"
+      },
+      "C0029445": {
+        "uniprot": "P10632",
+        "umls": "C0029445",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Bisphosphonates;pamidronate;zoledronate"
+        ],
+        "examples_phenotypes": [
+          "Osteonecrosis"
+        ],
+        "best_level": "4"
+      },
+      "C0687133": {
+        "uniprot": "P10632",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0006145": {
+        "uniprot": "P10632",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil",
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P10632",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil",
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0014518": {
+        "uniprot": "P10632",
+        "umls": "C0014518",
+        "max_evidence_score": 1,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "4"
+      },
+      "C0024305": {
+        "uniprot": "P10632",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "carboplatin;gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0040034": {
+        "uniprot": "P10632",
+        "umls": "C0040034",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "carboplatin;gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Thrombocytopenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P13945": {
+      "C0043094": {
+        "uniprot": "P13945",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "olanzapine"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P14902": {
+      "C0023473": {
+        "uniprot": "P14902",
+        "umls": "C0023473",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "interferon alfa-2a, recombinant;peginterferon alfa-2b"
+        ],
+        "examples_phenotypes": [
+          "Chronic hepatitis C virus infection"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P29274": {
+      "C0003467": {
+        "uniprot": "P29274",
+        "umls": "C0003467",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "caffeine"
+        ],
+        "examples_phenotypes": [
+          "Anxiety Disorders"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P17252": {
+      "C0020538": {
+        "uniprot": "P17252",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "bevacizumab"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O15245": {
+      "C0687713": {
+        "uniprot": "O15245",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "imatinib",
+          "metformin"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal Stromal Tumors",
+          "Gastrointestinal toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0011849": {
+        "uniprot": "O15245",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "metformin"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P43220": {
+      "C0043094": {
+        "uniprot": "P43220",
+        "umls": "C0043094",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "olanzapine",
+          "clozapine"
+        ],
+        "examples_phenotypes": [
+          "Weight gain"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P11388": {
+      "C0006145": {
+        "uniprot": "P11388",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P11388",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P06213": {
+      "C0006145": {
+        "uniprot": "P06213",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P06213",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "cyclophosphamide;epirubicin;fluorouracil"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P11712": {
+      "C0019080": {
+        "uniprot": "P11712",
+        "umls": "C0019080",
+        "max_evidence_score": 6,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "acenocoumarol",
+          "warfarin"
+        ],
+        "examples_phenotypes": [
+          "Hemorrhage"
+        ],
+        "best_level": "1A"
+      },
+      "C0011849": {
+        "uniprot": "P11712",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sulfonamides, urea derivatives"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P11712",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "phenytoin"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      },
+      "C0038325": {
+        "uniprot": "P11712",
+        "umls": "C0038325",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "phenytoin"
+        ],
+        "examples_phenotypes": [
+          "Stevens-Johnson Syndrome"
+        ],
+        "best_level": "3"
+      },
+      "C0013395": {
+        "uniprot": "P11712",
+        "umls": "C0013395",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ketoprofen"
+        ],
+        "examples_phenotypes": [
+          "Dyspepsia"
+        ],
+        "best_level": "3"
+      },
+      "C0030193": {
+        "uniprot": "P11712",
+        "umls": "C0030193",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ketoprofen"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "3"
+      },
+      "C0041296": {
+        "uniprot": "P11712",
+        "umls": "C0041296",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "ethambutol;isoniazid;pyrazinamide;rifampin"
+        ],
+        "examples_phenotypes": [
+          "Tuberculosis"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P11511": {
+      "C0006145": {
+        "uniprot": "P11511",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "exemestane",
+          "exemestane;letrozole",
+          "anastrozole"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P32298": {
+      "C0010072": {
+        "uniprot": "P32298",
+        "umls": "C0010072",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atenolol;verapamil"
+        ],
+        "examples_phenotypes": [
+          "Coronary Artery Disease"
+        ],
+        "best_level": "3"
+      },
+      "C0020538": {
+        "uniprot": "P32298",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atenolol;verapamil"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P17861": {
+      "C0024305": {
+        "uniprot": "P17861",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Platinum compounds"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q92731": {
+      "C0006145": {
+        "uniprot": "Q92731",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "letrozole"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P35354": {
+      "C0020538": {
+        "uniprot": "P35354",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atenolol"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P12821": {
+      "C0004096": {
+        "uniprot": "P12821",
+        "umls": "C0004096",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Asthma"
+        ],
+        "best_level": "3"
+      },
+      "C0011849": {
+        "uniprot": "P12821",
+        "umls": "C0011849",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Thiazides, plain"
+        ],
+        "examples_phenotypes": [
+          "Diabetes Mellitus"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O95819": {
+      "C0006145": {
+        "uniprot": "O95819",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "anastrozole;exemestane"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q05586": {
+      "C0033975": {
+        "uniprot": "Q05586",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "methamphetamine"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P10827": {
+      "C0004096": {
+        "uniprot": "P10827",
+        "umls": "C0004096",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Asthma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P32297": {
+      "C0030193": {
+        "uniprot": "P32297",
+        "umls": "C0030193",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Opium alkaloids and derivatives"
+        ],
+        "examples_phenotypes": [
+          "Pain"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P10145": {
+      "C0035078": {
+        "uniprot": "P10145",
+        "umls": "C0035078",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sunitinib"
+        ],
+        "examples_phenotypes": [
+          "Renal Cell Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P35462": {
+      "C0687713": {
+        "uniprot": "P35462",
+        "umls": "C0687713",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "levodopa"
+        ],
+        "examples_phenotypes": [
+          "Gastrointestinal toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O00337": {
+      "C0027947": {
+        "uniprot": "O00337",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      },
+      "C0024305": {
+        "uniprot": "O00337",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gemcitabine"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P07550": {
+      "C0020538": {
+        "uniprot": "P07550",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "atenolol;metoprolol"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q14994": {
+      "C0002871": {
+        "uniprot": "Q14994",
+        "umls": "C0002871",
+        "max_evidence_score": 2,
+        "n_annotations": 4,
+        "examples_drugs": [
+          "docetaxel"
+        ],
+        "examples_phenotypes": [
+          "Anemia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "Q14994",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "docetaxel"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P01584": {
+      "C0024305": {
+        "uniprot": "P01584",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "Platinum compounds"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P35968": {
+      "C0020538": {
+        "uniprot": "P35968",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      },
+      "C0687133": {
+        "uniprot": "P35968",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 2,
+        "examples_drugs": [
+          "sorafenib",
+          "regorafenib"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q05940": {
+      "C0033975": {
+        "uniprot": "Q05940",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "antipsychotics"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P42336": {
+      "C0024305": {
+        "uniprot": "P42336",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;cisplatin"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q04609": {
+      "C0948089": {
+        "uniprot": "Q04609",
+        "umls": "C0948089",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "mercaptopurine;methotrexate"
+        ],
+        "examples_phenotypes": [
+          "Acute lymphoblastic leukemia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q15788": {
+      "C0006145": {
+        "uniprot": "Q15788",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "tamoxifen"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O43868": {
+      "C0019158": {
+        "uniprot": "O43868",
+        "umls": "C0019158",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "peginterferon alfa-2b;protease inhibitors;ribavirin"
+        ],
+        "examples_phenotypes": [
+          "Hepatitis C virus infection"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P24557": {
+      "C0004096": {
+        "uniprot": "P24557",
+        "umls": "C0004096",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "aspirin"
+        ],
+        "examples_phenotypes": [
+          "Asthma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q9NPD5": {
+      "C0024305": {
+        "uniprot": "Q9NPD5",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0024115": {
+        "uniprot": "Q9NPD5",
+        "umls": "C0024115",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "carboplatin;paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Lung Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P05231": {
+      "C0023473": {
+        "uniprot": "P05231",
+        "umls": "C0023473",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "peginterferon alfa-2b;ribavirin"
+        ],
+        "examples_phenotypes": [
+          "Chronic hepatitis C virus infection"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P19793": {
+      "C0002871": {
+        "uniprot": "P19793",
+        "umls": "C0002871",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "docetaxel"
+        ],
+        "examples_phenotypes": [
+          "Anemia"
+        ],
+        "best_level": "3"
+      },
+      "C0027947": {
+        "uniprot": "P19793",
+        "umls": "C0027947",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "docetaxel"
+        ],
+        "examples_phenotypes": [
+          "Neutropenia"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P21554": {
+      "C0033975": {
+        "uniprot": "P21554",
+        "umls": "C0033975",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "risperidone"
+        ],
+        "examples_phenotypes": [
+          "Psychotic Disorder"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P54756": {
+      "C0006145": {
+        "uniprot": "P54756",
+        "umls": "C0006145",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Breast Neoplasms"
+        ],
+        "best_level": "3"
+      },
+      "C0747102": {
+        "uniprot": "P54756",
+        "umls": "C0747102",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "paclitaxel"
+        ],
+        "examples_phenotypes": [
+          "Ovarian Neoplasms"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O15244": {
+      "C0024305": {
+        "uniprot": "O15244",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "Platinum compounds"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q02156": {
+      "C0020538": {
+        "uniprot": "Q02156",
+        "umls": "C0020538",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Hypertension"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P52564": {
+      "C0687133": {
+        "uniprot": "P52564",
+        "umls": "C0687133",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "sorafenib"
+        ],
+        "examples_phenotypes": [
+          "Drug Toxicity"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P35367": {
+      "C0042109": {
+        "uniprot": "P35367",
+        "umls": "C0042109",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "desloratadine"
+        ],
+        "examples_phenotypes": [
+          "Urticaria"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q04206": {
+      "C0024305": {
+        "uniprot": "Q04206",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      },
+      "C0014518": {
+        "uniprot": "Q04206",
+        "umls": "C0014518",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Toxic liver disease"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q14164": {
+      "C0024305": {
+        "uniprot": "Q14164",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 3,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "O14920": {
+      "C0024305": {
+        "uniprot": "O14920",
+        "umls": "C0024305",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "gefitinib"
+        ],
+        "examples_phenotypes": [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        "best_level": "3"
+      }
+    },
+    "Q14432": {
+      "C0027497": {
+        "uniprot": "Q14432",
+        "umls": "C0027497",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "opioids"
+        ],
+        "examples_phenotypes": [
+          "Nausea"
+        ],
+        "best_level": "3"
+      },
+      "C0042963": {
+        "uniprot": "Q14432",
+        "umls": "C0042963",
+        "max_evidence_score": 2,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "opioids"
+        ],
+        "examples_phenotypes": [
+          "Vomiting"
+        ],
+        "best_level": "3"
+      }
+    },
+    "P00734": {
+      "C0042487": {
+        "uniprot": "P00734",
+        "umls": "C0042487",
+        "max_evidence_score": 3,
+        "n_annotations": 1,
+        "examples_drugs": [
+          "hormonal contraceptives for systemic use"
+        ],
+        "examples_phenotypes": [
+          "Venous Thrombosis"
+        ],
+        "best_level": "2B"
+      }
+    }
+  }
+}

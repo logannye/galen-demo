@@ -1,0 +1,165 @@
+{
+  "version": "1.0",
+  "rationale": "Synonym clusters for onc/immuno AE families. When multiple cluster members crowd top-K, collapse to representative. When GT is any cluster member, predicting any cluster member counts as a hit. Curated for AE families where pharma teams treat variants as one clinical concept.",
+  "clusters": {
+    "fungal_opportunistic_infection": {
+      "representative_umls": "C0029118",
+      "representative_name": "Opportunistic / fungal infection (any site)",
+      "member_umls": [
+        "C0029118",
+        "C0009450",
+        "C0026946",
+        "C0026769",
+        "C0006849",
+        "C0919659",
+        "C0239295",
+        "C0343886",
+        "C0343863",
+        "C0700345",
+        "C1609512",
+        "C2363741",
+        "C0011053",
+        "C0042164"
+      ]
+    },
+    "hepatic_injury": {
+      "representative_umls": "C0235378",
+      "representative_name": "Hepatic injury / dysfunction",
+      "member_umls": [
+        "C0235378",
+        "C0085605",
+        "C0019158",
+        "C0019163",
+        "C0235996",
+        "C0160390",
+        "C0267792",
+        "C0241910",
+        "C0023895",
+        "C0151766",
+        "C0080226",
+        "C0151903",
+        "C0151904",
+        "C0151905",
+        "C0438717",
+        "C0086565"
+      ]
+    },
+    "cardiac_failure_dysfunction": {
+      "representative_umls": "C0018802",
+      "representative_name": "Cardiac failure / LV dysfunction",
+      "member_umls": [
+        "C0018802",
+        "C0018801",
+        "C0242698",
+        "C0007194",
+        "C0007193",
+        "C0344440",
+        "C0344434",
+        "C0264714",
+        "C0878544"
+      ]
+    },
+    "pneumonitis_ild": {
+      "representative_umls": "C1279945",
+      "representative_name": "Pneumonitis / interstitial lung disease",
+      "member_umls": [
+        "C1279945",
+        "C0034069",
+        "C0206062",
+        "C0151746"
+      ]
+    },
+    "cutaneous_reaction": {
+      "representative_umls": "C0015230",
+      "representative_name": "Cutaneous reaction (rash / dermatitis)",
+      "member_umls": [
+        "C0015230",
+        "C0011603",
+        "C0014742",
+        "C0014518",
+        "C0038325",
+        "C2700346",
+        "C1740659",
+        "C0033581",
+        "C0234913",
+        "C0549410",
+        "C0033774",
+        "C0016436",
+        "C0001144",
+        "C0002170",
+        "C0027339",
+        "C0042963"
+      ]
+    },
+    "immune_mediated_colitis": {
+      "representative_umls": "C0009319",
+      "representative_name": "Immune-mediated colitis / enterocolitis",
+      "member_umls": [
+        "C0009319",
+        "C0009324",
+        "C0021368",
+        "C0011168",
+        "C0009806",
+        "C0030193"
+      ]
+    },
+    "endocrine_irae": {
+      "representative_umls": "C0001623",
+      "representative_name": "Endocrine immune-related AE",
+      "member_umls": [
+        "C0001623",
+        "C0001620",
+        "C0020538",
+        "C0020649",
+        "C0020456",
+        "C0020514",
+        "C0011854",
+        "C0011860",
+        "C0040128",
+        "C0596022",
+        "C0011880",
+        "C0853286",
+        "C0020550",
+        "C0020676",
+        "C0020635"
+      ]
+    },
+    "qt_prolongation_arrhythmia": {
+      "representative_umls": "C0151878",
+      "representative_name": "QT prolongation / cardiac rhythm disturbance",
+      "member_umls": [
+        "C0151878",
+        "C0040479",
+        "C0003811",
+        "C0085612",
+        "C0085610",
+        "C0085620",
+        "C0085675",
+        "C0152096",
+        "C0265279",
+        "C2939193"
+      ]
+    },
+    "thrombotic_event": {
+      "representative_umls": "C0042487",
+      "representative_name": "Thrombotic / thromboembolic event",
+      "member_umls": [
+        "C0042487",
+        "C0151942",
+        "C0034065",
+        "C0149871",
+        "C0151602",
+        "C0152114"
+      ]
+    },
+    "cytokine_release_irr": {
+      "representative_umls": "C2317799",
+      "representative_name": "Cytokine release / infusion reaction",
+      "member_umls": [
+        "C2317799",
+        "C2363741",
+        "C0009450"
+      ]
+    }
+  }
+}

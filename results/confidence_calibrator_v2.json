@@ -1,0 +1,23 @@
+{
+  "coeffs": {
+    "intercept": -1.513814026190916,
+    "hybrid_rank_inverse": 2.601104938189112,
+    "scm_rank_inverse": 0.516825328327458,
+    "llm_name_agrees": 0.0,
+    "override_applied": -1.546525575128857,
+    "drug_in_catalog": -0.569412057513593,
+    "top_target_alpha": -0.6779758404436371,
+    "n_evidence_sources_norm": -0.5084818803327332,
+    "in_scm_top3": 1.2327531199232427,
+    "target_class__kinase": -0.24214253895514257,
+    "target_class__gpcr": -0.21821808179843272,
+    "target_class__ion_channel": 0.4064461394330335,
+    "target_class__nuclear_recpt": 0.21414942007727286,
+    "target_class__immune": -0.18646867301056047,
+    "target_class__transporter": -0.5973178898915212,
+    "target_class__other": -0.7324000567419282
+  },
+  "n_train": 6305,
+  "version": 2,
+  "hit_rate": 0.2120539254559873
+}

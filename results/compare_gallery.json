@@ -1,0 +1,623 @@
+{
+  "n_series": 2,
+  "series": [
+    {
+      "id": "cdk46",
+      "name": "CDK4/6 inhibitors",
+      "indication": "HR+ HER2- metastatic breast cancer",
+      "context": "Three FDA-approved CDK4/6 inhibitors for hormone-receptor-positive breast cancer. All three engage CDK4/6 on-target; the differences in their off-target footprints drive divergent clinical safety profiles. This is exactly the triage decision a medicinal chemist or program lead would face when prioritising a candidate.",
+      "insight": "Same on-target mechanism, three distinct safety signatures. A program lead choosing between these three would face a real trade-off: palbociclib has the narrowest off-target profile but the deepest neutropenia; ribociclib adds cardiac risk; abemaciclib trades narrower neutropenia for GI + thromboembolic risk. The system surfaces this trade-off from SMILES alone.",
+      "compounds": [
+        {
+          "id": "palbociclib",
+          "name": "Palbociclib",
+          "trade_name": "Ibrance",
+          "manufacturer": "Pfizer",
+          "year_approved": 2015,
+          "known_profile_summary": "Most narrow off-target footprint; predominantly haematologic AEs (severe neutropenia is the dose-limiting tox).",
+          "smiles": "CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O",
+          "n_binding_targets": 20,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0027947",
+              "name": "Neutropenia"
+            },
+            {
+              "rank": 2,
+              "umls": "C0151878",
+              "name": "Electrocardiogram QT prolonged"
+            },
+            {
+              "rank": 3,
+              "umls": "C0750394",
+              "name": "White blood cell count decreased"
+            },
+            {
+              "rank": 4,
+              "umls": "C0002871",
+              "name": "Anaemia"
+            },
+            {
+              "rank": 5,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            },
+            {
+              "rank": 6,
+              "umls": "C0030312",
+              "name": "Pancytopenia"
+            },
+            {
+              "rank": 7,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 8,
+              "umls": "C0149871",
+              "name": "Deep vein thrombosis"
+            },
+            {
+              "rank": 9,
+              "umls": "C0746883",
+              "name": "Febrile neutropenia"
+            },
+            {
+              "rank": 10,
+              "umls": "C0003811",
+              "name": "Arrhythmia"
+            }
+          ],
+          "n_critical": 6,
+          "n_serious": 2,
+          "n_common": 2,
+          "critical_aes": [
+            {
+              "rank": 1,
+              "name": "Neutropenia",
+              "umls": "C0027947",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 5,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 6,
+              "name": "Pancytopenia",
+              "umls": "C0030312",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 7,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            },
+            {
+              "rank": 8,
+              "name": "Deep vein thrombosis",
+              "umls": "C0149871",
+              "organ": "Cardiac"
+            }
+          ],
+          "organ_counts": {
+            "Hematologic": 6,
+            "Cardiac": 3,
+            "Hepatic": 1
+          }
+        },
+        {
+          "id": "ribociclib",
+          "name": "Ribociclib",
+          "trade_name": "Kisqali",
+          "manufacturer": "Novartis",
+          "year_approved": 2017,
+          "known_profile_summary": "Carries FDA BBW for QT prolongation; class-wide neutropenia plus a distinct cardiac liability.",
+          "smiles": "CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1",
+          "n_binding_targets": 17,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0027947",
+              "name": "Neutropenia"
+            },
+            {
+              "rank": 2,
+              "umls": "C0023530",
+              "name": "Leukopenia"
+            },
+            {
+              "rank": 3,
+              "umls": "C0030312",
+              "name": "Pancytopenia"
+            },
+            {
+              "rank": 4,
+              "umls": "C0151878",
+              "name": "Electrocardiogram QT prolonged"
+            },
+            {
+              "rank": 5,
+              "umls": "C0746883",
+              "name": "Febrile neutropenia"
+            },
+            {
+              "rank": 6,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            },
+            {
+              "rank": 7,
+              "umls": "C0002871",
+              "name": "Anaemia"
+            },
+            {
+              "rank": 8,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 9,
+              "umls": "C0149871",
+              "name": "Deep vein thrombosis"
+            },
+            {
+              "rank": 10,
+              "umls": "C0032285",
+              "name": "Pneumonia"
+            }
+          ],
+          "n_critical": 6,
+          "n_serious": 3,
+          "n_common": 1,
+          "critical_aes": [
+            {
+              "rank": 1,
+              "name": "Neutropenia",
+              "umls": "C0027947",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 3,
+              "name": "Pancytopenia",
+              "umls": "C0030312",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 5,
+              "name": "Febrile neutropenia",
+              "umls": "C0746883",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 6,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 8,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            }
+          ],
+          "organ_counts": {
+            "Hematologic": 6,
+            "Cardiac": 2,
+            "Hepatic": 1,
+            "Pulmonary": 1
+          }
+        },
+        {
+          "id": "abemaciclib",
+          "name": "Abemaciclib",
+          "trade_name": "Verzenio",
+          "manufacturer": "Eli Lilly",
+          "year_approved": 2017,
+          "known_profile_summary": "Broader kinome engagement; BBW for venous thromboembolism, and severe diarrhea / hepatic injury alongside the class haematologic signal.",
+          "smiles": "CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1",
+          "n_binding_targets": 20,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0027947",
+              "name": "Neutropenia"
+            },
+            {
+              "rank": 2,
+              "umls": "C0151878",
+              "name": "Electrocardiogram QT prolonged"
+            },
+            {
+              "rank": 3,
+              "umls": "C0750394",
+              "name": "White blood cell count decreased"
+            },
+            {
+              "rank": 4,
+              "umls": "C0002871",
+              "name": "Anaemia"
+            },
+            {
+              "rank": 5,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            },
+            {
+              "rank": 6,
+              "umls": "C0030312",
+              "name": "Pancytopenia"
+            },
+            {
+              "rank": 7,
+              "umls": "C0746883",
+              "name": "Febrile neutropenia"
+            },
+            {
+              "rank": 8,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 9,
+              "umls": "C0149931",
+              "name": "Migraine"
+            },
+            {
+              "rank": 10,
+              "umls": "C0034065",
+              "name": "Pulmonary embolism"
+            }
+          ],
+          "n_critical": 6,
+          "n_serious": 1,
+          "n_common": 3,
+          "critical_aes": [
+            {
+              "rank": 1,
+              "name": "Neutropenia",
+              "umls": "C0027947",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 5,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 6,
+              "name": "Pancytopenia",
+              "umls": "C0030312",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 7,
+              "name": "Febrile neutropenia",
+              "umls": "C0746883",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 8,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            }
+          ],
+          "organ_counts": {
+            "Hematologic": 6,
+            "Cardiac": 1,
+            "Hepatic": 1,
+            "Neurologic / Psychiatric": 1,
+            "Pulmonary": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "vegfr_tkis",
+      "name": "VEGFR tyrosine-kinase inhibitors",
+      "indication": "Renal cell carcinoma, hepatocellular carcinoma, soft-tissue sarcoma",
+      "context": "Three FDA-approved multi-kinase inhibitors that all engage VEGFR2 (KDR) plus a range of other RTKs. Their off-target breadths vary widely \u2014 sunitinib is the most promiscuous, pazopanib the most narrow. Different off-target profiles drive different dose-limiting AEs.",
+      "insight": "All three engage VEGFR2 and predict the class-effect cardiovascular signal (hypertension, MACE). But the off-target breadth varies, and that variance drives the differentiated AE pattern: sunitinib's wider kinome \u2192 cardiotoxicity + hypothyroidism; pazopanib's narrower profile \u2192 cleaner CV story but a distinct hepatic + QT liability.",
+      "compounds": [
+        {
+          "id": "sunitinib",
+          "name": "Sunitinib",
+          "trade_name": "Sutent",
+          "manufacturer": "Pfizer",
+          "year_approved": 2006,
+          "known_profile_summary": "Most promiscuous VEGFR-TKI; hypertension, fatigue, hand-foot syndrome, hypothyroidism, and a distinct cardiotoxicity signal (LV dysfunction).",
+          "smiles": "CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\\C(=O)Nc3ccc(F)cc32)c1C",
+          "n_binding_targets": 20,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0030312",
+              "name": "Pancytopenia"
+            },
+            {
+              "rank": 2,
+              "umls": "C0027947",
+              "name": "Neutropenia"
+            },
+            {
+              "rank": 3,
+              "umls": "C0002871",
+              "name": "Anaemia"
+            },
+            {
+              "rank": 4,
+              "umls": "C0020538",
+              "name": "Hypertension"
+            },
+            {
+              "rank": 5,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 6,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            },
+            {
+              "rank": 7,
+              "umls": "C0031117",
+              "name": "Neuropathy peripheral"
+            },
+            {
+              "rank": 8,
+              "umls": "C0018801",
+              "name": "Cardiac failure"
+            },
+            {
+              "rank": 9,
+              "umls": "C0003811",
+              "name": "Arrhythmia"
+            },
+            {
+              "rank": 10,
+              "umls": "C0032285",
+              "name": "Pneumonia"
+            }
+          ],
+          "n_critical": 4,
+          "n_serious": 4,
+          "n_common": 2,
+          "critical_aes": [
+            {
+              "rank": 1,
+              "name": "Pancytopenia",
+              "umls": "C0030312",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 2,
+              "name": "Neutropenia",
+              "umls": "C0027947",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 5,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            },
+            {
+              "rank": 6,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            }
+          ],
+          "organ_counts": {
+            "Hematologic": 4,
+            "Cardiac": 3,
+            "Hepatic": 1,
+            "Neurologic / Psychiatric": 1,
+            "Pulmonary": 1
+          }
+        },
+        {
+          "id": "sorafenib",
+          "name": "Sorafenib",
+          "trade_name": "Nexavar",
+          "manufacturer": "Bayer",
+          "year_approved": 2005,
+          "known_profile_summary": "RAF + VEGFR-TKI; hypertension, hand-foot syndrome, GI bleeding. Used in HCC and RCC.",
+          "smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1",
+          "n_binding_targets": 20,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0020538",
+              "name": "Hypertension"
+            },
+            {
+              "rank": 2,
+              "umls": "C0549410",
+              "name": "Palmar-plantar erythrodysaesthesia syndrome"
+            },
+            {
+              "rank": 3,
+              "umls": "C0033687",
+              "name": "Proteinuria"
+            },
+            {
+              "rank": 4,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 5,
+              "umls": "C0019080",
+              "name": "Haemorrhage"
+            },
+            {
+              "rank": 6,
+              "umls": "C0015230",
+              "name": "Rash"
+            },
+            {
+              "rank": 7,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            },
+            {
+              "rank": 8,
+              "umls": "C0018801",
+              "name": "Cardiac failure"
+            },
+            {
+              "rank": 9,
+              "umls": "C0206062",
+              "name": "Interstitial lung disease"
+            },
+            {
+              "rank": 10,
+              "umls": "C0031117",
+              "name": "Neuropathy peripheral"
+            }
+          ],
+          "n_critical": 3,
+          "n_serious": 4,
+          "n_common": 3,
+          "critical_aes": [
+            {
+              "rank": 4,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            },
+            {
+              "rank": 5,
+              "name": "Haemorrhage",
+              "umls": "C0019080",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 7,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            }
+          ],
+          "organ_counts": {
+            "Cardiac": 2,
+            "Dermatologic": 2,
+            "Renal": 1,
+            "Hepatic": 1,
+            "Hematologic": 2,
+            "Pulmonary": 1,
+            "Neurologic / Psychiatric": 1
+          }
+        },
+        {
+          "id": "pazopanib",
+          "name": "Pazopanib",
+          "trade_name": "Votrient",
+          "manufacturer": "Novartis",
+          "year_approved": 2009,
+          "known_profile_summary": "Most selective VEGFR-TKI of the three; QT prolongation (BBW), hepatotoxicity (BBW), narrower kinome footprint.",
+          "smiles": "Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O",
+          "n_binding_targets": 20,
+          "top10_predictions": [
+            {
+              "rank": 1,
+              "umls": "C0020538",
+              "name": "Hypertension"
+            },
+            {
+              "rank": 2,
+              "umls": "C0235378",
+              "name": "Hepatotoxicity"
+            },
+            {
+              "rank": 3,
+              "umls": "C0018801",
+              "name": "Cardiac failure"
+            },
+            {
+              "rank": 4,
+              "umls": "C0027947",
+              "name": "Neutropenia"
+            },
+            {
+              "rank": 5,
+              "umls": "C0206062",
+              "name": "Interstitial lung disease"
+            },
+            {
+              "rank": 6,
+              "umls": "C0033687",
+              "name": "Proteinuria"
+            },
+            {
+              "rank": 7,
+              "umls": "C0019080",
+              "name": "Haemorrhage"
+            },
+            {
+              "rank": 8,
+              "umls": "C0151878",
+              "name": "Electrocardiogram QT prolonged"
+            },
+            {
+              "rank": 9,
+              "umls": "C0149745",
+              "name": "Mouth ulceration"
+            },
+            {
+              "rank": 10,
+              "umls": "C0040034",
+              "name": "Thrombocytopenia"
+            }
+          ],
+          "n_critical": 4,
+          "n_serious": 5,
+          "n_common": 1,
+          "critical_aes": [
+            {
+              "rank": 2,
+              "name": "Hepatotoxicity",
+              "umls": "C0235378",
+              "organ": "Hepatic"
+            },
+            {
+              "rank": 4,
+              "name": "Neutropenia",
+              "umls": "C0027947",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 7,
+              "name": "Haemorrhage",
+              "umls": "C0019080",
+              "organ": "Hematologic"
+            },
+            {
+              "rank": 10,
+              "name": "Thrombocytopenia",
+              "umls": "C0040034",
+              "organ": "Hematologic"
+            }
+          ],
+          "organ_counts": {
+            "Cardiac": 3,
+            "Hepatic": 1,
+            "Hematologic": 3,
+            "Pulmonary": 1,
+            "Renal": 1,
+            "Gastrointestinal": 1
+          }
+        }
+      ]
+    }
+  ]
+}

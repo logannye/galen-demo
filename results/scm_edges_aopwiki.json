@@ -1,0 +1,231 @@
+{
+  "n_unique_edges": 15,
+  "n_targets_with_edges": 7,
+  "edges": {
+    "Q07869": {
+      "C0232462": {
+        "uniprot": "Q07869",
+        "umls": "C0232462",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding of antagonist, PPAR alpha"
+        ],
+        "example_ao_titles": [
+          "Decreased, Body Weight"
+        ],
+        "example_aop_titles": [
+          "Antagonist binding to PPAR\u03b1 leading to body-weight loss"
+        ]
+      }
+    },
+    "P11511": {
+      "C0232462": {
+        "uniprot": "P11511",
+        "umls": "C0232462",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "reduction in ovarian granulosa cells, Aromatase (Cyp19a1)"
+        ],
+        "example_ao_titles": [
+          "decreased, Fertility"
+        ],
+        "example_aop_titles": [
+          "Aromatase (Cyp19a1) reduction leading to impaired fertility in adult female"
+        ]
+      }
+    },
+    "P22303": {
+      "C0232461": {
+        "uniprot": "P22303",
+        "umls": "C0232461",
+        "n_aops": 2,
+        "example_mie_titles": [
+          "Acetylcholinesterase (AchE) Inhibition"
+        ],
+        "example_ao_titles": [
+          "Increased Mortality"
+        ],
+        "example_aop_titles": [
+          "Acetylcholinesterase inhibition leading to acute mortality",
+          "Acetylcholinesterase Inhibition leading to Acute Mortality via Impaired Coordination & Movement\u200b"
+        ]
+      },
+      "C0278134": {
+        "uniprot": "P22303",
+        "umls": "C0278134",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Acetylcholinesterase (AchE) Inhibition"
+        ],
+        "example_ao_titles": [
+          "Sensory axonal peripheral neuropathy"
+        ],
+        "example_aop_titles": [
+          " Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality"
+        ]
+      }
+    },
+    "O95342": {
+      "C0008370": {
+        "uniprot": "O95342",
+        "umls": "C0008370",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Inhibition, Bile Salt Export Pump (ABCB11)"
+        ],
+        "example_ao_titles": [
+          "Cholestasis, Pathology"
+        ],
+        "example_aop_titles": [
+          "Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11)"
+        ]
+      }
+    },
+    "Q9BYF1": {
+      "C0024115": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0024115",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Induced dysregulation of ACE2"
+        ],
+        "example_ao_titles": [
+          "Lung fibrosis"
+        ],
+        "example_aop_titles": [
+          "Binding to ACE2 leading to lung fibrosis"
+        ]
+      },
+      "C0232461": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0232461",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "Increased Mortality"
+        ],
+        "example_aop_titles": [
+          "Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality"
+        ]
+      },
+      "C0040053": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0040053",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "Thrombosis and Disseminated Intravascular Coagulation"
+        ],
+        "example_aop_titles": [
+          "Binding to ACE2 leading to thrombosis and disseminated intravascular coagulation"
+        ]
+      },
+      "C0013378": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0013378",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "dysgeusia"
+        ],
+        "example_aop_titles": [
+          "Binding of viral S-glycoprotein to ACE2 receptor leading to dysgeusia"
+        ]
+      },
+      "C0151692": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0151692",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "impaired olfactory function (anosmia)"
+        ],
+        "example_aop_titles": [
+          "SARS-CoV-2 infection of olfactory epithelium leading to impaired olfactory function (short-term anosmia)"
+        ]
+      },
+      "C0038454": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0038454",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "Cerebrovascular disease (stroke)"
+        ],
+        "example_aop_titles": [
+          "Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on pericytes leads to disseminated intravascular coagulation resulting in cerebrovascular disease (stroke)"
+        ]
+      },
+      "C0027051": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0027051",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "Myocardial Infarction"
+        ],
+        "example_aop_titles": [
+          "SARS-CoV-2 spike protein binding to ACE2 receptors expressed on pericytes leads to endothelial cell dysfunction, microvascular injury and myocardial infarction. "
+        ]
+      },
+      "C0042769": {
+        "uniprot": "Q9BYF1",
+        "umls": "C0042769",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Binding to ACE2"
+        ],
+        "example_ao_titles": [
+          "Viral infection and host-to-host transmission, proliferated"
+        ],
+        "example_aop_titles": [
+          "Binding of SARS-CoV-2 to ACE2 leads to viral infection proliferation"
+        ]
+      }
+    },
+    "P12821": {
+      "C0023473": {
+        "uniprot": "P12821",
+        "umls": "C0023473",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Hyperactivation of ACE/Ang-II/AT1R axis"
+        ],
+        "example_ao_titles": [
+          "Chronic kidney disease"
+        ],
+        "example_aop_titles": [
+          "Hyperactivation of ACE/Ang-II/AT1R axis leading to chronic kidney disease "
+        ]
+      }
+    },
+    "Q9NR63": {
+      "C0232462": {
+        "uniprot": "Q9NR63",
+        "umls": "C0232462",
+        "n_aops": 1,
+        "example_mie_titles": [
+          "Inhibition of CYP26B1 activity"
+        ],
+        "example_ao_titles": [
+          "decreased, Fertility"
+        ],
+        "example_aop_titles": [
+          "Inhibition of CYP26B1 activity in fetal testis leading to reduced fertility"
+        ]
+      }
+    }
+  }
+}

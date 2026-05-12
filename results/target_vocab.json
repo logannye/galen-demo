@@ -1,0 +1,5580 @@
+{
+  "n_targets": 1115,
+  "targets": [
+    {
+      "uniprot": "P11229",
+      "gene_symbol": "CHRM1",
+      "target_pref_name": "Muscarinic acetylcholine receptor M1"
+    },
+    {
+      "uniprot": "P08172",
+      "gene_symbol": "CHRM2",
+      "target_pref_name": "Muscarinic acetylcholine receptor M2"
+    },
+    {
+      "uniprot": "P36544",
+      "gene_symbol": "CHRNA7",
+      "target_pref_name": "Neuronal acetylcholine receptor subunit alpha-7"
+    },
+    {
+      "uniprot": "P20309",
+      "gene_symbol": "CHRM3",
+      "target_pref_name": "Muscarinic acetylcholine receptor M3"
+    },
+    {
+      "uniprot": "P08173",
+      "gene_symbol": "CHRM4",
+      "target_pref_name": "Muscarinic acetylcholine receptor M4"
+    },
+    {
+      "uniprot": "P08912",
+      "gene_symbol": "CHRM5",
+      "target_pref_name": "Muscarinic acetylcholine receptor M5"
+    },
+    {
+      "uniprot": "P0DMS8",
+      "gene_symbol": "ADORA3",
+      "target_pref_name": "Adenosine receptor A3"
+    },
+    {
+      "uniprot": "P30542",
+      "gene_symbol": "ADORA1",
+      "target_pref_name": "Adenosine receptor A1"
+    },
+    {
+      "uniprot": "P29274",
+      "gene_symbol": "ADORA2A",
+      "target_pref_name": "Adenosine receptor A2a"
+    },
+    {
+      "uniprot": "O00337",
+      "gene_symbol": "SLC28A1",
+      "target_pref_name": "Sodium/nucleoside cotransporter 1"
+    },
+    {
+      "uniprot": "Q9HAS3",
+      "gene_symbol": "SLC28A3",
+      "target_pref_name": "Solute carrier family 28 member 3"
+    },
+    {
+      "uniprot": "O43318",
+      "gene_symbol": "MAP3K7",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 7"
+    },
+    {
+      "uniprot": "O43868",
+      "gene_symbol": "SLC28A2",
+      "target_pref_name": "Sodium/nucleoside cotransporter 2"
+    },
+    {
+      "uniprot": "P30926",
+      "gene_symbol": "CHRNB4",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha3/beta4"
+    },
+    {
+      "uniprot": "P32297",
+      "gene_symbol": "CHRNA3",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha3/beta4"
+    },
+    {
+      "uniprot": "P02708",
+      "gene_symbol": "CHRNA1",
+      "target_pref_name": "Acetylcholine receptor; alpha1/beta1/delta/gamma"
+    },
+    {
+      "uniprot": "P07510",
+      "gene_symbol": "CHRNG",
+      "target_pref_name": "Acetylcholine receptor; alpha1/beta1/delta/gamma"
+    },
+    {
+      "uniprot": "P11230",
+      "gene_symbol": "CHRNB1",
+      "target_pref_name": "Acetylcholine receptor; alpha1/beta1/delta/gamma"
+    },
+    {
+      "uniprot": "Q07001",
+      "gene_symbol": "CHRND",
+      "target_pref_name": "Acetylcholine receptor; alpha1/beta1/delta/gamma"
+    },
+    {
+      "uniprot": "P17787",
+      "gene_symbol": "CHRNB2",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha4/beta2"
+    },
+    {
+      "uniprot": "P43681",
+      "gene_symbol": "CHRNA4",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha4/beta2"
+    },
+    {
+      "uniprot": "Q01959",
+      "gene_symbol": "SLC6A3",
+      "target_pref_name": "Sodium-dependent dopamine transporter"
+    },
+    {
+      "uniprot": "P23975",
+      "gene_symbol": "SLC6A2",
+      "target_pref_name": "Sodium-dependent noradrenaline transporter"
+    },
+    {
+      "uniprot": "P08648",
+      "gene_symbol": "ITGA5",
+      "target_pref_name": "Integrin alpha-5/Neuronal acetylcholine receptor subunit alpha-3/Neuronal acetylcholine receptor subunit beta-2/Neuronal acetylcholine receptor subunit beta-4"
+    },
+    {
+      "uniprot": "P33261",
+      "gene_symbol": "CYP2C19",
+      "target_pref_name": "Cytochrome P450 2C19"
+    },
+    {
+      "uniprot": "Q92731",
+      "gene_symbol": "ESR2",
+      "target_pref_name": "Estrogen receptor beta"
+    },
+    {
+      "uniprot": "P03372",
+      "gene_symbol": "ESR1",
+      "target_pref_name": "Estrogen receptor"
+    },
+    {
+      "uniprot": "P04278",
+      "gene_symbol": "SHBG",
+      "target_pref_name": "Sex hormone-binding globulin"
+    },
+    {
+      "uniprot": "Q99527",
+      "gene_symbol": "GPER1",
+      "target_pref_name": "G-protein coupled estrogen receptor 1"
+    },
+    {
+      "uniprot": "O95718",
+      "gene_symbol": "ESRRB",
+      "target_pref_name": "Steroid hormone receptor ERR2"
+    },
+    {
+      "uniprot": "P11474",
+      "gene_symbol": "ESRRA",
+      "target_pref_name": "Steroid hormone receptor ERR1"
+    },
+    {
+      "uniprot": "Q06278",
+      "gene_symbol": "AOX1",
+      "target_pref_name": "Aldehyde oxidase"
+    },
+    {
+      "uniprot": "P10275",
+      "gene_symbol": "AR",
+      "target_pref_name": "Androgen receptor"
+    },
+    {
+      "uniprot": "P50225",
+      "gene_symbol": "SULT1A1",
+      "target_pref_name": "Sulfotransferase 1A1"
+    },
+    {
+      "uniprot": "Q16678",
+      "gene_symbol": "CYP1B1",
+      "target_pref_name": "Cytochrome P450 1B1"
+    },
+    {
+      "uniprot": "O75751",
+      "gene_symbol": "SLC22A3",
+      "target_pref_name": "Solute carrier family 22 member 3"
+    },
+    {
+      "uniprot": "P31645",
+      "gene_symbol": "SLC6A4",
+      "target_pref_name": "Sodium-dependent serotonin transporter"
+    },
+    {
+      "uniprot": "O15245",
+      "gene_symbol": "SLC22A1",
+      "target_pref_name": "Solute carrier family 22 member 1"
+    },
+    {
+      "uniprot": "P08185",
+      "gene_symbol": "SERPINA6",
+      "target_pref_name": "Corticosteroid-binding globulin"
+    },
+    {
+      "uniprot": "P14416",
+      "gene_symbol": "DRD2",
+      "target_pref_name": "D(2) dopamine receptor"
+    },
+    {
+      "uniprot": "P21917",
+      "gene_symbol": "DRD4",
+      "target_pref_name": "D(4) dopamine receptor"
+    },
+    {
+      "uniprot": "P35462",
+      "gene_symbol": "DRD3",
+      "target_pref_name": "D(3) dopamine receptor"
+    },
+    {
+      "uniprot": "P21728",
+      "gene_symbol": "DRD1",
+      "target_pref_name": "D(1A) dopamine receptor"
+    },
+    {
+      "uniprot": "P21918",
+      "gene_symbol": "DRD5",
+      "target_pref_name": "D(1B) dopamine receptor"
+    },
+    {
+      "uniprot": "P37840",
+      "gene_symbol": "SNCA",
+      "target_pref_name": "Alpha-synuclein"
+    },
+    {
+      "uniprot": "B2RXH2",
+      "gene_symbol": "KDM4E",
+      "target_pref_name": "Lysine-specific demethylase 4E"
+    },
+    {
+      "uniprot": "P48039",
+      "gene_symbol": "MTNR1A",
+      "target_pref_name": "Melatonin receptor type 1A"
+    },
+    {
+      "uniprot": "P49286",
+      "gene_symbol": "MTNR1B",
+      "target_pref_name": "Melatonin receptor type 1B"
+    },
+    {
+      "uniprot": "P14061",
+      "gene_symbol": "HSD17B1",
+      "target_pref_name": "17-beta-hydroxysteroid dehydrogenase type 1"
+    },
+    {
+      "uniprot": "P11511",
+      "gene_symbol": "CYP19A1",
+      "target_pref_name": "Aromatase"
+    },
+    {
+      "uniprot": "Q9UNQ0",
+      "gene_symbol": "ABCG2",
+      "target_pref_name": "Broad substrate specificity ATP-binding cassette transporter ABCG2"
+    },
+    {
+      "uniprot": "P41595",
+      "gene_symbol": "HTR2B",
+      "target_pref_name": "5-hydroxytryptamine receptor 2B"
+    },
+    {
+      "uniprot": "P28472",
+      "gene_symbol": "GABRB3",
+      "target_pref_name": "Gamma-aminobutyric acid receptor subunit beta-3"
+    },
+    {
+      "uniprot": "Q16445",
+      "gene_symbol": "GABRA6",
+      "target_pref_name": "Gamma-aminobutyric acid receptor subunit alpha-6/beta-3"
+    },
+    {
+      "uniprot": "P18507",
+      "gene_symbol": "GABRG2",
+      "target_pref_name": "GABA-A receptor; alpha-6/beta-3/gamma-2"
+    },
+    {
+      "uniprot": "P14867",
+      "gene_symbol": "GABRA1",
+      "target_pref_name": "GABA-A receptor alpha-1/beta-3"
+    },
+    {
+      "uniprot": "P18505",
+      "gene_symbol": "GABRB1",
+      "target_pref_name": "GABA A receptor alpha-1/beta-1/gamma-2"
+    },
+    {
+      "uniprot": "P24046",
+      "gene_symbol": "GABRR1",
+      "target_pref_name": "Gamma-aminobutyric acid receptor subunit rho-1"
+    },
+    {
+      "uniprot": "Q9H3N8",
+      "gene_symbol": "HRH4",
+      "target_pref_name": "Histamine H4 receptor"
+    },
+    {
+      "uniprot": "Q9Y5N1",
+      "gene_symbol": "HRH3",
+      "target_pref_name": "Histamine H3 receptor"
+    },
+    {
+      "uniprot": "P35367",
+      "gene_symbol": "HRH1",
+      "target_pref_name": "Histamine H1 receptor"
+    },
+    {
+      "uniprot": "P25021",
+      "gene_symbol": "HRH2",
+      "target_pref_name": "Histamine H2 receptor"
+    },
+    {
+      "uniprot": "P08913",
+      "gene_symbol": "ADRA2A",
+      "target_pref_name": "Alpha-2A adrenergic receptor"
+    },
+    {
+      "uniprot": "P07550",
+      "gene_symbol": "ADRB2",
+      "target_pref_name": "Beta-2 adrenergic receptor"
+    },
+    {
+      "uniprot": "P25100",
+      "gene_symbol": "ADRA1D",
+      "target_pref_name": "Alpha-1D adrenergic receptor"
+    },
+    {
+      "uniprot": "P18825",
+      "gene_symbol": "ADRA2C",
+      "target_pref_name": "Alpha-2C adrenergic receptor"
+    },
+    {
+      "uniprot": "P18089",
+      "gene_symbol": "ADRA2B",
+      "target_pref_name": "Alpha-2B adrenergic receptor"
+    },
+    {
+      "uniprot": "P35348",
+      "gene_symbol": "ADRA1A",
+      "target_pref_name": "Alpha-1A adrenergic receptor"
+    },
+    {
+      "uniprot": "P16083",
+      "gene_symbol": "NQO2",
+      "target_pref_name": "Ribosyldihydronicotinamide dehydrogenase [quinone]"
+    },
+    {
+      "uniprot": "P05164",
+      "gene_symbol": "MPO",
+      "target_pref_name": "Myeloperoxidase"
+    },
+    {
+      "uniprot": "Q15822",
+      "gene_symbol": "CHRNA2",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha2/beta2"
+    },
+    {
+      "uniprot": "Q15825",
+      "gene_symbol": "CHRNA6",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha3/alpha6/beta2/beta3"
+    },
+    {
+      "uniprot": "Q05901",
+      "gene_symbol": "CHRNB3",
+      "target_pref_name": "Neuronal acetylcholine receptor; alpha3/alpha6/beta2/beta3"
+    },
+    {
+      "uniprot": "P11509",
+      "gene_symbol": "CYP2A6",
+      "target_pref_name": "Cytochrome P450 2A6"
+    },
+    {
+      "uniprot": "P10635",
+      "gene_symbol": "CYP2D6",
+      "target_pref_name": "Cytochrome P450 2D6"
+    },
+    {
+      "uniprot": "Q12809",
+      "gene_symbol": "KCNH2",
+      "target_pref_name": "Voltage-gated inwardly rectifying potassium channel KCNH2"
+    },
+    {
+      "uniprot": "P08183",
+      "gene_symbol": "ABCB1",
+      "target_pref_name": "ATP-dependent translocase ABCB1"
+    },
+    {
+      "uniprot": "P06276",
+      "gene_symbol": "BCHE",
+      "target_pref_name": "Cholinesterase"
+    },
+    {
+      "uniprot": "Q14524",
+      "gene_symbol": "SCN5A",
+      "target_pref_name": "Sodium channel protein type 5 subunit alpha"
+    },
+    {
+      "uniprot": "P22460",
+      "gene_symbol": "KCNA5",
+      "target_pref_name": "Potassium voltage-gated channel subfamily A member 5"
+    },
+    {
+      "uniprot": "P42330",
+      "gene_symbol": "AKR1C3",
+      "target_pref_name": "Aldo-keto reductase family 1 member C3"
+    },
+    {
+      "uniprot": "P23219",
+      "gene_symbol": "PTGS1",
+      "target_pref_name": "Prostaglandin G/H synthase 1"
+    },
+    {
+      "uniprot": "P35354",
+      "gene_symbol": "PTGS2",
+      "target_pref_name": "Prostaglandin G/H synthase 2"
+    },
+    {
+      "uniprot": "P52895",
+      "gene_symbol": "AKR1C2",
+      "target_pref_name": "Aldo-keto reductase family 1 member C2"
+    },
+    {
+      "uniprot": "Q4U2R8",
+      "gene_symbol": "SLC22A6",
+      "target_pref_name": "Solute carrier family 22 member 6"
+    },
+    {
+      "uniprot": "P11388",
+      "gene_symbol": "TOP2A",
+      "target_pref_name": "DNA topoisomerase 2-alpha"
+    },
+    {
+      "uniprot": "O14965",
+      "gene_symbol": "AURKA",
+      "target_pref_name": "Aurora kinase A"
+    },
+    {
+      "uniprot": "Q15125",
+      "gene_symbol": "EBP",
+      "target_pref_name": "Anti-estrogen binding site (AEBS)"
+    },
+    {
+      "uniprot": "Q9UBM7",
+      "gene_symbol": "DHCR7",
+      "target_pref_name": "Anti-estrogen binding site (AEBS)"
+    },
+    {
+      "uniprot": "Q02880",
+      "gene_symbol": "TOP2B",
+      "target_pref_name": "DNA topoisomerase 2-beta"
+    },
+    {
+      "uniprot": "P08253",
+      "gene_symbol": "MMP2",
+      "target_pref_name": "72 kDa type IV collagenase"
+    },
+    {
+      "uniprot": "P04626",
+      "gene_symbol": "ERBB2",
+      "target_pref_name": "Receptor tyrosine-protein kinase erbB-2"
+    },
+    {
+      "uniprot": "P11387",
+      "gene_symbol": "TOP1",
+      "target_pref_name": "DNA topoisomerase 1"
+    },
+    {
+      "uniprot": "Q9NZ45",
+      "gene_symbol": "CISD1",
+      "target_pref_name": "CDGSH iron-sulfur domain-containing protein 1"
+    },
+    {
+      "uniprot": "P06241",
+      "gene_symbol": "FYN",
+      "target_pref_name": "Tyrosine-protein kinase Fyn"
+    },
+    {
+      "uniprot": "P12955",
+      "gene_symbol": "PEPD",
+      "target_pref_name": "Xaa-Pro dipeptidase"
+    },
+    {
+      "uniprot": "Q04609",
+      "gene_symbol": "FOLH1",
+      "target_pref_name": "Glutamate carboxypeptidase 2"
+    },
+    {
+      "uniprot": "Q16790",
+      "gene_symbol": "CA9",
+      "target_pref_name": "Carbonic anhydrase 9"
+    },
+    {
+      "uniprot": "P07451",
+      "gene_symbol": "CA3",
+      "target_pref_name": "Carbonic anhydrase 3"
+    },
+    {
+      "uniprot": "P43166",
+      "gene_symbol": "CA7",
+      "target_pref_name": "Carbonic anhydrase 7"
+    },
+    {
+      "uniprot": "O43570",
+      "gene_symbol": "CA12",
+      "target_pref_name": "Carbonic anhydrase 12"
+    },
+    {
+      "uniprot": "P00918",
+      "gene_symbol": "CA2",
+      "target_pref_name": "Carbonic anhydrase 2"
+    },
+    {
+      "uniprot": "P23280",
+      "gene_symbol": "CA6",
+      "target_pref_name": "Carbonic anhydrase 6"
+    },
+    {
+      "uniprot": "P00915",
+      "gene_symbol": "CA1",
+      "target_pref_name": "Carbonic anhydrase 1"
+    },
+    {
+      "uniprot": "Q8N1Q1",
+      "gene_symbol": "CA13",
+      "target_pref_name": "Carbonic anhydrase 13"
+    },
+    {
+      "uniprot": "Q9ULX7",
+      "gene_symbol": "CA14",
+      "target_pref_name": "Carbonic anhydrase 14"
+    },
+    {
+      "uniprot": "Q9Y2D0",
+      "gene_symbol": "CA5B",
+      "target_pref_name": "Carbonic anhydrase 5B, mitochondrial"
+    },
+    {
+      "uniprot": "P35218",
+      "gene_symbol": "CA5A",
+      "target_pref_name": "Carbonic anhydrase 5A, mitochondrial"
+    },
+    {
+      "uniprot": "P22748",
+      "gene_symbol": "CA4",
+      "target_pref_name": "Carbonic anhydrase 4"
+    },
+    {
+      "uniprot": "P02144",
+      "gene_symbol": "MB",
+      "target_pref_name": "Myoglobin"
+    },
+    {
+      "uniprot": "O75493",
+      "gene_symbol": "CA11",
+      "target_pref_name": "Carbonic anhydrase-related protein 11"
+    },
+    {
+      "uniprot": "P35368",
+      "gene_symbol": "ADRA1B",
+      "target_pref_name": "Alpha-1B adrenergic receptor"
+    },
+    {
+      "uniprot": "P22303",
+      "gene_symbol": "ACHE",
+      "target_pref_name": "Acetylcholinesterase"
+    },
+    {
+      "uniprot": "P46098",
+      "gene_symbol": "HTR3A",
+      "target_pref_name": "5-hydroxytryptamine receptor 3A"
+    },
+    {
+      "uniprot": "P08684",
+      "gene_symbol": "CYP3A4",
+      "target_pref_name": "Cytochrome P450 3A4"
+    },
+    {
+      "uniprot": "P05177",
+      "gene_symbol": "CYP1A2",
+      "target_pref_name": "Cytochrome P450 1A2"
+    },
+    {
+      "uniprot": "P20813",
+      "gene_symbol": "CYP2B6",
+      "target_pref_name": "Cytochrome P450 2B6"
+    },
+    {
+      "uniprot": "P11712",
+      "gene_symbol": "CYP2C9",
+      "target_pref_name": "Cytochrome P450 2C9"
+    },
+    {
+      "uniprot": "P47870",
+      "gene_symbol": "GABRB2",
+      "target_pref_name": "GABA A receptor alpha-2/beta-2/gamma-2"
+    },
+    {
+      "uniprot": "P47869",
+      "gene_symbol": "GABRA2",
+      "target_pref_name": "GABA A receptor alpha-2/beta-2/gamma-2"
+    },
+    {
+      "uniprot": "P34903",
+      "gene_symbol": "GABRA3",
+      "target_pref_name": "GABA A receptor alpha-3/beta-2/gamma-2"
+    },
+    {
+      "uniprot": "P31644",
+      "gene_symbol": "GABRA5",
+      "target_pref_name": "Gamma-aminobutyric acid receptor subunit alpha-5/beta-2/gamma-2"
+    },
+    {
+      "uniprot": "O60885",
+      "gene_symbol": "BRD4",
+      "target_pref_name": "Bromodomain-containing protein 4"
+    },
+    {
+      "uniprot": "Q99720",
+      "gene_symbol": "SIGMAR1",
+      "target_pref_name": "Sigma non-opioid intracellular receptor 1"
+    },
+    {
+      "uniprot": "Q05586",
+      "gene_symbol": "GRIN1",
+      "target_pref_name": "Glutamate NMDA receptor; GRIN1/GRIN2A"
+    },
+    {
+      "uniprot": "Q12879",
+      "gene_symbol": "GRIN2A",
+      "target_pref_name": "Glutamate NMDA receptor; GRIN1/GRIN2A"
+    },
+    {
+      "uniprot": "P29275",
+      "gene_symbol": "ADORA2B",
+      "target_pref_name": "Adenosine receptor A2b"
+    },
+    {
+      "uniprot": "P28335",
+      "gene_symbol": "HTR2C",
+      "target_pref_name": "5-hydroxytryptamine receptor 2C"
+    },
+    {
+      "uniprot": "P10828",
+      "gene_symbol": "THRB",
+      "target_pref_name": "Thyroid hormone receptor beta"
+    },
+    {
+      "uniprot": "P10827",
+      "gene_symbol": "THRA",
+      "target_pref_name": "Thyroid hormone receptor alpha"
+    },
+    {
+      "uniprot": "P28223",
+      "gene_symbol": "HTR2A",
+      "target_pref_name": "5-hydroxytryptamine receptor 2A"
+    },
+    {
+      "uniprot": "P10632",
+      "gene_symbol": "CYP2C8",
+      "target_pref_name": "Cytochrome P450 2C8"
+    },
+    {
+      "uniprot": "P41143",
+      "gene_symbol": "OPRD1",
+      "target_pref_name": "Delta-type opioid receptor"
+    },
+    {
+      "uniprot": "P41597",
+      "gene_symbol": "CCR2",
+      "target_pref_name": "C-C chemokine receptor type 2"
+    },
+    {
+      "uniprot": "P21452",
+      "gene_symbol": "TACR2",
+      "target_pref_name": "Substance-K receptor"
+    },
+    {
+      "uniprot": "P41145",
+      "gene_symbol": "OPRK1",
+      "target_pref_name": "Kappa-type opioid receptor"
+    },
+    {
+      "uniprot": "P30411",
+      "gene_symbol": "BDKRB2",
+      "target_pref_name": "B2 bradykinin receptor"
+    },
+    {
+      "uniprot": "P35372",
+      "gene_symbol": "OPRM1",
+      "target_pref_name": "Mu-type opioid receptor"
+    },
+    {
+      "uniprot": "P37268",
+      "gene_symbol": "FDFT1",
+      "target_pref_name": "Squalene synthase"
+    },
+    {
+      "uniprot": "P33032",
+      "gene_symbol": "MC5R",
+      "target_pref_name": "Melanocortin receptor 5"
+    },
+    {
+      "uniprot": "P50406",
+      "gene_symbol": "HTR6",
+      "target_pref_name": "5-hydroxytryptamine receptor 6"
+    },
+    {
+      "uniprot": "O95342",
+      "gene_symbol": "ABCB11",
+      "target_pref_name": "Bile salt export pump"
+    },
+    {
+      "uniprot": "P34969",
+      "gene_symbol": "HTR7",
+      "target_pref_name": "5-hydroxytryptamine receptor 7"
+    },
+    {
+      "uniprot": "Q15858",
+      "gene_symbol": "SCN9A",
+      "target_pref_name": "Sodium channel protein type 9 subunit alpha"
+    },
+    {
+      "uniprot": "P07949",
+      "gene_symbol": "RET",
+      "target_pref_name": "Proto-oncogene tyrosine-protein kinase receptor Ret"
+    },
+    {
+      "uniprot": "P09874",
+      "gene_symbol": "PARP1",
+      "target_pref_name": "Poly [ADP-ribose] polymerase 1"
+    },
+    {
+      "uniprot": "Q99250",
+      "gene_symbol": "SCN2A",
+      "target_pref_name": "Sodium channel protein type 2 subunit alpha"
+    },
+    {
+      "uniprot": "Q9UHD2",
+      "gene_symbol": "TBK1",
+      "target_pref_name": "Serine/threonine-protein kinase TBK1"
+    },
+    {
+      "uniprot": "O15439",
+      "gene_symbol": "ABCC4",
+      "target_pref_name": "ATP-binding cassette sub-family C member 4"
+    },
+    {
+      "uniprot": "Q14164",
+      "gene_symbol": "IKBKE",
+      "target_pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit epsilon"
+    },
+    {
+      "uniprot": "O95069",
+      "gene_symbol": "KCNK2",
+      "target_pref_name": "Potassium channel subfamily K member 2"
+    },
+    {
+      "uniprot": "Q13936",
+      "gene_symbol": "CACNA1C",
+      "target_pref_name": "Voltage-dependent L-type calcium channel subunit alpha-1C"
+    },
+    {
+      "uniprot": "P08908",
+      "gene_symbol": "HTR1A",
+      "target_pref_name": "5-hydroxytryptamine receptor 1A"
+    },
+    {
+      "uniprot": "P20815",
+      "gene_symbol": "CYP3A5",
+      "target_pref_name": "Cytochrome P450 3A5"
+    },
+    {
+      "uniprot": "P24557",
+      "gene_symbol": "TBXAS1",
+      "target_pref_name": "Thromboxane-A synthase"
+    },
+    {
+      "uniprot": "O60341",
+      "gene_symbol": "KDM1A",
+      "target_pref_name": "Lysine-specific histone demethylase 1A"
+    },
+    {
+      "uniprot": "Q00987",
+      "gene_symbol": "MDM2",
+      "target_pref_name": "E3 ubiquitin-protein ligase Mdm2"
+    },
+    {
+      "uniprot": "Q6XQN6",
+      "gene_symbol": "NAPRT",
+      "target_pref_name": "Nicotinate phosphoribosyltransferase"
+    },
+    {
+      "uniprot": "P05106",
+      "gene_symbol": "ITGB3",
+      "target_pref_name": "Integrin alpha-IIb/beta-3"
+    },
+    {
+      "uniprot": "P08514",
+      "gene_symbol": "ITGA2B",
+      "target_pref_name": "Integrin alpha-IIb/beta-3"
+    },
+    {
+      "uniprot": "P04035",
+      "gene_symbol": "HMGCR",
+      "target_pref_name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+    },
+    {
+      "uniprot": "Q9Y6L6",
+      "gene_symbol": "SLCO1B1",
+      "target_pref_name": "Solute carrier organic anion transporter family member 1B1"
+    },
+    {
+      "uniprot": "P08134",
+      "gene_symbol": "RHOC",
+      "target_pref_name": "Rho-related GTP-binding protein RhoC"
+    },
+    {
+      "uniprot": "P08235",
+      "gene_symbol": "NR3C2",
+      "target_pref_name": "Mineralocorticoid receptor"
+    },
+    {
+      "uniprot": "P04150",
+      "gene_symbol": "NR3C1",
+      "target_pref_name": "Glucocorticoid receptor"
+    },
+    {
+      "uniprot": "O15111",
+      "gene_symbol": "CHUK",
+      "target_pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit alpha"
+    },
+    {
+      "uniprot": "O14920",
+      "gene_symbol": "IKBKB",
+      "target_pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit beta"
+    },
+    {
+      "uniprot": "P06401",
+      "gene_symbol": "PGR",
+      "target_pref_name": "Progesterone receptor"
+    },
+    {
+      "uniprot": "P14555",
+      "gene_symbol": "PLA2G2A",
+      "target_pref_name": "Phospholipase A2, membrane associated"
+    },
+    {
+      "uniprot": "Q9Y2T6",
+      "gene_symbol": "GPR55",
+      "target_pref_name": "G-protein coupled receptor 55"
+    },
+    {
+      "uniprot": "P08588",
+      "gene_symbol": "ADRB1",
+      "target_pref_name": "Beta-1 adrenergic receptor"
+    },
+    {
+      "uniprot": "P14780",
+      "gene_symbol": "MMP9",
+      "target_pref_name": "Matrix metalloproteinase-9"
+    },
+    {
+      "uniprot": "P41146",
+      "gene_symbol": "OPRL1",
+      "target_pref_name": "Nociceptin receptor"
+    },
+    {
+      "uniprot": "Q96FL8",
+      "gene_symbol": "SLC47A1",
+      "target_pref_name": "Multidrug and toxin extrusion protein 1"
+    },
+    {
+      "uniprot": "Q9NTG7",
+      "gene_symbol": "SIRT3",
+      "target_pref_name": "NAD-dependent protein deacetylase sirtuin-3, mitochondrial"
+    },
+    {
+      "uniprot": "Q9Y466",
+      "gene_symbol": "NR2E1",
+      "target_pref_name": "Nuclear receptor subfamily 2 group E member 1"
+    },
+    {
+      "uniprot": "Q9Y2T3",
+      "gene_symbol": "GDA",
+      "target_pref_name": "Guanine deaminase"
+    },
+    {
+      "uniprot": "P33527",
+      "gene_symbol": "ABCC1",
+      "target_pref_name": "Multidrug resistance-associated protein 1"
+    },
+    {
+      "uniprot": "P22001",
+      "gene_symbol": "KCNA3",
+      "target_pref_name": "Potassium voltage-gated channel subfamily A member 3"
+    },
+    {
+      "uniprot": "P30556",
+      "gene_symbol": "AGTR1",
+      "target_pref_name": "Type-1 angiotensin II receptor"
+    },
+    {
+      "uniprot": "P13945",
+      "gene_symbol": "ADRB3",
+      "target_pref_name": "Beta-3 adrenergic receptor"
+    },
+    {
+      "uniprot": "P00533",
+      "gene_symbol": "EGFR",
+      "target_pref_name": "Epidermal growth factor receptor"
+    },
+    {
+      "uniprot": "Q8NER1",
+      "gene_symbol": "TRPV1",
+      "target_pref_name": "Transient receptor potential cation channel subfamily V member 1"
+    },
+    {
+      "uniprot": "Q7Z2W7",
+      "gene_symbol": "TRPM8",
+      "target_pref_name": "Transient receptor potential cation channel subfamily M member 8"
+    },
+    {
+      "uniprot": "P12821",
+      "gene_symbol": "ACE",
+      "target_pref_name": "Angiotensin-converting enzyme"
+    },
+    {
+      "uniprot": "P00797",
+      "gene_symbol": "REN",
+      "target_pref_name": "Renin"
+    },
+    {
+      "uniprot": "P00734",
+      "gene_symbol": "F2",
+      "target_pref_name": "Prothrombin"
+    },
+    {
+      "uniprot": "P09960",
+      "gene_symbol": "LTA4H",
+      "target_pref_name": "Leukotriene A-4 hydrolase"
+    },
+    {
+      "uniprot": "P06239",
+      "gene_symbol": "LCK",
+      "target_pref_name": "Tyrosine-protein kinase Lck"
+    },
+    {
+      "uniprot": "O15244",
+      "gene_symbol": "SLC22A2",
+      "target_pref_name": "Solute carrier family 22 member 2"
+    },
+    {
+      "uniprot": "P57789",
+      "gene_symbol": "KCNK10",
+      "target_pref_name": "Potassium channel subfamily K member 10"
+    },
+    {
+      "uniprot": "Q16348",
+      "gene_symbol": "SLC15A2",
+      "target_pref_name": "Solute carrier family 15 member 2"
+    },
+    {
+      "uniprot": "Q8TCC7",
+      "gene_symbol": "SLC22A8",
+      "target_pref_name": "Organic anion transporter 3"
+    },
+    {
+      "uniprot": "Q9NSA0",
+      "gene_symbol": "SLC22A11",
+      "target_pref_name": "Solute carrier family 22 member 11"
+    },
+    {
+      "uniprot": "P14920",
+      "gene_symbol": "DAO",
+      "target_pref_name": "D-amino-acid oxidase"
+    },
+    {
+      "uniprot": "P16050",
+      "gene_symbol": "ALOX15",
+      "target_pref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15"
+    },
+    {
+      "uniprot": "P00403",
+      "gene_symbol": "MT-CO2",
+      "target_pref_name": "Cytochrome c oxidase subunit 2"
+    },
+    {
+      "uniprot": "O14684",
+      "gene_symbol": "PTGES",
+      "target_pref_name": "Prostaglandin E synthase"
+    },
+    {
+      "uniprot": "Q9UBN7",
+      "gene_symbol": "HDAC6",
+      "target_pref_name": "Histone deacetylase 6"
+    },
+    {
+      "uniprot": "Q16539",
+      "gene_symbol": "MAPK14",
+      "target_pref_name": "Mitogen-activated protein kinase 14"
+    },
+    {
+      "uniprot": "Q13547",
+      "gene_symbol": "HDAC1",
+      "target_pref_name": "Histone deacetylase 1"
+    },
+    {
+      "uniprot": "P09917",
+      "gene_symbol": "ALOX5",
+      "target_pref_name": "Polyunsaturated fatty acid 5-lipoxygenase"
+    },
+    {
+      "uniprot": "Q86VL8",
+      "gene_symbol": "SLC47A2",
+      "target_pref_name": "Multidrug and toxin extrusion protein 2"
+    },
+    {
+      "uniprot": "P32245",
+      "gene_symbol": "MC4R",
+      "target_pref_name": "Melanocortin receptor 4"
+    },
+    {
+      "uniprot": "P61088",
+      "gene_symbol": "UBE2N",
+      "target_pref_name": "Ubiquitin-conjugating enzyme E2 N"
+    },
+    {
+      "uniprot": "Q2TB90",
+      "gene_symbol": "HKDC1",
+      "target_pref_name": "Hexokinase HKDC1"
+    },
+    {
+      "uniprot": "P49760",
+      "gene_symbol": "CLK2",
+      "target_pref_name": "Dual specificity protein kinase CLK2"
+    },
+    {
+      "uniprot": "O15056",
+      "gene_symbol": "SYNJ2",
+      "target_pref_name": "Synaptojanin-2"
+    },
+    {
+      "uniprot": "P42345",
+      "gene_symbol": "MTOR",
+      "target_pref_name": "Serine/threonine-protein kinase mTOR"
+    },
+    {
+      "uniprot": "Q5BJF2",
+      "gene_symbol": "TMEM97",
+      "target_pref_name": "Sigma intracellular receptor 2"
+    },
+    {
+      "uniprot": "Q9BYF1",
+      "gene_symbol": "ACE2",
+      "target_pref_name": "Angiotensin-converting enzyme 2"
+    },
+    {
+      "uniprot": "P05067",
+      "gene_symbol": "APP",
+      "target_pref_name": "Amyloid-beta precursor protein"
+    },
+    {
+      "uniprot": "P56817",
+      "gene_symbol": "BACE1",
+      "target_pref_name": "Beta-secretase 1"
+    },
+    {
+      "uniprot": "P0DP23",
+      "gene_symbol": "CALM1",
+      "target_pref_name": "Calmodulin-1"
+    },
+    {
+      "uniprot": "Q14432",
+      "gene_symbol": "PDE3A",
+      "target_pref_name": "cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A"
+    },
+    {
+      "uniprot": "Q13370",
+      "gene_symbol": "PDE3B",
+      "target_pref_name": "cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B"
+    },
+    {
+      "uniprot": "P20648",
+      "gene_symbol": "ATP4A",
+      "target_pref_name": "Potassium-transporting ATPase"
+    },
+    {
+      "uniprot": "P51164",
+      "gene_symbol": "ATP4B",
+      "target_pref_name": "Potassium-transporting ATPase"
+    },
+    {
+      "uniprot": "P27361",
+      "gene_symbol": "MAPK3",
+      "target_pref_name": "Mitogen-activated protein kinase 3"
+    },
+    {
+      "uniprot": "P25025",
+      "gene_symbol": "CXCR2",
+      "target_pref_name": "C-X-C chemokine receptor type 2"
+    },
+    {
+      "uniprot": "Q96P20",
+      "gene_symbol": "NLRP3",
+      "target_pref_name": "NACHT, LRR and PYD domains-containing protein 3"
+    },
+    {
+      "uniprot": "Q00975",
+      "gene_symbol": "CACNA1B",
+      "target_pref_name": "Voltage-dependent N-type calcium channel subunit alpha-1B"
+    },
+    {
+      "uniprot": "Q9Y2I1",
+      "gene_symbol": "NISCH",
+      "target_pref_name": "Nischarin"
+    },
+    {
+      "uniprot": "Q9H244",
+      "gene_symbol": "P2RY12",
+      "target_pref_name": "P2Y purinoceptor 12"
+    },
+    {
+      "uniprot": "O15554",
+      "gene_symbol": "KCNN4",
+      "target_pref_name": "Intermediate conductance calcium-activated potassium channel protein 4"
+    },
+    {
+      "uniprot": "Q14994",
+      "gene_symbol": "NR1I3",
+      "target_pref_name": "Nuclear receptor subfamily 1 group I member 3"
+    },
+    {
+      "uniprot": "P05093",
+      "gene_symbol": "CYP17A1",
+      "target_pref_name": "Steroid 17-alpha-hydroxylase/17,20 lyase"
+    },
+    {
+      "uniprot": "Q16850",
+      "gene_symbol": "CYP51A1",
+      "target_pref_name": "Lanosterol 14-alpha demethylase"
+    },
+    {
+      "uniprot": "Q9UNU6",
+      "gene_symbol": "CYP8B1",
+      "target_pref_name": "7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase"
+    },
+    {
+      "uniprot": "P55072",
+      "gene_symbol": "VCP",
+      "target_pref_name": "Transitional endoplasmic reticulum ATPase"
+    },
+    {
+      "uniprot": "P51679",
+      "gene_symbol": "CCR4",
+      "target_pref_name": "C-C chemokine receptor type 4"
+    },
+    {
+      "uniprot": "P25024",
+      "gene_symbol": "CXCR1",
+      "target_pref_name": "C-X-C chemokine receptor type 1"
+    },
+    {
+      "uniprot": "P30518",
+      "gene_symbol": "AVPR2",
+      "target_pref_name": "Vasopressin V2 receptor"
+    },
+    {
+      "uniprot": "O94759",
+      "gene_symbol": "TRPM2",
+      "target_pref_name": "Transient receptor potential cation channel subfamily M member 2"
+    },
+    {
+      "uniprot": "Q96RI1",
+      "gene_symbol": "NR1H4",
+      "target_pref_name": "Bile acid receptor"
+    },
+    {
+      "uniprot": "P25103",
+      "gene_symbol": "TACR1",
+      "target_pref_name": "Substance-P receptor"
+    },
+    {
+      "uniprot": "P47898",
+      "gene_symbol": "HTR5A",
+      "target_pref_name": "5-hydroxytryptamine receptor 5A"
+    },
+    {
+      "uniprot": "P28222",
+      "gene_symbol": "HTR1B",
+      "target_pref_name": "5-hydroxytryptamine receptor 1B"
+    },
+    {
+      "uniprot": "P28221",
+      "gene_symbol": "HTR1D",
+      "target_pref_name": "5-hydroxytryptamine receptor 1D"
+    },
+    {
+      "uniprot": "P28566",
+      "gene_symbol": "HTR1E",
+      "target_pref_name": "5-hydroxytryptamine receptor 1E"
+    },
+    {
+      "uniprot": "P11309",
+      "gene_symbol": "PIM1",
+      "target_pref_name": "Serine/threonine-protein kinase pim-1"
+    },
+    {
+      "uniprot": "P07437",
+      "gene_symbol": "TUBB",
+      "target_pref_name": "Tubulin beta-5 chain"
+    },
+    {
+      "uniprot": "Q8WTS6",
+      "gene_symbol": "SETD7",
+      "target_pref_name": "Histone-lysine N-methyltransferase SETD7"
+    },
+    {
+      "uniprot": "P51589",
+      "gene_symbol": "CYP2J2",
+      "target_pref_name": "Cytochrome P450 2J2"
+    },
+    {
+      "uniprot": "O75164",
+      "gene_symbol": "KDM4A",
+      "target_pref_name": "Lysine-specific demethylase 4A"
+    },
+    {
+      "uniprot": "O15550",
+      "gene_symbol": "KDM6A",
+      "target_pref_name": "Lysine-specific demethylase 6A"
+    },
+    {
+      "uniprot": "Q9BU89",
+      "gene_symbol": "DOHH",
+      "target_pref_name": "Deoxyhypusine hydroxylase"
+    },
+    {
+      "uniprot": "P41229",
+      "gene_symbol": "KDM5C",
+      "target_pref_name": "Lysine-specific demethylase 5C"
+    },
+    {
+      "uniprot": "Q9Y2K7",
+      "gene_symbol": "KDM2A",
+      "target_pref_name": "Lysine-specific demethylase 2A"
+    },
+    {
+      "uniprot": "Q8NHM5",
+      "gene_symbol": "KDM2B",
+      "target_pref_name": "Lysine-specific demethylase 2B"
+    },
+    {
+      "uniprot": "Q04828",
+      "gene_symbol": "AKR1C1",
+      "target_pref_name": "Aldo-keto reductase family 1 member C1"
+    },
+    {
+      "uniprot": "P10145",
+      "gene_symbol": "CXCL8",
+      "target_pref_name": "Interleukin-8"
+    },
+    {
+      "uniprot": "P02766",
+      "gene_symbol": "TTR",
+      "target_pref_name": "Transthyretin"
+    },
+    {
+      "uniprot": "O60218",
+      "gene_symbol": "AKR1B10",
+      "target_pref_name": "Aldo-keto reductase family 1 member B10"
+    },
+    {
+      "uniprot": "P02768",
+      "gene_symbol": "ALB",
+      "target_pref_name": "Albumin"
+    },
+    {
+      "uniprot": "Q8TDX5",
+      "gene_symbol": "ACMSD",
+      "target_pref_name": "2-amino-3-carboxymuconate-6-semialdehyde decarboxylase"
+    },
+    {
+      "uniprot": "P50993",
+      "gene_symbol": "ATP1A2",
+      "target_pref_name": "Sodium/potassium-transporting ATPase subunit alpha-2/beta-3"
+    },
+    {
+      "uniprot": "P54709",
+      "gene_symbol": "ATP1B3",
+      "target_pref_name": "Sodium/potassium-transporting ATPase subunit alpha-2/beta-3"
+    },
+    {
+      "uniprot": "P14415",
+      "gene_symbol": "ATP1B2",
+      "target_pref_name": "Sodium/potassium-transporting ATPase subunit alpha-2/beta-2"
+    },
+    {
+      "uniprot": "P05026",
+      "gene_symbol": "ATP1B1",
+      "target_pref_name": "Sodium/potassium-transporting ATPase subunit alpha-2/beta-1"
+    },
+    {
+      "uniprot": "P51449",
+      "gene_symbol": "RORC",
+      "target_pref_name": "Nuclear receptor ROR-gamma"
+    },
+    {
+      "uniprot": "P05023",
+      "gene_symbol": "ATP1A1",
+      "target_pref_name": "Sodium/potassium-transporting ATPase subunit alpha-1/beta-1"
+    },
+    {
+      "uniprot": "P40763",
+      "gene_symbol": "STAT3",
+      "target_pref_name": "Signal transducer and activator of transcription 3"
+    },
+    {
+      "uniprot": "Q99808",
+      "gene_symbol": "SLC29A1",
+      "target_pref_name": "Equilibrative nucleoside transporter 1"
+    },
+    {
+      "uniprot": "Q9HCR9",
+      "gene_symbol": "PDE11A",
+      "target_pref_name": "Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A"
+    },
+    {
+      "uniprot": "O76074",
+      "gene_symbol": "PDE5A",
+      "target_pref_name": "cGMP-specific 3',5'-cyclic phosphodiesterase"
+    },
+    {
+      "uniprot": "Q86TP1",
+      "gene_symbol": "PRUNE1",
+      "target_pref_name": "Exopolyphosphatase PRUNE1"
+    },
+    {
+      "uniprot": "Q9Y233",
+      "gene_symbol": "PDE10A",
+      "target_pref_name": "cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+    },
+    {
+      "uniprot": "Q08499",
+      "gene_symbol": "PDE4D",
+      "target_pref_name": "3',5'-cyclic-AMP phosphodiesterase 4D"
+    },
+    {
+      "uniprot": "O00408",
+      "gene_symbol": "PDE2A",
+      "target_pref_name": "cGMP-dependent 3',5'-cyclic phosphodiesterase"
+    },
+    {
+      "uniprot": "O60658",
+      "gene_symbol": "PDE8A",
+      "target_pref_name": "High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A"
+    },
+    {
+      "uniprot": "Q96JB6",
+      "gene_symbol": "LOXL4",
+      "target_pref_name": "Lysyl oxidase homolog 4"
+    },
+    {
+      "uniprot": "P58215",
+      "gene_symbol": "LOXL3",
+      "target_pref_name": "Lysyl oxidase homolog 3"
+    },
+    {
+      "uniprot": "P00352",
+      "gene_symbol": "ALDH1A1",
+      "target_pref_name": "Aldehyde dehydrogenase 1A1"
+    },
+    {
+      "uniprot": "Q9Y4K0",
+      "gene_symbol": "LOXL2",
+      "target_pref_name": "Lysyl oxidase homolog 2"
+    },
+    {
+      "uniprot": "P28300",
+      "gene_symbol": "LOX",
+      "target_pref_name": "Protein-lysine 6-oxidase"
+    },
+    {
+      "uniprot": "Q99685",
+      "gene_symbol": "MGLL",
+      "target_pref_name": "Monoglyceride lipase"
+    },
+    {
+      "uniprot": "P57764",
+      "gene_symbol": "GSDMD",
+      "target_pref_name": "Gasdermin-D"
+    },
+    {
+      "uniprot": "O43175",
+      "gene_symbol": "PHGDH",
+      "target_pref_name": "D-3-phosphoglycerate dehydrogenase"
+    },
+    {
+      "uniprot": "Q96KQ7",
+      "gene_symbol": "EHMT2",
+      "target_pref_name": "Histone-lysine N-methyltransferase EHMT2"
+    },
+    {
+      "uniprot": "P09467",
+      "gene_symbol": "FBP1",
+      "target_pref_name": "Fructose-1,6-bisphosphatase 1"
+    },
+    {
+      "uniprot": "Q9H9B1",
+      "gene_symbol": "EHMT1",
+      "target_pref_name": "Histone-lysine N-methyltransferase EHMT1"
+    },
+    {
+      "uniprot": "P05091",
+      "gene_symbol": "ALDH2",
+      "target_pref_name": "Aldehyde dehydrogenase, mitochondrial"
+    },
+    {
+      "uniprot": "P29375",
+      "gene_symbol": "KDM5A",
+      "target_pref_name": "Lysine-specific demethylase 5A"
+    },
+    {
+      "uniprot": "Q02643",
+      "gene_symbol": "GHRHR",
+      "target_pref_name": "Growth hormone-releasing hormone receptor"
+    },
+    {
+      "uniprot": "P19793",
+      "gene_symbol": "RXRA",
+      "target_pref_name": "Retinoic acid receptor RXR-alpha"
+    },
+    {
+      "uniprot": "Q04844",
+      "gene_symbol": "CHRNE",
+      "target_pref_name": "Acetylcholine receptor subunit epsilon"
+    },
+    {
+      "uniprot": "Q96L34",
+      "gene_symbol": "MARK4",
+      "target_pref_name": "MAP/microtubule affinity-regulating kinase 4"
+    },
+    {
+      "uniprot": "P03956",
+      "gene_symbol": "MMP1",
+      "target_pref_name": "Interstitial collagenase"
+    },
+    {
+      "uniprot": "O43193",
+      "gene_symbol": "MLNR",
+      "target_pref_name": "Motilin receptor"
+    },
+    {
+      "uniprot": "Q9Y6Q9",
+      "gene_symbol": "NCOA3",
+      "target_pref_name": "Nuclear receptor coactivator 3"
+    },
+    {
+      "uniprot": "P42574",
+      "gene_symbol": "CASP3",
+      "target_pref_name": "Caspase-3"
+    },
+    {
+      "uniprot": "Q15788",
+      "gene_symbol": "NCOA1",
+      "target_pref_name": "Nuclear receptor coactivator 1"
+    },
+    {
+      "uniprot": "Q9NPD5",
+      "gene_symbol": "SLCO1B3",
+      "target_pref_name": "Solute carrier organic anion transporter family member 1B3"
+    },
+    {
+      "uniprot": "Q07869",
+      "gene_symbol": "PPARA",
+      "target_pref_name": "Peroxisome proliferator-activated receptor alpha"
+    },
+    {
+      "uniprot": "P31213",
+      "gene_symbol": "SRD5A2",
+      "target_pref_name": "3-oxo-5-alpha-steroid 4-dehydrogenase 2"
+    },
+    {
+      "uniprot": "P18405",
+      "gene_symbol": "SRD5A1",
+      "target_pref_name": "3-oxo-5-alpha-steroid 4-dehydrogenase 1"
+    },
+    {
+      "uniprot": "P48169",
+      "gene_symbol": "GABRA4",
+      "target_pref_name": "Gamma-aminobutyric acid receptor subunit alpha-4"
+    },
+    {
+      "uniprot": "P17516",
+      "gene_symbol": "AKR1C4",
+      "target_pref_name": "Aldo-keto reductase family 1 member C4"
+    },
+    {
+      "uniprot": "P22760",
+      "gene_symbol": "AADAC",
+      "target_pref_name": "Arylacetamide deacetylase"
+    },
+    {
+      "uniprot": "O00748",
+      "gene_symbol": "CES2",
+      "target_pref_name": "Cocaine esterase"
+    },
+    {
+      "uniprot": "Q92769",
+      "gene_symbol": "HDAC2",
+      "target_pref_name": "Histone deacetylase 2"
+    },
+    {
+      "uniprot": "O15379",
+      "gene_symbol": "HDAC3",
+      "target_pref_name": "Histone deacetylase 3"
+    },
+    {
+      "uniprot": "Q9BY41",
+      "gene_symbol": "HDAC8",
+      "target_pref_name": "Histone deacetylase 8"
+    },
+    {
+      "uniprot": "O75376",
+      "gene_symbol": "NCOR1",
+      "target_pref_name": "Histone deacetylase 3/NCoR1"
+    },
+    {
+      "uniprot": "Q96DB2",
+      "gene_symbol": "HDAC11",
+      "target_pref_name": "Histone deacetylase 11"
+    },
+    {
+      "uniprot": "Q969S8",
+      "gene_symbol": "HDAC10",
+      "target_pref_name": "Polyamine deacetylase HDAC10"
+    },
+    {
+      "uniprot": "Q13153",
+      "gene_symbol": "PAK1",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 1"
+    },
+    {
+      "uniprot": "Q9Y618",
+      "gene_symbol": "NCOR2",
+      "target_pref_name": "Histone deacetylase 3/Nuclear receptor corepressor 2 (HDAC3/NCoR2)"
+    },
+    {
+      "uniprot": "P56524",
+      "gene_symbol": "HDAC4",
+      "target_pref_name": "Histone deacetylase 4"
+    },
+    {
+      "uniprot": "Q9UQL6",
+      "gene_symbol": "HDAC5",
+      "target_pref_name": "Histone deacetylase 5"
+    },
+    {
+      "uniprot": "Q9UKV0",
+      "gene_symbol": "HDAC9",
+      "target_pref_name": "Histone deacetylase 9"
+    },
+    {
+      "uniprot": "Q8WUI4",
+      "gene_symbol": "HDAC7",
+      "target_pref_name": "Histone deacetylase 7"
+    },
+    {
+      "uniprot": "Q9HC97",
+      "gene_symbol": "GPR35",
+      "target_pref_name": "G-protein coupled receptor 35"
+    },
+    {
+      "uniprot": "P28845",
+      "gene_symbol": "HSD11B1",
+      "target_pref_name": "11-beta-hydroxysteroid dehydrogenase 1"
+    },
+    {
+      "uniprot": "O15438",
+      "gene_symbol": "ABCC3",
+      "target_pref_name": "ATP-binding cassette sub-family C member 3"
+    },
+    {
+      "uniprot": "Q14654",
+      "gene_symbol": "KCNJ11",
+      "target_pref_name": "Sulfonylurea receptor 1, Kir6.2"
+    },
+    {
+      "uniprot": "Q09428",
+      "gene_symbol": "ABCC8",
+      "target_pref_name": "Sulfonylurea receptor 1, Kir6.2"
+    },
+    {
+      "uniprot": "O60706",
+      "gene_symbol": "ABCC9",
+      "target_pref_name": "Sulfonylurea receptor 2, Kir6.2"
+    },
+    {
+      "uniprot": "P37231",
+      "gene_symbol": "PPARG",
+      "target_pref_name": "Peroxisome proliferator-activated receptor gamma"
+    },
+    {
+      "uniprot": "O95264",
+      "gene_symbol": "HTR3B",
+      "target_pref_name": "5-hydroxytryptamine receptor 3B"
+    },
+    {
+      "uniprot": "P04439",
+      "gene_symbol": "HLA-A",
+      "target_pref_name": "HLA class I histocompatibility antigen, A alpha chain"
+    },
+    {
+      "uniprot": "Q15067",
+      "gene_symbol": "ACOX1",
+      "target_pref_name": "Peroxisomal acyl-coenzyme A oxidase 1"
+    },
+    {
+      "uniprot": "Q9NR96",
+      "gene_symbol": "TLR9",
+      "target_pref_name": "Toll-like receptor 9"
+    },
+    {
+      "uniprot": "Q9NYK1",
+      "gene_symbol": "TLR7",
+      "target_pref_name": "Toll-like receptor 7"
+    },
+    {
+      "uniprot": "Q16853",
+      "gene_symbol": "AOC3",
+      "target_pref_name": "Amine oxidase [copper-containing] 3"
+    },
+    {
+      "uniprot": "P27338",
+      "gene_symbol": "MAOB",
+      "target_pref_name": "Amine oxidase [flavin-containing] B"
+    },
+    {
+      "uniprot": "P21397",
+      "gene_symbol": "MAOA",
+      "target_pref_name": "Amine oxidase [flavin-containing] A"
+    },
+    {
+      "uniprot": "P17405",
+      "gene_symbol": "SMPD1",
+      "target_pref_name": "Sphingomyelin phosphodiesterase"
+    },
+    {
+      "uniprot": "Q9Y5Y4",
+      "gene_symbol": "PTGDR2",
+      "target_pref_name": "Prostaglandin D2 receptor 2"
+    },
+    {
+      "uniprot": "P15121",
+      "gene_symbol": "AKR1B1",
+      "target_pref_name": "Aldo-keto reductase family 1 member B1"
+    },
+    {
+      "uniprot": "P25101",
+      "gene_symbol": "EDNRA",
+      "target_pref_name": "Endothelin-1 receptor"
+    },
+    {
+      "uniprot": "Q13224",
+      "gene_symbol": "GRIN2B",
+      "target_pref_name": "Glutamate NMDA receptor; GRIN1/GRIN2B"
+    },
+    {
+      "uniprot": "Q07973",
+      "gene_symbol": "CYP24A1",
+      "target_pref_name": "1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial"
+    },
+    {
+      "uniprot": "P19099",
+      "gene_symbol": "CYP11B2",
+      "target_pref_name": "Cytochrome P450 11B2, mitochondrial"
+    },
+    {
+      "uniprot": "P15538",
+      "gene_symbol": "CYP11B1",
+      "target_pref_name": "Cytochrome P450 11B1, mitochondrial"
+    },
+    {
+      "uniprot": "Q9NR63",
+      "gene_symbol": "CYP26B1",
+      "target_pref_name": "Cytochrome P450 26B1"
+    },
+    {
+      "uniprot": "P80370",
+      "gene_symbol": "DLK1",
+      "target_pref_name": "Protein delta homolog 1"
+    },
+    {
+      "uniprot": "O15528",
+      "gene_symbol": "CYP27B1",
+      "target_pref_name": "25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial"
+    },
+    {
+      "uniprot": "O43174",
+      "gene_symbol": "CYP26A1",
+      "target_pref_name": "Cytochrome P450 26A1"
+    },
+    {
+      "uniprot": "P78329",
+      "gene_symbol": "CYP4F2",
+      "target_pref_name": "Cytochrome P450 4F2"
+    },
+    {
+      "uniprot": "P08686",
+      "gene_symbol": "CYP21A2",
+      "target_pref_name": "Steroid 21-hydroxylase"
+    },
+    {
+      "uniprot": "P10636",
+      "gene_symbol": "MAPT",
+      "target_pref_name": "Microtubule-associated protein tau"
+    },
+    {
+      "uniprot": "Q8TCT1",
+      "gene_symbol": "PHOSPHO1",
+      "target_pref_name": "Phosphoethanolamine/phosphocholine phosphatase"
+    },
+    {
+      "uniprot": "P49327",
+      "gene_symbol": "FASN",
+      "target_pref_name": "Fatty acid synthase"
+    },
+    {
+      "uniprot": "Q02127",
+      "gene_symbol": "DHODH",
+      "target_pref_name": "Dihydroorotate dehydrogenase (quinone), mitochondrial"
+    },
+    {
+      "uniprot": "P31040",
+      "gene_symbol": "SDHA",
+      "target_pref_name": "Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial"
+    },
+    {
+      "uniprot": "P27482",
+      "gene_symbol": "CALML3",
+      "target_pref_name": "Calmodulin-like protein 3"
+    },
+    {
+      "uniprot": "Q02763",
+      "gene_symbol": "TEK",
+      "target_pref_name": "Angiopoietin-1 receptor"
+    },
+    {
+      "uniprot": "Q9H2J7",
+      "gene_symbol": "SLC6A15",
+      "target_pref_name": "Sodium-dependent neutral amino acid transporter B(0)AT2"
+    },
+    {
+      "uniprot": "P50052",
+      "gene_symbol": "AGTR2",
+      "target_pref_name": "Type-2 angiotensin II receptor"
+    },
+    {
+      "uniprot": "Q9HCN6",
+      "gene_symbol": "GP6",
+      "target_pref_name": "Platelet glycoprotein VI"
+    },
+    {
+      "uniprot": "P08473",
+      "gene_symbol": "MME",
+      "target_pref_name": "Neprilysin"
+    },
+    {
+      "uniprot": "P20701",
+      "gene_symbol": "ITGAL",
+      "target_pref_name": "Integrin alpha-L/beta-2 (LFA-1)"
+    },
+    {
+      "uniprot": "P05107",
+      "gene_symbol": "ITGB2",
+      "target_pref_name": "Integrin alpha-L/beta-2 (LFA-1)"
+    },
+    {
+      "uniprot": "P05362",
+      "gene_symbol": "ICAM1",
+      "target_pref_name": "Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2"
+    },
+    {
+      "uniprot": "P00374",
+      "gene_symbol": "DHFR",
+      "target_pref_name": "Dihydrofolate reductase"
+    },
+    {
+      "uniprot": "P41440",
+      "gene_symbol": "SLC19A1",
+      "target_pref_name": "Reduced folate transporter"
+    },
+    {
+      "uniprot": "P09429",
+      "gene_symbol": "HMGB1",
+      "target_pref_name": "High mobility group protein B1"
+    },
+    {
+      "uniprot": "P14207",
+      "gene_symbol": "FOLR2",
+      "target_pref_name": "Folate receptor beta"
+    },
+    {
+      "uniprot": "P15328",
+      "gene_symbol": "FOLR1",
+      "target_pref_name": "Folate receptor alpha"
+    },
+    {
+      "uniprot": "Q96NT5",
+      "gene_symbol": "SLC46A1",
+      "target_pref_name": "Proton-coupled folate transporter"
+    },
+    {
+      "uniprot": "P04818",
+      "gene_symbol": "TYMS",
+      "target_pref_name": "Thymidylate synthase"
+    },
+    {
+      "uniprot": "P31939",
+      "gene_symbol": "ATIC",
+      "target_pref_name": "Bifunctional purine biosynthesis protein ATIC"
+    },
+    {
+      "uniprot": "O00206",
+      "gene_symbol": "TLR4",
+      "target_pref_name": "Toll-like receptor 4"
+    },
+    {
+      "uniprot": "Q05932",
+      "gene_symbol": "FPGS",
+      "target_pref_name": "Folylpolyglutamate synthase, mitochondrial"
+    },
+    {
+      "uniprot": "Q16696",
+      "gene_symbol": "CYP2A13",
+      "target_pref_name": "Cytochrome P450 2A13"
+    },
+    {
+      "uniprot": "P14902",
+      "gene_symbol": "IDO1",
+      "target_pref_name": "Indoleamine 2,3-dioxygenase 1"
+    },
+    {
+      "uniprot": "O15303",
+      "gene_symbol": "GRM6",
+      "target_pref_name": "Metabotropic glutamate receptor 6"
+    },
+    {
+      "uniprot": "P24752",
+      "gene_symbol": "ACAT1",
+      "target_pref_name": "Acetyl-CoA acetyltransferase, mitochondrial"
+    },
+    {
+      "uniprot": "Q06187",
+      "gene_symbol": "BTK",
+      "target_pref_name": "Tyrosine-protein kinase BTK"
+    },
+    {
+      "uniprot": "P08922",
+      "gene_symbol": "ROS1",
+      "target_pref_name": "Proto-oncogene tyrosine-protein kinase ROS"
+    },
+    {
+      "uniprot": "Q13148",
+      "gene_symbol": "TARDBP",
+      "target_pref_name": "TAR DNA-binding protein 43"
+    },
+    {
+      "uniprot": "Q9NZQ7",
+      "gene_symbol": "CD274",
+      "target_pref_name": "Programmed cell death 1 ligand 1"
+    },
+    {
+      "uniprot": "Q9Y271",
+      "gene_symbol": "CYSLTR1",
+      "target_pref_name": "Cysteinyl leukotriene receptor 1"
+    },
+    {
+      "uniprot": "Q16873",
+      "gene_symbol": "LTC4S",
+      "target_pref_name": "Leukotriene C4 synthase"
+    },
+    {
+      "uniprot": "Q13304",
+      "gene_symbol": "GPR17",
+      "target_pref_name": "Uracil nucleotide/cysteinyl leukotriene receptor"
+    },
+    {
+      "uniprot": "P04839",
+      "gene_symbol": "CYBB",
+      "target_pref_name": "Cytochrome b-245 heavy chain"
+    },
+    {
+      "uniprot": "Q01668",
+      "gene_symbol": "CACNA1D",
+      "target_pref_name": "Voltage-dependent L-type calcium channel subunit alpha-1D"
+    },
+    {
+      "uniprot": "Q15746",
+      "gene_symbol": "MYLK",
+      "target_pref_name": "Myosin light chain kinase, smooth muscle"
+    },
+    {
+      "uniprot": "P54289",
+      "gene_symbol": "CACNA2D1",
+      "target_pref_name": "L-type calcium channel alpha-1c/beta-2/alpha2delta-1"
+    },
+    {
+      "uniprot": "Q08289",
+      "gene_symbol": "CACNB2",
+      "target_pref_name": "L-type calcium channel alpha-1c/beta-2/alpha2delta-1"
+    },
+    {
+      "uniprot": "Q14123",
+      "gene_symbol": "PDE1C",
+      "target_pref_name": "Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C"
+    },
+    {
+      "uniprot": "P21554",
+      "gene_symbol": "CNR1",
+      "target_pref_name": "Cannabinoid receptor 1"
+    },
+    {
+      "uniprot": "P54750",
+      "gene_symbol": "PDE1A",
+      "target_pref_name": "Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A"
+    },
+    {
+      "uniprot": "Q07820",
+      "gene_symbol": "MCL1",
+      "target_pref_name": "Induced myeloid leukemia cell differentiation protein Mcl-1"
+    },
+    {
+      "uniprot": "P78417",
+      "gene_symbol": "GSTO1",
+      "target_pref_name": "Glutathione S-transferase omega-1"
+    },
+    {
+      "uniprot": "Q9Y4D2",
+      "gene_symbol": "DAGLA",
+      "target_pref_name": "Diacylglycerol lipase-alpha"
+    },
+    {
+      "uniprot": "P16233",
+      "gene_symbol": "PNLIP",
+      "target_pref_name": "Pancreatic triacylglycerol lipase"
+    },
+    {
+      "uniprot": "P11150",
+      "gene_symbol": "LIPC",
+      "target_pref_name": "Hepatic triacylglycerol lipase"
+    },
+    {
+      "uniprot": "Q9Y5X9",
+      "gene_symbol": "LIPG",
+      "target_pref_name": "Endothelial lipase"
+    },
+    {
+      "uniprot": "Q9BV23",
+      "gene_symbol": "ABHD6",
+      "target_pref_name": "Monoacylglycerol lipase ABHD6"
+    },
+    {
+      "uniprot": "O95870",
+      "gene_symbol": "ABHD16A",
+      "target_pref_name": "Phosphatidylserine lipase ABHD16A"
+    },
+    {
+      "uniprot": "Q13093",
+      "gene_symbol": "PLA2G7",
+      "target_pref_name": "Platelet-activating factor acetylhydrolase"
+    },
+    {
+      "uniprot": "Q8NCG7",
+      "gene_symbol": "DAGLB",
+      "target_pref_name": "Diacylglycerol lipase-beta"
+    },
+    {
+      "uniprot": "P06858",
+      "gene_symbol": "LPL",
+      "target_pref_name": "Lipoprotein lipase"
+    },
+    {
+      "uniprot": "Q8N2K0",
+      "gene_symbol": "ABHD12",
+      "target_pref_name": "Lysophosphatidylserine lipase ABHD12"
+    },
+    {
+      "uniprot": "P01031",
+      "gene_symbol": "C5",
+      "target_pref_name": "Complement C5"
+    },
+    {
+      "uniprot": "P34897",
+      "gene_symbol": "SHMT2",
+      "target_pref_name": "Serine hydroxymethyltransferase, mitochondrial"
+    },
+    {
+      "uniprot": "Q13509",
+      "gene_symbol": "TUBB3",
+      "target_pref_name": "Tubulin beta-3 chain"
+    },
+    {
+      "uniprot": "P06756",
+      "gene_symbol": "ITGAV",
+      "target_pref_name": "Integrin alpha-V/beta-3"
+    },
+    {
+      "uniprot": "P32238",
+      "gene_symbol": "CCKAR",
+      "target_pref_name": "Cholecystokinin receptor type A"
+    },
+    {
+      "uniprot": "Q12866",
+      "gene_symbol": "MERTK",
+      "target_pref_name": "Tyrosine-protein kinase Mer"
+    },
+    {
+      "uniprot": "Q9HC29",
+      "gene_symbol": "NOD2",
+      "target_pref_name": "Nucleotide-binding oligomerization domain-containing protein 2"
+    },
+    {
+      "uniprot": "P27815",
+      "gene_symbol": "PDE4A",
+      "target_pref_name": "3',5'-cyclic-AMP phosphodiesterase 4A"
+    },
+    {
+      "uniprot": "P25098",
+      "gene_symbol": "GRK2",
+      "target_pref_name": "Beta-adrenergic receptor kinase 1"
+    },
+    {
+      "uniprot": "Q99571",
+      "gene_symbol": "P2RX4",
+      "target_pref_name": "P2X purinoceptor 4"
+    },
+    {
+      "uniprot": "P19801",
+      "gene_symbol": "AOC1",
+      "target_pref_name": "Diamine oxidase [copper-containing]"
+    },
+    {
+      "uniprot": "Q93096",
+      "gene_symbol": "PTP4A1",
+      "target_pref_name": "Protein tyrosine phosphatase type IVA 1"
+    },
+    {
+      "uniprot": "Q12974",
+      "gene_symbol": "PTP4A2",
+      "target_pref_name": "Protein tyrosine phosphatase type IVA 2"
+    },
+    {
+      "uniprot": "O75365",
+      "gene_symbol": "PTP4A3",
+      "target_pref_name": "Protein tyrosine phosphatase type IVA 3"
+    },
+    {
+      "uniprot": "P04271",
+      "gene_symbol": "S100B",
+      "target_pref_name": "Protein S100-B"
+    },
+    {
+      "uniprot": "Q9Y5Y6",
+      "gene_symbol": "ST14",
+      "target_pref_name": "Suppressor of tumorigenicity 14 protein"
+    },
+    {
+      "uniprot": "O15393",
+      "gene_symbol": "TMPRSS2",
+      "target_pref_name": "Transmembrane protease serine 2"
+    },
+    {
+      "uniprot": "P21673",
+      "gene_symbol": "SAT1",
+      "target_pref_name": "Diamine acetyltransferase 1"
+    },
+    {
+      "uniprot": "P00747",
+      "gene_symbol": "PLG",
+      "target_pref_name": "Plasminogen"
+    },
+    {
+      "uniprot": "P49238",
+      "gene_symbol": "CX3CR1",
+      "target_pref_name": "CX3C chemokine receptor 1"
+    },
+    {
+      "uniprot": "P35414",
+      "gene_symbol": "APLNR",
+      "target_pref_name": "Apelin receptor"
+    },
+    {
+      "uniprot": "P43220",
+      "gene_symbol": "GLP1R",
+      "target_pref_name": "Glucagon-like peptide 1 receptor"
+    },
+    {
+      "uniprot": "Q8IYL9",
+      "gene_symbol": "GPR65",
+      "target_pref_name": "Psychosine receptor"
+    },
+    {
+      "uniprot": "P32249",
+      "gene_symbol": "GPR183",
+      "target_pref_name": "G-protein coupled receptor 183"
+    },
+    {
+      "uniprot": "P21462",
+      "gene_symbol": "FPR1",
+      "target_pref_name": "fMet-Leu-Phe receptor"
+    },
+    {
+      "uniprot": "Q8TDV5",
+      "gene_symbol": "GPR119",
+      "target_pref_name": "Glucose-dependent insulinotropic receptor"
+    },
+    {
+      "uniprot": "P25089",
+      "gene_symbol": "FPR3",
+      "target_pref_name": "N-formyl peptide receptor 3"
+    },
+    {
+      "uniprot": "Q8N5K1",
+      "gene_symbol": "CISD2",
+      "target_pref_name": "CDGSH iron-sulfur domain-containing protein 2"
+    },
+    {
+      "uniprot": "P51843",
+      "gene_symbol": "NR0B1",
+      "target_pref_name": "Nuclear receptor subfamily 0 group B member 1"
+    },
+    {
+      "uniprot": "P05231",
+      "gene_symbol": "IL6",
+      "target_pref_name": "Interleukin-6"
+    },
+    {
+      "uniprot": "P78536",
+      "gene_symbol": "ADAM17",
+      "target_pref_name": "Disintegrin and metalloproteinase domain-containing protein 17"
+    },
+    {
+      "uniprot": "Q8TDU6",
+      "gene_symbol": "GPBAR1",
+      "target_pref_name": "G-protein coupled bile acid receptor 1"
+    },
+    {
+      "uniprot": "P01375",
+      "gene_symbol": "TNF",
+      "target_pref_name": "Tumor necrosis factor"
+    },
+    {
+      "uniprot": "Q16762",
+      "gene_symbol": "TST",
+      "target_pref_name": "Thiosulfate sulfurtransferase"
+    },
+    {
+      "uniprot": "P56373",
+      "gene_symbol": "P2RX3",
+      "target_pref_name": "P2X purinoceptor 3"
+    },
+    {
+      "uniprot": "O14649",
+      "gene_symbol": "KCNK3",
+      "target_pref_name": "Potassium channel subfamily K member 3"
+    },
+    {
+      "uniprot": "P37288",
+      "gene_symbol": "AVPR1A",
+      "target_pref_name": "Vasopressin V1a receptor"
+    },
+    {
+      "uniprot": "Q14973",
+      "gene_symbol": "SLC10A1",
+      "target_pref_name": "Hepatic sodium/bile acid cotransporter"
+    },
+    {
+      "uniprot": "P07686",
+      "gene_symbol": "HEXB",
+      "target_pref_name": "Beta-hexosaminidase subunit beta"
+    },
+    {
+      "uniprot": "P06865",
+      "gene_symbol": "HEXA",
+      "target_pref_name": "Beta-hexosaminidase subunit alpha"
+    },
+    {
+      "uniprot": "Q6SZW1",
+      "gene_symbol": "SARM1",
+      "target_pref_name": "NAD(+) hydrolase SARM1"
+    },
+    {
+      "uniprot": "Q8NFI3",
+      "gene_symbol": "ENGASE",
+      "target_pref_name": "Cytosolic endo-beta-N-acetylglucosaminidase"
+    },
+    {
+      "uniprot": "O14939",
+      "gene_symbol": "PLD2",
+      "target_pref_name": "Phospholipase D2"
+    },
+    {
+      "uniprot": "Q13393",
+      "gene_symbol": "PLD1",
+      "target_pref_name": "Phospholipase D1"
+    },
+    {
+      "uniprot": "Q05940",
+      "gene_symbol": "SLC18A2",
+      "target_pref_name": "Synaptic vesicular amine transporter"
+    },
+    {
+      "uniprot": "P54219",
+      "gene_symbol": "SLC18A1",
+      "target_pref_name": "Chromaffin granule amine transporter"
+    },
+    {
+      "uniprot": "P22309",
+      "gene_symbol": "UGT1A1",
+      "target_pref_name": "UDP-glucuronosyltransferase 1A1"
+    },
+    {
+      "uniprot": "O94956",
+      "gene_symbol": "SLCO2B1",
+      "target_pref_name": "Solute carrier organic anion transporter family member 2B1"
+    },
+    {
+      "uniprot": "Q5T601",
+      "gene_symbol": "ADGRF1",
+      "target_pref_name": "Adhesion G-protein coupled receptor F1"
+    },
+    {
+      "uniprot": "P51160",
+      "gene_symbol": "PDE6C",
+      "target_pref_name": "Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'"
+    },
+    {
+      "uniprot": "O15440",
+      "gene_symbol": "ABCC5",
+      "target_pref_name": "ATP-binding cassette sub-family C member 5"
+    },
+    {
+      "uniprot": "O76083",
+      "gene_symbol": "PDE9A",
+      "target_pref_name": "High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A"
+    },
+    {
+      "uniprot": "Q13946",
+      "gene_symbol": "PDE7A",
+      "target_pref_name": "High affinity 3',5'-cyclic-AMP phosphodiesterase 7A"
+    },
+    {
+      "uniprot": "Q08345",
+      "gene_symbol": "DDR1",
+      "target_pref_name": "Epithelial discoidin domain-containing receptor 1"
+    },
+    {
+      "uniprot": "P00519",
+      "gene_symbol": "ABL1",
+      "target_pref_name": "Tyrosine-protein kinase ABL1"
+    },
+    {
+      "uniprot": "P16234",
+      "gene_symbol": "PDGFRA",
+      "target_pref_name": "Platelet-derived growth factor receptor alpha"
+    },
+    {
+      "uniprot": "P42684",
+      "gene_symbol": "ABL2",
+      "target_pref_name": "Tyrosine-protein kinase ABL2"
+    },
+    {
+      "uniprot": "P11274",
+      "gene_symbol": "BCR",
+      "target_pref_name": "Breakpoint cluster region protein"
+    },
+    {
+      "uniprot": "P07333",
+      "gene_symbol": "CSF1R",
+      "target_pref_name": "Macrophage colony-stimulating factor 1 receptor"
+    },
+    {
+      "uniprot": "P10721",
+      "gene_symbol": "KIT",
+      "target_pref_name": "Mast/stem cell growth factor receptor Kit"
+    },
+    {
+      "uniprot": "P09619",
+      "gene_symbol": "PDGFRB",
+      "target_pref_name": "Platelet-derived growth factor receptor beta"
+    },
+    {
+      "uniprot": "Q16832",
+      "gene_symbol": "DDR2",
+      "target_pref_name": "Discoidin domain-containing receptor 2"
+    },
+    {
+      "uniprot": "P36888",
+      "gene_symbol": "FLT3",
+      "target_pref_name": "Receptor-type tyrosine-protein kinase FLT3"
+    },
+    {
+      "uniprot": "P07948",
+      "gene_symbol": "LYN",
+      "target_pref_name": "Tyrosine-protein kinase Lyn"
+    },
+    {
+      "uniprot": "P42685",
+      "gene_symbol": "FRK",
+      "target_pref_name": "Tyrosine-protein kinase FRK"
+    },
+    {
+      "uniprot": "Q8TBX8",
+      "gene_symbol": "PIP4K2C",
+      "target_pref_name": "Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma"
+    },
+    {
+      "uniprot": "O00571",
+      "gene_symbol": "DDX3X",
+      "target_pref_name": "ATP-dependent RNA helicase DDX3X"
+    },
+    {
+      "uniprot": "P51451",
+      "gene_symbol": "BLK",
+      "target_pref_name": "Tyrosine-protein kinase Blk"
+    },
+    {
+      "uniprot": "Q8NE63",
+      "gene_symbol": "HIPK4",
+      "target_pref_name": "Homeodomain-interacting protein kinase 4"
+    },
+    {
+      "uniprot": "O14976",
+      "gene_symbol": "GAK",
+      "target_pref_name": "Cyclin-G-associated kinase"
+    },
+    {
+      "uniprot": "P53779",
+      "gene_symbol": "MAPK10",
+      "target_pref_name": "Mitogen-activated protein kinase 10"
+    },
+    {
+      "uniprot": "P51617",
+      "gene_symbol": "IRAK1",
+      "target_pref_name": "Interleukin-1 receptor-associated kinase 1"
+    },
+    {
+      "uniprot": "O00311",
+      "gene_symbol": "CDC7",
+      "target_pref_name": "Cell division cycle 7-related protein kinase"
+    },
+    {
+      "uniprot": "Q14680",
+      "gene_symbol": "MELK",
+      "target_pref_name": "Maternal embryonic leucine zipper kinase"
+    },
+    {
+      "uniprot": "Q9HAZ1",
+      "gene_symbol": "CLK4",
+      "target_pref_name": "Dual specificity protein kinase CLK4"
+    },
+    {
+      "uniprot": "P29322",
+      "gene_symbol": "EPHA8",
+      "target_pref_name": "Ephrin type-A receptor 8"
+    },
+    {
+      "uniprot": "P43405",
+      "gene_symbol": "SYK",
+      "target_pref_name": "Tyrosine-protein kinase SYK"
+    },
+    {
+      "uniprot": "Q13237",
+      "gene_symbol": "PRKG2",
+      "target_pref_name": "cGMP-dependent protein kinase 2"
+    },
+    {
+      "uniprot": "Q9H3Y6",
+      "gene_symbol": "SRMS",
+      "target_pref_name": "Tyrosine-protein kinase Srms"
+    },
+    {
+      "uniprot": "Q8IW41",
+      "gene_symbol": "MAPKAPK5",
+      "target_pref_name": "MAP kinase-activated protein kinase 5"
+    },
+    {
+      "uniprot": "Q08881",
+      "gene_symbol": "ITK",
+      "target_pref_name": "Tyrosine-protein kinase ITK/TSK"
+    },
+    {
+      "uniprot": "Q9BXA7",
+      "gene_symbol": "TSSK1B",
+      "target_pref_name": "Testis-specific serine/threonine-protein kinase 1"
+    },
+    {
+      "uniprot": "Q14289",
+      "gene_symbol": "PTK2B",
+      "target_pref_name": "Protein-tyrosine kinase 2-beta"
+    },
+    {
+      "uniprot": "O75676",
+      "gene_symbol": "RPS6KA4",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-4"
+    },
+    {
+      "uniprot": "Q96PF2",
+      "gene_symbol": "TSSK2",
+      "target_pref_name": "Testis-specific serine/threonine-protein kinase 2"
+    },
+    {
+      "uniprot": "Q9P1W9",
+      "gene_symbol": "PIM2",
+      "target_pref_name": "Serine/threonine-protein kinase pim-2"
+    },
+    {
+      "uniprot": "P50750",
+      "gene_symbol": "CDK9",
+      "target_pref_name": "Cyclin-dependent kinase 9"
+    },
+    {
+      "uniprot": "P16591",
+      "gene_symbol": "FER",
+      "target_pref_name": "Tyrosine-protein kinase Fer"
+    },
+    {
+      "uniprot": "P04049",
+      "gene_symbol": "RAF1",
+      "target_pref_name": "RAF proto-oncogene serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "O60674",
+      "gene_symbol": "JAK2",
+      "target_pref_name": "Tyrosine-protein kinase JAK2"
+    },
+    {
+      "uniprot": "P30530",
+      "gene_symbol": "AXL",
+      "target_pref_name": "Tyrosine-protein kinase receptor UFO"
+    },
+    {
+      "uniprot": "P42679",
+      "gene_symbol": "MATK",
+      "target_pref_name": "Megakaryocyte-associated tyrosine-protein kinase"
+    },
+    {
+      "uniprot": "Q13976",
+      "gene_symbol": "PRKG1",
+      "target_pref_name": "cGMP-dependent protein kinase 1"
+    },
+    {
+      "uniprot": "O75582",
+      "gene_symbol": "RPS6KA5",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-5"
+    },
+    {
+      "uniprot": "P29597",
+      "gene_symbol": "TYK2",
+      "target_pref_name": "Non-receptor tyrosine-protein kinase TYK2"
+    },
+    {
+      "uniprot": "P07332",
+      "gene_symbol": "FES",
+      "target_pref_name": "Tyrosine-protein kinase Fes/Fps"
+    },
+    {
+      "uniprot": "P08069",
+      "gene_symbol": "IGF1R",
+      "target_pref_name": "Insulin-like growth factor 1 receptor"
+    },
+    {
+      "uniprot": "P22607",
+      "gene_symbol": "FGFR3",
+      "target_pref_name": "Fibroblast growth factor receptor 3"
+    },
+    {
+      "uniprot": "P09769",
+      "gene_symbol": "FGR",
+      "target_pref_name": "Tyrosine-protein kinase Fgr"
+    },
+    {
+      "uniprot": "Q04759",
+      "gene_symbol": "PRKCQ",
+      "target_pref_name": "Protein kinase C theta type"
+    },
+    {
+      "uniprot": "Q06418",
+      "gene_symbol": "TYRO3",
+      "target_pref_name": "Tyrosine-protein kinase receptor TYRO3"
+    },
+    {
+      "uniprot": "P29376",
+      "gene_symbol": "LTK",
+      "target_pref_name": "Leukocyte tyrosine kinase receptor"
+    },
+    {
+      "uniprot": "P53667",
+      "gene_symbol": "LIMK1",
+      "target_pref_name": "LIM domain kinase 1"
+    },
+    {
+      "uniprot": "Q96RR4",
+      "gene_symbol": "CAMKK2",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase kinase 2"
+    },
+    {
+      "uniprot": "Q9Y463",
+      "gene_symbol": "DYRK1B",
+      "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 1B"
+    },
+    {
+      "uniprot": "Q5S007",
+      "gene_symbol": "LRRK2",
+      "target_pref_name": "Leucine-rich repeat serine/threonine-protein kinase 2"
+    },
+    {
+      "uniprot": "P51817",
+      "gene_symbol": "PRKX",
+      "target_pref_name": "cAMP-dependent protein kinase catalytic subunit PRKX"
+    },
+    {
+      "uniprot": "P04629",
+      "gene_symbol": "NTRK1",
+      "target_pref_name": "High affinity nerve growth factor receptor"
+    },
+    {
+      "uniprot": "P45983",
+      "gene_symbol": "MAPK8",
+      "target_pref_name": "Mitogen-activated protein kinase 8"
+    },
+    {
+      "uniprot": "Q13882",
+      "gene_symbol": "PTK6",
+      "target_pref_name": "Protein-tyrosine kinase 6"
+    },
+    {
+      "uniprot": "P08581",
+      "gene_symbol": "MET",
+      "target_pref_name": "Hepatocyte growth factor receptor"
+    },
+    {
+      "uniprot": "Q8IU85",
+      "gene_symbol": "CAMK1D",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1D"
+    },
+    {
+      "uniprot": "Q9NYL2",
+      "gene_symbol": "MAP3K20",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 20"
+    },
+    {
+      "uniprot": "Q9UEE5",
+      "gene_symbol": "STK17A",
+      "target_pref_name": "Serine/threonine-protein kinase 17A"
+    },
+    {
+      "uniprot": "Q02779",
+      "gene_symbol": "MAP3K10",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 10"
+    },
+    {
+      "uniprot": "Q02750",
+      "gene_symbol": "MAP2K1",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 1"
+    },
+    {
+      "uniprot": "O00444",
+      "gene_symbol": "PLK4",
+      "target_pref_name": "Serine/threonine-protein kinase PLK4"
+    },
+    {
+      "uniprot": "Q16288",
+      "gene_symbol": "NTRK3",
+      "target_pref_name": "NT-3 growth factor receptor"
+    },
+    {
+      "uniprot": "Q13627",
+      "gene_symbol": "DYRK1A",
+      "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 1A"
+    },
+    {
+      "uniprot": "P08631",
+      "gene_symbol": "HCK",
+      "target_pref_name": "Tyrosine-protein kinase HCK"
+    },
+    {
+      "uniprot": "P35968",
+      "gene_symbol": "KDR",
+      "target_pref_name": "Vascular endothelial growth factor receptor 2"
+    },
+    {
+      "uniprot": "P29317",
+      "gene_symbol": "EPHA2",
+      "target_pref_name": "Ephrin type-A receptor 2"
+    },
+    {
+      "uniprot": "Q9H2X6",
+      "gene_symbol": "HIPK2",
+      "target_pref_name": "Homeodomain-interacting protein kinase 2"
+    },
+    {
+      "uniprot": "P17612",
+      "gene_symbol": "PRKACA",
+      "target_pref_name": "cAMP-dependent protein kinase catalytic subunit alpha"
+    },
+    {
+      "uniprot": "P17948",
+      "gene_symbol": "FLT1",
+      "target_pref_name": "Vascular endothelial growth factor receptor 1"
+    },
+    {
+      "uniprot": "Q15046",
+      "gene_symbol": "KARS1",
+      "target_pref_name": "Lysine--tRNA ligase"
+    },
+    {
+      "uniprot": "P15056",
+      "gene_symbol": "BRAF",
+      "target_pref_name": "Serine/threonine-protein kinase B-raf"
+    },
+    {
+      "uniprot": "P19784",
+      "gene_symbol": "CSNK2A2",
+      "target_pref_name": "Casein kinase II subunit alpha'"
+    },
+    {
+      "uniprot": "Q04912",
+      "gene_symbol": "MST1R",
+      "target_pref_name": "Macrophage-stimulating protein receptor"
+    },
+    {
+      "uniprot": "O00418",
+      "gene_symbol": "EEF2K",
+      "target_pref_name": "Eukaryotic elongation factor 2 kinase"
+    },
+    {
+      "uniprot": "Q13131",
+      "gene_symbol": "PRKAA1",
+      "target_pref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-1"
+    },
+    {
+      "uniprot": "P36507",
+      "gene_symbol": "MAP2K2",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 2"
+    },
+    {
+      "uniprot": "Q7L7X3",
+      "gene_symbol": "TAOK1",
+      "target_pref_name": "Serine/threonine-protein kinase TAO1"
+    },
+    {
+      "uniprot": "Q07912",
+      "gene_symbol": "TNK2",
+      "target_pref_name": "Activated CDC42 kinase 1"
+    },
+    {
+      "uniprot": "P68400",
+      "gene_symbol": "CSNK2A1",
+      "target_pref_name": "Casein kinase II subunit alpha"
+    },
+    {
+      "uniprot": "P34947",
+      "gene_symbol": "GRK5",
+      "target_pref_name": "G protein-coupled receptor kinase 5"
+    },
+    {
+      "uniprot": "P11362",
+      "gene_symbol": "FGFR1",
+      "target_pref_name": "Fibroblast growth factor receptor 1"
+    },
+    {
+      "uniprot": "P45984",
+      "gene_symbol": "MAPK9",
+      "target_pref_name": "Mitogen-activated protein kinase 9"
+    },
+    {
+      "uniprot": "Q9H0K1",
+      "gene_symbol": "SIK2",
+      "target_pref_name": "Serine/threonine-protein kinase SIK2"
+    },
+    {
+      "uniprot": "O43293",
+      "gene_symbol": "DAPK3",
+      "target_pref_name": "Death-associated protein kinase 3"
+    },
+    {
+      "uniprot": "Q12851",
+      "gene_symbol": "MAP4K2",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 2"
+    },
+    {
+      "uniprot": "P52333",
+      "gene_symbol": "JAK3",
+      "target_pref_name": "Tyrosine-protein kinase JAK3"
+    },
+    {
+      "uniprot": "Q04771",
+      "gene_symbol": "ACVR1",
+      "target_pref_name": "Activin receptor type-1"
+    },
+    {
+      "uniprot": "P12931",
+      "gene_symbol": "SRC",
+      "target_pref_name": "Proto-oncogene tyrosine-protein kinase Src"
+    },
+    {
+      "uniprot": "P49336",
+      "gene_symbol": "CDK8",
+      "target_pref_name": "Cyclin-dependent kinase 8"
+    },
+    {
+      "uniprot": "P50613",
+      "gene_symbol": "CDK7",
+      "target_pref_name": "Cyclin-dependent kinase 7"
+    },
+    {
+      "uniprot": "Q16620",
+      "gene_symbol": "NTRK2",
+      "target_pref_name": "BDNF/NT-3 growth factors receptor"
+    },
+    {
+      "uniprot": "O15530",
+      "gene_symbol": "PDPK1",
+      "target_pref_name": "3-phosphoinositide-dependent protein kinase 1"
+    },
+    {
+      "uniprot": "Q15303",
+      "gene_symbol": "ERBB4",
+      "target_pref_name": "Receptor tyrosine-protein kinase erbB-4"
+    },
+    {
+      "uniprot": "Q59H18",
+      "gene_symbol": "TNNI3K",
+      "target_pref_name": "Serine/threonine-protein kinase TNNI3K"
+    },
+    {
+      "uniprot": "P49759",
+      "gene_symbol": "CLK1",
+      "target_pref_name": "Dual specificity protein kinase CLK1"
+    },
+    {
+      "uniprot": "Q9UM73",
+      "gene_symbol": "ALK",
+      "target_pref_name": "ALK tyrosine kinase receptor"
+    },
+    {
+      "uniprot": "P51812",
+      "gene_symbol": "RPS6KA3",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-3"
+    },
+    {
+      "uniprot": "O95819",
+      "gene_symbol": "MAP4K4",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 4"
+    },
+    {
+      "uniprot": "P15735",
+      "gene_symbol": "PHKG2",
+      "target_pref_name": "Phosphorylase b kinase gamma catalytic chain, liver/testis isoform"
+    },
+    {
+      "uniprot": "Q96GD4",
+      "gene_symbol": "AURKB",
+      "target_pref_name": "Aurora kinase B"
+    },
+    {
+      "uniprot": "Q05397",
+      "gene_symbol": "PTK2",
+      "target_pref_name": "Focal adhesion kinase 1"
+    },
+    {
+      "uniprot": "O96013",
+      "gene_symbol": "PAK4",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 4"
+    },
+    {
+      "uniprot": "P48729",
+      "gene_symbol": "CSNK1A1",
+      "target_pref_name": "Casein kinase I isoform alpha"
+    },
+    {
+      "uniprot": "P06213",
+      "gene_symbol": "INSR",
+      "target_pref_name": "Insulin receptor"
+    },
+    {
+      "uniprot": "O94806",
+      "gene_symbol": "PRKD3",
+      "target_pref_name": "Serine/threonine-protein kinase D3"
+    },
+    {
+      "uniprot": "O96017",
+      "gene_symbol": "CHEK2",
+      "target_pref_name": "Serine/threonine-protein kinase Chk2"
+    },
+    {
+      "uniprot": "P41743",
+      "gene_symbol": "PRKCI",
+      "target_pref_name": "Protein kinase C iota type"
+    },
+    {
+      "uniprot": "Q13464",
+      "gene_symbol": "ROCK1",
+      "target_pref_name": "Rho-associated protein kinase 1"
+    },
+    {
+      "uniprot": "P49841",
+      "gene_symbol": "GSK3B",
+      "target_pref_name": "Glycogen synthase kinase-3 beta"
+    },
+    {
+      "uniprot": "Q9BWU1",
+      "gene_symbol": "CDK19",
+      "target_pref_name": "Cyclin-dependent kinase 19"
+    },
+    {
+      "uniprot": "Q9UQM7",
+      "gene_symbol": "CAMK2A",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha"
+    },
+    {
+      "uniprot": "Q9Y6M4",
+      "gene_symbol": "CSNK1G3",
+      "target_pref_name": "Casein kinase I isoform gamma-3"
+    },
+    {
+      "uniprot": "P23443",
+      "gene_symbol": "RPS6KB1",
+      "target_pref_name": "Ribosomal protein S6 kinase beta-1"
+    },
+    {
+      "uniprot": "Q13188",
+      "gene_symbol": "STK3",
+      "target_pref_name": "Serine/threonine-protein kinase 3"
+    },
+    {
+      "uniprot": "Q13555",
+      "gene_symbol": "CAMK2G",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit gamma"
+    },
+    {
+      "uniprot": "O14757",
+      "gene_symbol": "CHEK1",
+      "target_pref_name": "Serine/threonine-protein kinase Chk1"
+    },
+    {
+      "uniprot": "P27448",
+      "gene_symbol": "MARK3",
+      "target_pref_name": "MAP/microtubule affinity-regulating kinase 3"
+    },
+    {
+      "uniprot": "P49840",
+      "gene_symbol": "GSK3A",
+      "target_pref_name": "Glycogen synthase kinase-3 alpha"
+    },
+    {
+      "uniprot": "Q00535",
+      "gene_symbol": "CDK5",
+      "target_pref_name": "Cyclin-dependent kinase 5"
+    },
+    {
+      "uniprot": "P51957",
+      "gene_symbol": "NEK4",
+      "target_pref_name": "Serine/threonine-protein kinase Nek4"
+    },
+    {
+      "uniprot": "O43781",
+      "gene_symbol": "DYRK3",
+      "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 3"
+    },
+    {
+      "uniprot": "Q13557",
+      "gene_symbol": "CAMK2D",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit delta"
+    },
+    {
+      "uniprot": "O75116",
+      "gene_symbol": "ROCK2",
+      "target_pref_name": "Rho-associated protein kinase 2"
+    },
+    {
+      "uniprot": "Q9HCP0",
+      "gene_symbol": "CSNK1G1",
+      "target_pref_name": "Casein kinase I isoform gamma-1"
+    },
+    {
+      "uniprot": "P35916",
+      "gene_symbol": "FLT4",
+      "target_pref_name": "Vascular endothelial growth factor receptor 3"
+    },
+    {
+      "uniprot": "P53778",
+      "gene_symbol": "MAPK12",
+      "target_pref_name": "Mitogen-activated protein kinase 12"
+    },
+    {
+      "uniprot": "Q14012",
+      "gene_symbol": "CAMK1",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1"
+    },
+    {
+      "uniprot": "P78368",
+      "gene_symbol": "CSNK1G2",
+      "target_pref_name": "Casein kinase I isoform gamma-2"
+    },
+    {
+      "uniprot": "Q05513",
+      "gene_symbol": "PRKCZ",
+      "target_pref_name": "Protein kinase C zeta type"
+    },
+    {
+      "uniprot": "Q05655",
+      "gene_symbol": "PRKCD",
+      "target_pref_name": "Protein kinase C delta type"
+    },
+    {
+      "uniprot": "Q9H4B4",
+      "gene_symbol": "PLK3",
+      "target_pref_name": "Serine/threonine-protein kinase PLK3"
+    },
+    {
+      "uniprot": "Q9HBY8",
+      "gene_symbol": "SGK2",
+      "target_pref_name": "Serine/threonine-protein kinase Sgk2"
+    },
+    {
+      "uniprot": "P31751",
+      "gene_symbol": "AKT2",
+      "target_pref_name": "RAC-beta serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "P24941",
+      "gene_symbol": "CDK2",
+      "target_pref_name": "Cyclin-dependent kinase 2"
+    },
+    {
+      "uniprot": "P48730",
+      "gene_symbol": "CSNK1D",
+      "target_pref_name": "Casein kinase I isoform delta"
+    },
+    {
+      "uniprot": "P28482",
+      "gene_symbol": "MAPK1",
+      "target_pref_name": "Mitogen-activated protein kinase 1"
+    },
+    {
+      "uniprot": "Q86V86",
+      "gene_symbol": "PIM3",
+      "target_pref_name": "Serine/threonine-protein kinase pim-3"
+    },
+    {
+      "uniprot": "Q96SB4",
+      "gene_symbol": "SRPK1",
+      "target_pref_name": "SRSF protein kinase 1"
+    },
+    {
+      "uniprot": "Q8N4C8",
+      "gene_symbol": "MINK1",
+      "target_pref_name": "Misshapen-like kinase 1"
+    },
+    {
+      "uniprot": "P49137",
+      "gene_symbol": "MAPKAPK2",
+      "target_pref_name": "MAP kinase-activated protein kinase 2"
+    },
+    {
+      "uniprot": "Q9NR20",
+      "gene_symbol": "DYRK4",
+      "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 4"
+    },
+    {
+      "uniprot": "P05129",
+      "gene_symbol": "PRKCG",
+      "target_pref_name": "Protein kinase C gamma type"
+    },
+    {
+      "uniprot": "Q16513",
+      "gene_symbol": "PKN2",
+      "target_pref_name": "Serine/threonine-protein kinase N2"
+    },
+    {
+      "uniprot": "Q13554",
+      "gene_symbol": "CAMK2B",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit beta"
+    },
+    {
+      "uniprot": "O15264",
+      "gene_symbol": "MAPK13",
+      "target_pref_name": "Mitogen-activated protein kinase 13"
+    },
+    {
+      "uniprot": "Q7KZI7",
+      "gene_symbol": "MARK2",
+      "target_pref_name": "Serine/threonine-protein kinase MARK2"
+    },
+    {
+      "uniprot": "P06493",
+      "gene_symbol": "CDK1",
+      "target_pref_name": "Cyclin-dependent kinase 1"
+    },
+    {
+      "uniprot": "P31749",
+      "gene_symbol": "AKT1",
+      "target_pref_name": "RAC-alpha serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "Q9Y4K4",
+      "gene_symbol": "MAP4K5",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 5"
+    },
+    {
+      "uniprot": "P51955",
+      "gene_symbol": "NEK2",
+      "target_pref_name": "Serine/threonine-protein kinase Nek2"
+    },
+    {
+      "uniprot": "P53350",
+      "gene_symbol": "PLK1",
+      "target_pref_name": "Serine/threonine-protein kinase PLK1"
+    },
+    {
+      "uniprot": "Q9Y243",
+      "gene_symbol": "AKT3",
+      "target_pref_name": "RAC-gamma serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "Q8TDC3",
+      "gene_symbol": "BRSK1",
+      "target_pref_name": "Serine/threonine-protein kinase BRSK1"
+    },
+    {
+      "uniprot": "Q96KB5",
+      "gene_symbol": "PBK",
+      "target_pref_name": "Lymphokine-activated killer T-cell-originated protein kinase"
+    },
+    {
+      "uniprot": "Q9BZL6",
+      "gene_symbol": "PRKD2",
+      "target_pref_name": "Serine/threonine-protein kinase D2"
+    },
+    {
+      "uniprot": "Q5VT25",
+      "gene_symbol": "CDC42BPA",
+      "target_pref_name": "Serine/threonine-protein kinase MRCK alpha"
+    },
+    {
+      "uniprot": "Q9NWZ3",
+      "gene_symbol": "IRAK4",
+      "target_pref_name": "Interleukin-1 receptor-associated kinase 4"
+    },
+    {
+      "uniprot": "Q9HBH9",
+      "gene_symbol": "MKNK2",
+      "target_pref_name": "MAP kinase-interacting serine/threonine-protein kinase 2"
+    },
+    {
+      "uniprot": "Q16644",
+      "gene_symbol": "MAPKAPK3",
+      "target_pref_name": "MAP kinase-activated protein kinase 3"
+    },
+    {
+      "uniprot": "Q9H2G2",
+      "gene_symbol": "SLK",
+      "target_pref_name": "STE20-like serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "O15075",
+      "gene_symbol": "DCLK1",
+      "target_pref_name": "Serine/threonine-protein kinase DCLK1"
+    },
+    {
+      "uniprot": "Q9P2K3",
+      "gene_symbol": "RCOR3",
+      "target_pref_name": "HDAC1/REST corepressor 3"
+    },
+    {
+      "uniprot": "P30939",
+      "gene_symbol": "HTR1F",
+      "target_pref_name": "5-hydroxytryptamine receptor 1F"
+    },
+    {
+      "uniprot": "Q9BY08",
+      "gene_symbol": "EBPL",
+      "target_pref_name": "Emopamil-binding protein-like"
+    },
+    {
+      "uniprot": "P62508",
+      "gene_symbol": "ESRRG",
+      "target_pref_name": "Estrogen-related receptor gamma"
+    },
+    {
+      "uniprot": "Q14534",
+      "gene_symbol": "SQLE",
+      "target_pref_name": "Squalene monooxygenase"
+    },
+    {
+      "uniprot": "Q01118",
+      "gene_symbol": "SCN7A",
+      "target_pref_name": "Sodium channel protein type 7 subunit alpha"
+    },
+    {
+      "uniprot": "Q9UQD0",
+      "gene_symbol": "SCN8A",
+      "target_pref_name": "Sodium channel protein type 8 subunit alpha"
+    },
+    {
+      "uniprot": "Q9NY46",
+      "gene_symbol": "SCN3A",
+      "target_pref_name": "Sodium channel protein type 3 subunit alpha"
+    },
+    {
+      "uniprot": "Q9UDY8",
+      "gene_symbol": "MALT1",
+      "target_pref_name": "Mucosa-associated lymphoid tissue lymphoma translocation protein 1"
+    },
+    {
+      "uniprot": "Q16665",
+      "gene_symbol": "HIF1A",
+      "target_pref_name": "Hypoxia-inducible factor 1-alpha"
+    },
+    {
+      "uniprot": "Q9UKL0",
+      "gene_symbol": "RCOR1",
+      "target_pref_name": "LSD1/CoREST complex"
+    },
+    {
+      "uniprot": "P29466",
+      "gene_symbol": "CASP1",
+      "target_pref_name": "Caspase-1"
+    },
+    {
+      "uniprot": "P08311",
+      "gene_symbol": "CTSG",
+      "target_pref_name": "Cathepsin G"
+    },
+    {
+      "uniprot": "P25090",
+      "gene_symbol": "FPR2",
+      "target_pref_name": "N-formyl peptide receptor 2"
+    },
+    {
+      "uniprot": "O94782",
+      "gene_symbol": "USP1",
+      "target_pref_name": "Ubiquitin carboxyl-terminal hydrolase 1/WD repeat-containing protein 48"
+    },
+    {
+      "uniprot": "Q8TAF3",
+      "gene_symbol": "WDR48",
+      "target_pref_name": "Ubiquitin carboxyl-terminal hydrolase 1/WD repeat-containing protein 48"
+    },
+    {
+      "uniprot": "Q08050",
+      "gene_symbol": "FOXM1",
+      "target_pref_name": "Forkhead box protein M1"
+    },
+    {
+      "uniprot": "Q13639",
+      "gene_symbol": "HTR4",
+      "target_pref_name": "5-hydroxytryptamine receptor 4"
+    },
+    {
+      "uniprot": "P34913",
+      "gene_symbol": "EPHX2",
+      "target_pref_name": "Bifunctional epoxide hydrolase 2"
+    },
+    {
+      "uniprot": "Q9NS75",
+      "gene_symbol": "CYSLTR2",
+      "target_pref_name": "Cysteinyl leukotriene receptor 2"
+    },
+    {
+      "uniprot": "O14980",
+      "gene_symbol": "XPO1",
+      "target_pref_name": "Exportin-1"
+    },
+    {
+      "uniprot": "P30559",
+      "gene_symbol": "OXTR",
+      "target_pref_name": "Oxytocin receptor"
+    },
+    {
+      "uniprot": "P47901",
+      "gene_symbol": "AVPR1B",
+      "target_pref_name": "Vasopressin V1b receptor"
+    },
+    {
+      "uniprot": "P42785",
+      "gene_symbol": "PRCP",
+      "target_pref_name": "Lysosomal Pro-X carboxypeptidase"
+    },
+    {
+      "uniprot": "P20618",
+      "gene_symbol": "PSMB1",
+      "target_pref_name": "Proteasome component C5"
+    },
+    {
+      "uniprot": "P28074",
+      "gene_symbol": "PSMB5",
+      "target_pref_name": "Proteasome Macropain subunit MB1"
+    },
+    {
+      "uniprot": "P49721",
+      "gene_symbol": "PSMB2",
+      "target_pref_name": "Proteasome Macropain subunit"
+    },
+    {
+      "uniprot": "P37088",
+      "gene_symbol": "SCNN1A",
+      "target_pref_name": "Amiloride-sensitive sodium channel subunit alpha"
+    },
+    {
+      "uniprot": "P00749",
+      "gene_symbol": "PLAU",
+      "target_pref_name": "Urokinase-type plasminogen activator"
+    },
+    {
+      "uniprot": "Q9UHC3",
+      "gene_symbol": "ASIC3",
+      "target_pref_name": "Acid-sensing ion channel 3"
+    },
+    {
+      "uniprot": "Q9C0B1",
+      "gene_symbol": "FTO",
+      "target_pref_name": "Alpha-ketoglutarate-dependent dioxygenase FTO"
+    },
+    {
+      "uniprot": "O43497",
+      "gene_symbol": "CACNA1G",
+      "target_pref_name": "Voltage-dependent T-type calcium channel subunit alpha-1G"
+    },
+    {
+      "uniprot": "O95180",
+      "gene_symbol": "CACNA1H",
+      "target_pref_name": "Voltage-dependent T-type calcium channel subunit alpha-1H"
+    },
+    {
+      "uniprot": "P17861",
+      "gene_symbol": "XBP1",
+      "target_pref_name": "X-box-binding protein 1"
+    },
+    {
+      "uniprot": "P84022",
+      "gene_symbol": "SMAD3",
+      "target_pref_name": "Mothers against decapentaplegic homolog 3"
+    },
+    {
+      "uniprot": "Q5XXA6",
+      "gene_symbol": "ANO1",
+      "target_pref_name": "Anoctamin-1"
+    },
+    {
+      "uniprot": "O43451",
+      "gene_symbol": "MGAM",
+      "target_pref_name": "Maltase-glucoamylase"
+    },
+    {
+      "uniprot": "P0DUB6",
+      "gene_symbol": "AMY1A",
+      "target_pref_name": "Alpha-amylase 1A"
+    },
+    {
+      "uniprot": "P10253",
+      "gene_symbol": "GAA",
+      "target_pref_name": "Lysosomal alpha-glucosidase"
+    },
+    {
+      "uniprot": "P14410",
+      "gene_symbol": "SI",
+      "target_pref_name": "Sucrase-isomaltase, intestinal"
+    },
+    {
+      "uniprot": "Q9HCG7",
+      "gene_symbol": "GBA2",
+      "target_pref_name": "Beta-glucosidase"
+    },
+    {
+      "uniprot": "P35573",
+      "gene_symbol": "AGL",
+      "target_pref_name": "Glycogen debranching enzyme"
+    },
+    {
+      "uniprot": "P30874",
+      "gene_symbol": "SSTR2",
+      "target_pref_name": "Somatostatin receptor type 2"
+    },
+    {
+      "uniprot": "P35346",
+      "gene_symbol": "SSTR5",
+      "target_pref_name": "Somatostatin receptor type 5"
+    },
+    {
+      "uniprot": "P31391",
+      "gene_symbol": "SSTR4",
+      "target_pref_name": "Somatostatin receptor type 4"
+    },
+    {
+      "uniprot": "P36639",
+      "gene_symbol": "NUDT1",
+      "target_pref_name": "Oxidized purine nucleoside triphosphate hydrolase"
+    },
+    {
+      "uniprot": "P10826",
+      "gene_symbol": "RARB",
+      "target_pref_name": "Retinoic acid receptor beta"
+    },
+    {
+      "uniprot": "P13631",
+      "gene_symbol": "RARG",
+      "target_pref_name": "Retinoic acid receptor gamma"
+    },
+    {
+      "uniprot": "P10276",
+      "gene_symbol": "RARA",
+      "target_pref_name": "Retinoic acid receptor alpha"
+    },
+    {
+      "uniprot": "P10809",
+      "gene_symbol": "HSPD1",
+      "target_pref_name": "HSP60/HSP10"
+    },
+    {
+      "uniprot": "P61604",
+      "gene_symbol": "HSPE1",
+      "target_pref_name": "HSP60/HSP10"
+    },
+    {
+      "uniprot": "Q15722",
+      "gene_symbol": "LTB4R",
+      "target_pref_name": "Leukotriene B4 receptor 1"
+    },
+    {
+      "uniprot": "P20292",
+      "gene_symbol": "ALOX5AP",
+      "target_pref_name": "Arachidonate 5-lipoxygenase-activating protein"
+    },
+    {
+      "uniprot": "P51787",
+      "gene_symbol": "KCNQ1",
+      "target_pref_name": "Voltage-gated potassium channel, IKs; KCNQ1(Kv7.1)/KCNE1(MinK)"
+    },
+    {
+      "uniprot": "P15382",
+      "gene_symbol": "KCNE1",
+      "target_pref_name": "Voltage-gated potassium channel, IKs; KCNQ1(Kv7.1)/KCNE1(MinK)"
+    },
+    {
+      "uniprot": "P22102",
+      "gene_symbol": "GART",
+      "target_pref_name": "Trifunctional purine biosynthetic protein adenosine-3"
+    },
+    {
+      "uniprot": "P17174",
+      "gene_symbol": "GOT1",
+      "target_pref_name": "Aspartate aminotransferase, cytoplasmic"
+    },
+    {
+      "uniprot": "P32745",
+      "gene_symbol": "SSTR3",
+      "target_pref_name": "Somatostatin receptor type 3"
+    },
+    {
+      "uniprot": "P30872",
+      "gene_symbol": "SSTR1",
+      "target_pref_name": "Somatostatin receptor type 1"
+    },
+    {
+      "uniprot": "Q9Y6A2",
+      "gene_symbol": "CYP46A1",
+      "target_pref_name": "Cholesterol 24-hydroxylase"
+    },
+    {
+      "uniprot": "P28702",
+      "gene_symbol": "RXRB",
+      "target_pref_name": "Retinoic acid receptor RXR-beta"
+    },
+    {
+      "uniprot": "P48443",
+      "gene_symbol": "RXRG",
+      "target_pref_name": "Retinoic acid receptor RXR-gamma"
+    },
+    {
+      "uniprot": "P28062",
+      "gene_symbol": "PSMB8",
+      "target_pref_name": "Proteasome subunit beta type-8"
+    },
+    {
+      "uniprot": "Q99460",
+      "gene_symbol": "PSMD1",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P28065",
+      "gene_symbol": "PSMB9",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P28072",
+      "gene_symbol": "PSMB6",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "O00487",
+      "gene_symbol": "PSMD14",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P25786",
+      "gene_symbol": "PSMA1",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P25787",
+      "gene_symbol": "PSMA2",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P25788",
+      "gene_symbol": "PSMA3",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P25789",
+      "gene_symbol": "PSMA4",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P28066",
+      "gene_symbol": "PSMA5",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P60900",
+      "gene_symbol": "PSMA6",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "O14818",
+      "gene_symbol": "PSMA7",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q8TAA3",
+      "gene_symbol": "PSMA8",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P40306",
+      "gene_symbol": "PSMB10",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "A5LHX3",
+      "gene_symbol": "PSMB11",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P49720",
+      "gene_symbol": "PSMB3",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P28070",
+      "gene_symbol": "PSMB4",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q99436",
+      "gene_symbol": "PSMB7",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q16186",
+      "gene_symbol": "ADRM1",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P35998",
+      "gene_symbol": "PSMC2",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P62191",
+      "gene_symbol": "PSMC1",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P43686",
+      "gene_symbol": "PSMC4",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P62333",
+      "gene_symbol": "PSMC6",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P17980",
+      "gene_symbol": "PSMC3",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P62195",
+      "gene_symbol": "PSMC5",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q13200",
+      "gene_symbol": "PSMD2",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "O43242",
+      "gene_symbol": "PSMD3",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "O00232",
+      "gene_symbol": "PSMD12",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "O00231",
+      "gene_symbol": "PSMD11",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q15008",
+      "gene_symbol": "PSMD6",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P51665",
+      "gene_symbol": "PSMD7",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "Q9UNM6",
+      "gene_symbol": "PSMD13",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P55036",
+      "gene_symbol": "PSMD4",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P48556",
+      "gene_symbol": "PSMD8",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P60896",
+      "gene_symbol": "SEM1",
+      "target_pref_name": "26S proteasome"
+    },
+    {
+      "uniprot": "P36776",
+      "gene_symbol": "LONP1",
+      "target_pref_name": "Lon protease homolog, mitochondrial"
+    },
+    {
+      "uniprot": "P17538",
+      "gene_symbol": "CTRB1",
+      "target_pref_name": "Chymotrypsinogen B"
+    },
+    {
+      "uniprot": "P23946",
+      "gene_symbol": "CMA1",
+      "target_pref_name": "Chymase"
+    },
+    {
+      "uniprot": "P08246",
+      "gene_symbol": "ELANE",
+      "target_pref_name": "Neutrophil elastase"
+    },
+    {
+      "uniprot": "P10619",
+      "gene_symbol": "CTSA",
+      "target_pref_name": "Lysosomal protective protein"
+    },
+    {
+      "uniprot": "P34972",
+      "gene_symbol": "CNR2",
+      "target_pref_name": "Cannabinoid receptor 2"
+    },
+    {
+      "uniprot": "O43353",
+      "gene_symbol": "RIPK2",
+      "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 2"
+    },
+    {
+      "uniprot": "Q04206",
+      "gene_symbol": "RELA",
+      "target_pref_name": "Transcription factor p65"
+    },
+    {
+      "uniprot": "Q56UN5",
+      "gene_symbol": "MAP3K19",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 19"
+    },
+    {
+      "uniprot": "Q9BUB5",
+      "gene_symbol": "MKNK1",
+      "target_pref_name": "MAP kinase-interacting serine/threonine-protein kinase 1"
+    },
+    {
+      "uniprot": "P49674",
+      "gene_symbol": "CSNK1E",
+      "target_pref_name": "Casein kinase I isoform epsilon"
+    },
+    {
+      "uniprot": "O94804",
+      "gene_symbol": "STK10",
+      "target_pref_name": "Serine/threonine-protein kinase 10"
+    },
+    {
+      "uniprot": "Q52WX2",
+      "gene_symbol": "SBK1",
+      "target_pref_name": "Serine/threonine-protein kinase SBK1"
+    },
+    {
+      "uniprot": "Q9UF33",
+      "gene_symbol": "EPHA6",
+      "target_pref_name": "Ephrin type-A receptor 6"
+    },
+    {
+      "uniprot": "Q13163",
+      "gene_symbol": "MAP2K5",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 5"
+    },
+    {
+      "uniprot": "P21860",
+      "gene_symbol": "ERBB3",
+      "target_pref_name": "Receptor tyrosine-protein kinase erbB-3"
+    },
+    {
+      "uniprot": "P54760",
+      "gene_symbol": "EPHB4",
+      "target_pref_name": "Ephrin type-B receptor 4"
+    },
+    {
+      "uniprot": "O14578",
+      "gene_symbol": "CIT",
+      "target_pref_name": "Citron Rho-interacting kinase"
+    },
+    {
+      "uniprot": "P54762",
+      "gene_symbol": "EPHB1",
+      "target_pref_name": "Ephrin type-B receptor 1"
+    },
+    {
+      "uniprot": "Q9Y616",
+      "gene_symbol": "IRAK3",
+      "target_pref_name": "Interleukin-1 receptor-associated kinase 3"
+    },
+    {
+      "uniprot": "P54756",
+      "gene_symbol": "EPHA5",
+      "target_pref_name": "Ephrin type-A receptor 5"
+    },
+    {
+      "uniprot": "Q96RG2",
+      "gene_symbol": "PASK",
+      "target_pref_name": "PAS domain-containing serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "Q16659",
+      "gene_symbol": "MAPK6",
+      "target_pref_name": "Mitogen-activated protein kinase 6"
+    },
+    {
+      "uniprot": "Q9H1R3",
+      "gene_symbol": "MYLK2",
+      "target_pref_name": "Myosin light chain kinase 2, skeletal/cardiac muscle"
+    },
+    {
+      "uniprot": "Q99759",
+      "gene_symbol": "MAP3K3",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 3"
+    },
+    {
+      "uniprot": "Q9Y572",
+      "gene_symbol": "RIPK3",
+      "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 3"
+    },
+    {
+      "uniprot": "Q9C098",
+      "gene_symbol": "DCLK3",
+      "target_pref_name": "Serine/threonine-protein kinase DCLK3"
+    },
+    {
+      "uniprot": "P31152",
+      "gene_symbol": "MAPK4",
+      "target_pref_name": "Mitogen-activated protein kinase 4"
+    },
+    {
+      "uniprot": "O15197",
+      "gene_symbol": "EPHB6",
+      "target_pref_name": "Ephrin type-B receptor 6"
+    },
+    {
+      "uniprot": "Q9Y2U5",
+      "gene_symbol": "MAP3K2",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 2"
+    },
+    {
+      "uniprot": "Q15139",
+      "gene_symbol": "PRKD1",
+      "target_pref_name": "Serine/threonine-protein kinase D1"
+    },
+    {
+      "uniprot": "Q16816",
+      "gene_symbol": "PHKG1",
+      "target_pref_name": "Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform"
+    },
+    {
+      "uniprot": "O94768",
+      "gene_symbol": "STK17B",
+      "target_pref_name": "Serine/threonine-protein kinase 17B"
+    },
+    {
+      "uniprot": "P21709",
+      "gene_symbol": "EPHA1",
+      "target_pref_name": "Ephrin type-A receptor 1"
+    },
+    {
+      "uniprot": "Q9UBE8",
+      "gene_symbol": "NLK",
+      "target_pref_name": "Serine/threonine-protein kinase NLK"
+    },
+    {
+      "uniprot": "Q9H093",
+      "gene_symbol": "NUAK2",
+      "target_pref_name": "NUAK family SNF1-like kinase 2"
+    },
+    {
+      "uniprot": "P29320",
+      "gene_symbol": "EPHA3",
+      "target_pref_name": "Ephrin type-A receptor 3"
+    },
+    {
+      "uniprot": "Q9NRP7",
+      "gene_symbol": "STK36",
+      "target_pref_name": "Serine/threonine-protein kinase 36"
+    },
+    {
+      "uniprot": "P42681",
+      "gene_symbol": "TXK",
+      "target_pref_name": "Tyrosine-protein kinase TXK"
+    },
+    {
+      "uniprot": "P22830",
+      "gene_symbol": "FECH",
+      "target_pref_name": "Ferrochelatase, mitochondrial"
+    },
+    {
+      "uniprot": "Q09013",
+      "gene_symbol": "DMPK",
+      "target_pref_name": "Myotonin-protein kinase"
+    },
+    {
+      "uniprot": "Q9UKE5",
+      "gene_symbol": "TNIK",
+      "target_pref_name": "TRAF2 and NCK-interacting protein kinase"
+    },
+    {
+      "uniprot": "P47989",
+      "gene_symbol": "XDH",
+      "target_pref_name": "Xanthine dehydrogenase/oxidase"
+    },
+    {
+      "uniprot": "P30043",
+      "gene_symbol": "BLVRB",
+      "target_pref_name": "Flavin reductase (NADPH)"
+    },
+    {
+      "uniprot": "P01584",
+      "gene_symbol": "IL1B",
+      "target_pref_name": "Interleukin-1 beta"
+    },
+    {
+      "uniprot": "Q96SW2",
+      "gene_symbol": "CRBN",
+      "target_pref_name": "Protein cereblon"
+    },
+    {
+      "uniprot": "P29371",
+      "gene_symbol": "TACR3",
+      "target_pref_name": "Neuromedin-K receptor"
+    },
+    {
+      "uniprot": "O43683",
+      "gene_symbol": "BUB1",
+      "target_pref_name": "Mitotic checkpoint serine/threonine-protein kinase BUB1"
+    },
+    {
+      "uniprot": "Q13418",
+      "gene_symbol": "ILK",
+      "target_pref_name": "Integrin-linked protein kinase"
+    },
+    {
+      "uniprot": "Q9UQB9",
+      "gene_symbol": "AURKC",
+      "target_pref_name": "Aurora kinase C"
+    },
+    {
+      "uniprot": "Q13470",
+      "gene_symbol": "TNK1",
+      "target_pref_name": "Non-receptor tyrosine-protein kinase TNK1"
+    },
+    {
+      "uniprot": "P35590",
+      "gene_symbol": "TIE1",
+      "target_pref_name": "Tyrosine-protein kinase receptor Tie-1"
+    },
+    {
+      "uniprot": "Q6PHR2",
+      "gene_symbol": "ULK3",
+      "target_pref_name": "Serine/threonine-protein kinase ULK3"
+    },
+    {
+      "uniprot": "Q2M2I8",
+      "gene_symbol": "AAK1",
+      "target_pref_name": "AP2-associated protein kinase 1"
+    },
+    {
+      "uniprot": "Q9NSY1",
+      "gene_symbol": "BMP2K",
+      "target_pref_name": "BMP-2-inducible protein kinase"
+    },
+    {
+      "uniprot": "P19525",
+      "gene_symbol": "EIF2AK2",
+      "target_pref_name": "Interferon-induced, double-stranded RNA-activated protein kinase"
+    },
+    {
+      "uniprot": "Q92630",
+      "gene_symbol": "DYRK2",
+      "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 2"
+    },
+    {
+      "uniprot": "Q15375",
+      "gene_symbol": "EPHA7",
+      "target_pref_name": "Ephrin type-A receptor 7"
+    },
+    {
+      "uniprot": "P21802",
+      "gene_symbol": "FGFR2",
+      "target_pref_name": "Fibroblast growth factor receptor 2"
+    },
+    {
+      "uniprot": "Q8NI60",
+      "gene_symbol": "COQ8A",
+      "target_pref_name": "Atypical kinase COQ8A, mitochondrial"
+    },
+    {
+      "uniprot": "P07947",
+      "gene_symbol": "YES1",
+      "target_pref_name": "Tyrosine-protein kinase Yes"
+    },
+    {
+      "uniprot": "Q13233",
+      "gene_symbol": "MAP3K1",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 1"
+    },
+    {
+      "uniprot": "Q96D53",
+      "gene_symbol": "COQ8B",
+      "target_pref_name": "Atypical kinase COQ8B, mitochondrial"
+    },
+    {
+      "uniprot": "Q9H773",
+      "gene_symbol": "DCTPP1",
+      "target_pref_name": "dCTP pyrophosphatase 1"
+    },
+    {
+      "uniprot": "Q6DT37",
+      "gene_symbol": "CDC42BPG",
+      "target_pref_name": "Serine/threonine-protein kinase MRCK gamma"
+    },
+    {
+      "uniprot": "P33981",
+      "gene_symbol": "TTK",
+      "target_pref_name": "Dual specificity protein kinase TTK"
+    },
+    {
+      "uniprot": "Q709F0",
+      "gene_symbol": "ACAD11",
+      "target_pref_name": "Acyl-CoA dehydrogenase family member 11"
+    },
+    {
+      "uniprot": "Q9P2K8",
+      "gene_symbol": "EIF2AK4",
+      "target_pref_name": "eIF-2-alpha kinase GCN2"
+    },
+    {
+      "uniprot": "P57078",
+      "gene_symbol": "RIPK4",
+      "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 4"
+    },
+    {
+      "uniprot": "P32298",
+      "gene_symbol": "GRK4",
+      "target_pref_name": "G protein-coupled receptor kinase 4"
+    },
+    {
+      "uniprot": "Q9UPE1",
+      "gene_symbol": "SRPK3",
+      "target_pref_name": "SRSF protein kinase 3"
+    },
+    {
+      "uniprot": "P41240",
+      "gene_symbol": "CSK",
+      "target_pref_name": "Tyrosine-protein kinase CSK"
+    },
+    {
+      "uniprot": "Q92887",
+      "gene_symbol": "ABCC2",
+      "target_pref_name": "ATP-binding cassette sub-family C member 2"
+    },
+    {
+      "uniprot": "O00750",
+      "gene_symbol": "PIK3C2B",
+      "target_pref_name": "Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta"
+    },
+    {
+      "uniprot": "Q9UBF8",
+      "gene_symbol": "PI4KB",
+      "target_pref_name": "Phosphatidylinositol 4-kinase beta"
+    },
+    {
+      "uniprot": "O14733",
+      "gene_symbol": "MAP2K7",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 7"
+    },
+    {
+      "uniprot": "O75747",
+      "gene_symbol": "PIK3C2G",
+      "target_pref_name": "Phosphatidylinositol 3-kinase C2 domain-containing subunit gamma"
+    },
+    {
+      "uniprot": "P05981",
+      "gene_symbol": "HPN",
+      "target_pref_name": "Serine protease hepsin"
+    },
+    {
+      "uniprot": "P00742",
+      "gene_symbol": "F10",
+      "target_pref_name": "Coagulation factor X"
+    },
+    {
+      "uniprot": "P10398",
+      "gene_symbol": "ARAF",
+      "target_pref_name": "Serine/threonine-protein kinase A-Raf"
+    },
+    {
+      "uniprot": "P24863",
+      "gene_symbol": "CCNC",
+      "target_pref_name": "CDK8/Cyclin C"
+    },
+    {
+      "uniprot": "Q8TD08",
+      "gene_symbol": "MAPK15",
+      "target_pref_name": "Mitogen-activated protein kinase 15"
+    },
+    {
+      "uniprot": "Q86Z02",
+      "gene_symbol": "HIPK1",
+      "target_pref_name": "Homeodomain-interacting protein kinase 1"
+    },
+    {
+      "uniprot": "Q9H422",
+      "gene_symbol": "HIPK3",
+      "target_pref_name": "Homeodomain-interacting protein kinase 3"
+    },
+    {
+      "uniprot": "O15146",
+      "gene_symbol": "MUSK",
+      "target_pref_name": "Muscle, skeletal receptor tyrosine-protein kinase"
+    },
+    {
+      "uniprot": "Q92772",
+      "gene_symbol": "CDKL2",
+      "target_pref_name": "Cyclin-dependent kinase-like 2"
+    },
+    {
+      "uniprot": "Q00534",
+      "gene_symbol": "CDK6",
+      "target_pref_name": "Cyclin-dependent kinase 6"
+    },
+    {
+      "uniprot": "Q15759",
+      "gene_symbol": "MAPK11",
+      "target_pref_name": "Mitogen-activated protein kinase 11"
+    },
+    {
+      "uniprot": "Q8IVW4",
+      "gene_symbol": "CDKL3",
+      "target_pref_name": "Cyclin-dependent kinase-like 3"
+    },
+    {
+      "uniprot": "Q9UL54",
+      "gene_symbol": "TAOK2",
+      "target_pref_name": "Serine/threonine-protein kinase TAO2"
+    },
+    {
+      "uniprot": "O43924",
+      "gene_symbol": "PDE6D",
+      "target_pref_name": "Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta"
+    },
+    {
+      "uniprot": "P54764",
+      "gene_symbol": "EPHA4",
+      "target_pref_name": "Ephrin type-A receptor 4"
+    },
+    {
+      "uniprot": "Q13546",
+      "gene_symbol": "RIPK1",
+      "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 1"
+    },
+    {
+      "uniprot": "Q00537",
+      "gene_symbol": "CDK17",
+      "target_pref_name": "Cyclin-dependent kinase 17"
+    },
+    {
+      "uniprot": "P29323",
+      "gene_symbol": "EPHB2",
+      "target_pref_name": "Ephrin type-B receptor 2"
+    },
+    {
+      "uniprot": "Q9BYT3",
+      "gene_symbol": "STK33",
+      "target_pref_name": "Serine/threonine-protein kinase 33"
+    },
+    {
+      "uniprot": "Q9H2K8",
+      "gene_symbol": "TAOK3",
+      "target_pref_name": "Serine/threonine-protein kinase TAO3"
+    },
+    {
+      "uniprot": "O94921",
+      "gene_symbol": "CDK14",
+      "target_pref_name": "Cyclin-dependent kinase 14"
+    },
+    {
+      "uniprot": "Q96Q40",
+      "gene_symbol": "CDK15",
+      "target_pref_name": "Cyclin-dependent kinase 15"
+    },
+    {
+      "uniprot": "Q00526",
+      "gene_symbol": "CDK3",
+      "target_pref_name": "Cyclin-dependent kinase 3"
+    },
+    {
+      "uniprot": "Q92918",
+      "gene_symbol": "MAP4K1",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 1"
+    },
+    {
+      "uniprot": "P37173",
+      "gene_symbol": "TGFBR2",
+      "target_pref_name": "TGF-beta receptor type-2"
+    },
+    {
+      "uniprot": "Q8WXR4",
+      "gene_symbol": "MYO3B",
+      "target_pref_name": "Myosin-IIIb"
+    },
+    {
+      "uniprot": "Q9UK32",
+      "gene_symbol": "RPS6KA6",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-6"
+    },
+    {
+      "uniprot": "P20248",
+      "gene_symbol": "CCNA2",
+      "target_pref_name": "CDK2/Cyclin A2"
+    },
+    {
+      "uniprot": "P53671",
+      "gene_symbol": "LIMK2",
+      "target_pref_name": "LIM domain kinase 2"
+    },
+    {
+      "uniprot": "Q32MK0",
+      "gene_symbol": "MYLK3",
+      "target_pref_name": "Myosin light chain kinase"
+    },
+    {
+      "uniprot": "Q07343",
+      "gene_symbol": "PDE4B",
+      "target_pref_name": "3',5'-cyclic-AMP phosphodiesterase 4B"
+    },
+    {
+      "uniprot": "Q08493",
+      "gene_symbol": "PDE4C",
+      "target_pref_name": "3',5'-cyclic-AMP phosphodiesterase 4C"
+    },
+    {
+      "uniprot": "P51681",
+      "gene_symbol": "CCR5",
+      "target_pref_name": "C-C chemokine receptor type 5"
+    },
+    {
+      "uniprot": "Q9Y5S2",
+      "gene_symbol": "CDC42BPB",
+      "target_pref_name": "Serine/threonine-protein kinase MRCK beta"
+    },
+    {
+      "uniprot": "P54753",
+      "gene_symbol": "EPHB3",
+      "target_pref_name": "Ephrin type-B receptor 3"
+    },
+    {
+      "uniprot": "P07202",
+      "gene_symbol": "TPO",
+      "target_pref_name": "Thyroid peroxidase"
+    },
+    {
+      "uniprot": "P22079",
+      "gene_symbol": "LPO",
+      "target_pref_name": "Lactoperoxidase"
+    },
+    {
+      "uniprot": "Q99640",
+      "gene_symbol": "PKMYT1",
+      "target_pref_name": "Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase"
+    },
+    {
+      "uniprot": "P57059",
+      "gene_symbol": "SIK1",
+      "target_pref_name": "Serine/threonine-protein kinase SIK1"
+    },
+    {
+      "uniprot": "P51813",
+      "gene_symbol": "BMX",
+      "target_pref_name": "Cytoplasmic tyrosine-protein kinase BMX"
+    },
+    {
+      "uniprot": "Q9Y2K2",
+      "gene_symbol": "SIK3",
+      "target_pref_name": "Serine/threonine-protein kinase SIK3"
+    },
+    {
+      "uniprot": "P42680",
+      "gene_symbol": "TEC",
+      "target_pref_name": "Tyrosine-protein kinase Tec"
+    },
+    {
+      "uniprot": "Q15569",
+      "gene_symbol": "TESK1",
+      "target_pref_name": "Dual specificity testis-specific protein kinase 1"
+    },
+    {
+      "uniprot": "O00238",
+      "gene_symbol": "BMPR1B",
+      "target_pref_name": "Bone morphogenetic protein receptor type-1B"
+    },
+    {
+      "uniprot": "Q01538",
+      "gene_symbol": "MYT1",
+      "target_pref_name": "Myelin transcription factor 1"
+    },
+    {
+      "uniprot": "P0C1S8",
+      "gene_symbol": "WEE2",
+      "target_pref_name": "Wee1-like protein kinase 2"
+    },
+    {
+      "uniprot": "P27037",
+      "gene_symbol": "ACVR2A",
+      "target_pref_name": "Activin receptor type-2A"
+    },
+    {
+      "uniprot": "P36897",
+      "gene_symbol": "TGFBR1",
+      "target_pref_name": "TGF-beta receptor type-1"
+    },
+    {
+      "uniprot": "Q9Y6R4",
+      "gene_symbol": "MAP3K4",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 4"
+    },
+    {
+      "uniprot": "P36896",
+      "gene_symbol": "ACVR1B",
+      "target_pref_name": "Activin receptor type-1B"
+    },
+    {
+      "uniprot": "Q16512",
+      "gene_symbol": "PKN1",
+      "target_pref_name": "Serine/threonine-protein kinase N1"
+    },
+    {
+      "uniprot": "P37023",
+      "gene_symbol": "ACVRL1",
+      "target_pref_name": "Activin receptor type-1-like"
+    },
+    {
+      "uniprot": "Q8NG66",
+      "gene_symbol": "NEK11",
+      "target_pref_name": "Serine/threonine-protein kinase Nek11"
+    },
+    {
+      "uniprot": "Q13705",
+      "gene_symbol": "ACVR2B",
+      "target_pref_name": "Activin receptor type-2B"
+    },
+    {
+      "uniprot": "Q8IVH8",
+      "gene_symbol": "MAP4K3",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 3"
+    },
+    {
+      "uniprot": "Q8TDR2",
+      "gene_symbol": "STK35",
+      "target_pref_name": "Serine/threonine-protein kinase 35"
+    },
+    {
+      "uniprot": "P22694",
+      "gene_symbol": "PRKACB",
+      "target_pref_name": "cAMP-dependent protein kinase catalytic subunit beta"
+    },
+    {
+      "uniprot": "Q9P289",
+      "gene_symbol": "STK26",
+      "target_pref_name": "Serine/threonine-protein kinase 26"
+    },
+    {
+      "uniprot": "Q86Y07",
+      "gene_symbol": "VRK2",
+      "target_pref_name": "Serine/threonine-protein kinase VRK2"
+    },
+    {
+      "uniprot": "O00506",
+      "gene_symbol": "STK25",
+      "target_pref_name": "Serine/threonine-protein kinase 25"
+    },
+    {
+      "uniprot": "Q13043",
+      "gene_symbol": "STK4",
+      "target_pref_name": "Serine/threonine-protein kinase 4"
+    },
+    {
+      "uniprot": "P30291",
+      "gene_symbol": "WEE1",
+      "target_pref_name": "Wee1-like protein kinase"
+    },
+    {
+      "uniprot": "O43283",
+      "gene_symbol": "MAP3K13",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 13"
+    },
+    {
+      "uniprot": "P36894",
+      "gene_symbol": "BMPR1A",
+      "target_pref_name": "Bone morphogenetic protein receptor type-1A"
+    },
+    {
+      "uniprot": "Q15418",
+      "gene_symbol": "RPS6KA1",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-1"
+    },
+    {
+      "uniprot": "P22455",
+      "gene_symbol": "FGFR4",
+      "target_pref_name": "Fibroblast growth factor receptor 4"
+    },
+    {
+      "uniprot": "P57058",
+      "gene_symbol": "HUNK",
+      "target_pref_name": "Hormonally up-regulated neu tumor-associated kinase"
+    },
+    {
+      "uniprot": "Q8WU08",
+      "gene_symbol": "STK32A",
+      "target_pref_name": "Serine/threonine-protein kinase 32A"
+    },
+    {
+      "uniprot": "O75716",
+      "gene_symbol": "STK16",
+      "target_pref_name": "Serine/threonine-protein kinase 16"
+    },
+    {
+      "uniprot": "O14730",
+      "gene_symbol": "RIOK3",
+      "target_pref_name": "Serine/threonine-protein kinase RIO3"
+    },
+    {
+      "uniprot": "Q9BRS2",
+      "gene_symbol": "RIOK1",
+      "target_pref_name": "Serine/threonine-protein kinase RIO1"
+    },
+    {
+      "uniprot": "Q8N5S9",
+      "gene_symbol": "CAMKK1",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase kinase 1"
+    },
+    {
+      "uniprot": "Q12852",
+      "gene_symbol": "MAP3K12",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 12"
+    },
+    {
+      "uniprot": "Q8NEV4",
+      "gene_symbol": "MYO3A",
+      "target_pref_name": "Myosin-IIIa"
+    },
+    {
+      "uniprot": "Q6ZSR9",
+      "gene_symbol": "Q6ZSR9",
+      "target_pref_name": "Uncharacterized protein FLJ45252"
+    },
+    {
+      "uniprot": "P80192",
+      "gene_symbol": "MAP3K9",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 9"
+    },
+    {
+      "uniprot": "Q8NFD2",
+      "gene_symbol": "ANKK1",
+      "target_pref_name": "Ankyrin repeat and protein kinase domain-containing protein 1"
+    },
+    {
+      "uniprot": "Q00536",
+      "gene_symbol": "CDK16",
+      "target_pref_name": "Cyclin-dependent kinase 16"
+    },
+    {
+      "uniprot": "Q8IYT8",
+      "gene_symbol": "ULK2",
+      "target_pref_name": "Serine/threonine-protein kinase ULK2"
+    },
+    {
+      "uniprot": "P23458",
+      "gene_symbol": "JAK1",
+      "target_pref_name": "Tyrosine-protein kinase JAK1"
+    },
+    {
+      "uniprot": "Q86YV6",
+      "gene_symbol": "MYLK4",
+      "target_pref_name": "Myosin light chain kinase family member 4"
+    },
+    {
+      "uniprot": "O75914",
+      "gene_symbol": "PAK3",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 3"
+    },
+    {
+      "uniprot": "Q15349",
+      "gene_symbol": "RPS6KA2",
+      "target_pref_name": "Ribosomal protein S6 kinase alpha-2"
+    },
+    {
+      "uniprot": "O75385",
+      "gene_symbol": "ULK1",
+      "target_pref_name": "Serine/threonine-protein kinase ULK1"
+    },
+    {
+      "uniprot": "Q15831",
+      "gene_symbol": "STK11",
+      "target_pref_name": "Serine/threonine-protein kinase STK11"
+    },
+    {
+      "uniprot": "P78356",
+      "gene_symbol": "PIP4K2B",
+      "target_pref_name": "Phosphatidylinositol 5-phosphate 4-kinase type-2 beta"
+    },
+    {
+      "uniprot": "O60285",
+      "gene_symbol": "NUAK1",
+      "target_pref_name": "NUAK family SNF1-like kinase 1"
+    },
+    {
+      "uniprot": "Q9BVS4",
+      "gene_symbol": "RIOK2",
+      "target_pref_name": "Serine/threonine-protein kinase RIO2"
+    },
+    {
+      "uniprot": "P54646",
+      "gene_symbol": "PRKAA2",
+      "target_pref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2"
+    },
+    {
+      "uniprot": "Q9Y6E0",
+      "gene_symbol": "STK24",
+      "target_pref_name": "Serine/threonine-protein kinase 24"
+    },
+    {
+      "uniprot": "P53355",
+      "gene_symbol": "DAPK1",
+      "target_pref_name": "Death-associated protein kinase 1"
+    },
+    {
+      "uniprot": "Q9UEW8",
+      "gene_symbol": "STK39",
+      "target_pref_name": "STE20/SPS1-related proline-alanine-rich protein kinase"
+    },
+    {
+      "uniprot": "Q9UIK4",
+      "gene_symbol": "DAPK2",
+      "target_pref_name": "Death-associated protein kinase 2"
+    },
+    {
+      "uniprot": "Q8WTQ7",
+      "gene_symbol": "GRK7",
+      "target_pref_name": "Rhodopsin kinase GRK7"
+    },
+    {
+      "uniprot": "P78362",
+      "gene_symbol": "SRPK2",
+      "target_pref_name": "SRSF protein kinase 2"
+    },
+    {
+      "uniprot": "Q9Y2H9",
+      "gene_symbol": "MAST1",
+      "target_pref_name": "Microtubule-associated serine/threonine-protein kinase 1"
+    },
+    {
+      "uniprot": "Q96BR1",
+      "gene_symbol": "SGK3",
+      "target_pref_name": "Serine/threonine-protein kinase Sgk3"
+    },
+    {
+      "uniprot": "Q15835",
+      "gene_symbol": "GRK1",
+      "target_pref_name": "Rhodopsin kinase GRK1"
+    },
+    {
+      "uniprot": "Q86UE8",
+      "gene_symbol": "TLK2",
+      "target_pref_name": "Serine/threonine-protein kinase tousled-like 2"
+    },
+    {
+      "uniprot": "Q13523",
+      "gene_symbol": "PRP4K",
+      "target_pref_name": "Serine/threonine-protein kinase PRP4 homolog"
+    },
+    {
+      "uniprot": "Q15208",
+      "gene_symbol": "STK38",
+      "target_pref_name": "Serine/threonine-protein kinase 38"
+    },
+    {
+      "uniprot": "P14616",
+      "gene_symbol": "INSRR",
+      "target_pref_name": "Insulin receptor-related protein"
+    },
+    {
+      "uniprot": "Q96NX5",
+      "gene_symbol": "CAMK1G",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1G"
+    },
+    {
+      "uniprot": "Q9NRM7",
+      "gene_symbol": "LATS2",
+      "target_pref_name": "Serine/threonine-protein kinase LATS2"
+    },
+    {
+      "uniprot": "Q9UPZ9",
+      "gene_symbol": "CILK1",
+      "target_pref_name": "Serine/threonine-protein kinase ICK"
+    },
+    {
+      "uniprot": "Q9NQU5",
+      "gene_symbol": "PAK6",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 6"
+    },
+    {
+      "uniprot": "Q9P286",
+      "gene_symbol": "PAK5",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 5"
+    },
+    {
+      "uniprot": "O95747",
+      "gene_symbol": "OXSR1",
+      "target_pref_name": "Serine/threonine-protein kinase OSR1"
+    },
+    {
+      "uniprot": "Q8N752",
+      "gene_symbol": "CSNK1A1L",
+      "target_pref_name": "Casein kinase I isoform alpha-like"
+    },
+    {
+      "uniprot": "Q13873",
+      "gene_symbol": "BMPR2",
+      "target_pref_name": "Bone morphogenetic protein receptor type-2"
+    },
+    {
+      "uniprot": "O75460",
+      "gene_symbol": "ERN1",
+      "target_pref_name": "Serine/threonine-protein kinase/endoribonuclease IRE1"
+    },
+    {
+      "uniprot": "O95835",
+      "gene_symbol": "LATS1",
+      "target_pref_name": "Serine/threonine-protein kinase LATS1"
+    },
+    {
+      "uniprot": "Q9NRH2",
+      "gene_symbol": "SNRK",
+      "target_pref_name": "SNF-related serine/threonine-protein kinase"
+    },
+    {
+      "uniprot": "P45985",
+      "gene_symbol": "MAP2K4",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 4"
+    },
+    {
+      "uniprot": "Q9UKI8",
+      "gene_symbol": "TLK1",
+      "target_pref_name": "Serine/threonine-protein kinase tousled-like 1"
+    },
+    {
+      "uniprot": "Q8IY84",
+      "gene_symbol": "NIM1K",
+      "target_pref_name": "Serine/threonine-protein kinase NIM1"
+    },
+    {
+      "uniprot": "Q16566",
+      "gene_symbol": "CAMK4",
+      "target_pref_name": "Calcium/calmodulin-dependent protein kinase type IV"
+    },
+    {
+      "uniprot": "Q9Y2H1",
+      "gene_symbol": "STK38L",
+      "target_pref_name": "Serine/threonine-protein kinase 38-like"
+    },
+    {
+      "uniprot": "Q8IWQ3",
+      "gene_symbol": "BRSK2",
+      "target_pref_name": "Serine/threonine-protein kinase BRSK2"
+    },
+    {
+      "uniprot": "P54619",
+      "gene_symbol": "PRKAG1",
+      "target_pref_name": "5'-AMP-activated protein kinase subunit gamma-1"
+    },
+    {
+      "uniprot": "Q9P0L2",
+      "gene_symbol": "MARK1",
+      "target_pref_name": "Serine/threonine-protein kinase MARK1"
+    },
+    {
+      "uniprot": "P18074",
+      "gene_symbol": "ERCC2",
+      "target_pref_name": "General transcription and DNA repair factor IIH helicase subunit XPD"
+    },
+    {
+      "uniprot": "Q16584",
+      "gene_symbol": "MAP3K11",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 11"
+    },
+    {
+      "uniprot": "Q6ZN16",
+      "gene_symbol": "MAP3K15",
+      "target_pref_name": "Mitogen-activated protein kinase kinase kinase 15"
+    },
+    {
+      "uniprot": "Q6XUX3",
+      "gene_symbol": "DSTYK",
+      "target_pref_name": "Dual serine/threonine and tyrosine protein kinase"
+    },
+    {
+      "uniprot": "P43250",
+      "gene_symbol": "GRK6",
+      "target_pref_name": "G protein-coupled receptor kinase 6"
+    },
+    {
+      "uniprot": "Q07002",
+      "gene_symbol": "CDK18",
+      "target_pref_name": "Cyclin-dependent kinase 18"
+    },
+    {
+      "uniprot": "P46734",
+      "gene_symbol": "MAP2K3",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 3"
+    },
+    {
+      "uniprot": "Q9UGJ0",
+      "gene_symbol": "PRKAG2",
+      "target_pref_name": "5'-AMP-activated protein kinase subunit gamma-2"
+    },
+    {
+      "uniprot": "P0C264",
+      "gene_symbol": "SBK3",
+      "target_pref_name": "Uncharacterized serine/threonine-protein kinase SBK3"
+    },
+    {
+      "uniprot": "P11802",
+      "gene_symbol": "CDK4",
+      "target_pref_name": "Cyclin-dependent kinase 4"
+    },
+    {
+      "uniprot": "Q8N568",
+      "gene_symbol": "DCLK2",
+      "target_pref_name": "Serine/threonine-protein kinase DCLK2"
+    },
+    {
+      "uniprot": "Q8TDX7",
+      "gene_symbol": "NEK7",
+      "target_pref_name": "Serine/threonine-protein kinase Nek7"
+    },
+    {
+      "uniprot": "Q9NYY3",
+      "gene_symbol": "PLK2",
+      "target_pref_name": "Serine/threonine-protein kinase PLK2"
+    },
+    {
+      "uniprot": "P52564",
+      "gene_symbol": "MAP2K6",
+      "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 6"
+    },
+    {
+      "uniprot": "Q99755",
+      "gene_symbol": "PIP5K1A",
+      "target_pref_name": "Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha"
+    },
+    {
+      "uniprot": "P17252",
+      "gene_symbol": "PRKCA",
+      "target_pref_name": "Protein kinase C alpha type"
+    },
+    {
+      "uniprot": "O00764",
+      "gene_symbol": "PDXK",
+      "target_pref_name": "Pyridoxal kinase"
+    },
+    {
+      "uniprot": "Q9H2K2",
+      "gene_symbol": "TNKS2",
+      "target_pref_name": "Poly [ADP-ribose] polymerase tankyrase-2"
+    },
+    {
+      "uniprot": "Q13164",
+      "gene_symbol": "MAPK7",
+      "target_pref_name": "Mitogen-activated protein kinase 7"
+    },
+    {
+      "uniprot": "P27487",
+      "gene_symbol": "DPP4",
+      "target_pref_name": "Dipeptidyl peptidase 4"
+    },
+    {
+      "uniprot": "Q6V1X1",
+      "gene_symbol": "DPP8",
+      "target_pref_name": "Dipeptidyl peptidase 8"
+    },
+    {
+      "uniprot": "Q86TI2",
+      "gene_symbol": "DPP9",
+      "target_pref_name": "Dipeptidyl peptidase 9"
+    },
+    {
+      "uniprot": "Q12884",
+      "gene_symbol": "FAP",
+      "target_pref_name": "Prolyl endopeptidase FAP"
+    },
+    {
+      "uniprot": "P21964",
+      "gene_symbol": "COMT",
+      "target_pref_name": "Catechol O-methyltransferase"
+    },
+    {
+      "uniprot": "P49761",
+      "gene_symbol": "CLK3",
+      "target_pref_name": "Dual specificity protein kinase CLK3"
+    },
+    {
+      "uniprot": "Q9BQI3",
+      "gene_symbol": "EIF2AK1",
+      "target_pref_name": "Eukaryotic translation initiation factor 2-alpha kinase 1"
+    },
+    {
+      "uniprot": "O14936",
+      "gene_symbol": "CASK",
+      "target_pref_name": "Peripheral plasma membrane protein CASK"
+    },
+    {
+      "uniprot": "P43403",
+      "gene_symbol": "ZAP70",
+      "target_pref_name": "Tyrosine-protein kinase ZAP-70"
+    },
+    {
+      "uniprot": "Q13177",
+      "gene_symbol": "PAK2",
+      "target_pref_name": "Serine/threonine-protein kinase PAK 2"
+    },
+    {
+      "uniprot": "Q02156",
+      "gene_symbol": "PRKCE",
+      "target_pref_name": "Protein kinase C epsilon type"
+    },
+    {
+      "uniprot": "Q9UPY5",
+      "gene_symbol": "SLC7A11",
+      "target_pref_name": "Cystine/glutamate transporter"
+    },
+    {
+      "uniprot": "O15054",
+      "gene_symbol": "KDM6B",
+      "target_pref_name": "Lysine-specific demethylase 6B"
+    },
+    {
+      "uniprot": "Q8N122",
+      "gene_symbol": "RPTOR",
+      "target_pref_name": "mTORC1"
+    },
+    {
+      "uniprot": "Q9BVC4",
+      "gene_symbol": "MLST8",
+      "target_pref_name": "mTORC1"
+    },
+    {
+      "uniprot": "Q12797",
+      "gene_symbol": "ASPH",
+      "target_pref_name": "Aspartyl/asparaginyl beta-hydroxylase"
+    },
+    {
+      "uniprot": "Q9BX84",
+      "gene_symbol": "TRPM6",
+      "target_pref_name": "Transient receptor potential cation channel subfamily M member 6"
+    },
+    {
+      "uniprot": "Q86U44",
+      "gene_symbol": "METTL3",
+      "target_pref_name": "METTL3/METTL14"
+    },
+    {
+      "uniprot": "Q9HCE5",
+      "gene_symbol": "METTL14",
+      "target_pref_name": "METTL3/METTL14"
+    },
+    {
+      "uniprot": "Q9BPV8",
+      "gene_symbol": "P2RY13",
+      "target_pref_name": "P2Y purinoceptor 13"
+    },
+    {
+      "uniprot": "P31639",
+      "gene_symbol": "SLC5A2",
+      "target_pref_name": "Sodium/glucose cotransporter 2"
+    },
+    {
+      "uniprot": "P13866",
+      "gene_symbol": "SLC5A1",
+      "target_pref_name": "Sodium/glucose cotransporter 1"
+    },
+    {
+      "uniprot": "Q8WWX8",
+      "gene_symbol": "SLC5A11",
+      "target_pref_name": "Sodium/myo-inositol cotransporter 2"
+    },
+    {
+      "uniprot": "P25116",
+      "gene_symbol": "F2R",
+      "target_pref_name": "Proteinase-activated receptor 1"
+    },
+    {
+      "uniprot": "Q9UQ88",
+      "gene_symbol": "CDK11A",
+      "target_pref_name": "Cyclin-dependent kinase 11A"
+    },
+    {
+      "uniprot": "O60331",
+      "gene_symbol": "PIP5K1C",
+      "target_pref_name": "Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma"
+    },
+    {
+      "uniprot": "P21127",
+      "gene_symbol": "CDK11B",
+      "target_pref_name": "Cyclin-dependent kinase 11B"
+    },
+    {
+      "uniprot": "Q6P3R8",
+      "gene_symbol": "NEK5",
+      "target_pref_name": "Serine/threonine-protein kinase Nek5"
+    },
+    {
+      "uniprot": "P55263",
+      "gene_symbol": "ADK",
+      "target_pref_name": "Adenosine kinase"
+    },
+    {
+      "uniprot": "P12259",
+      "gene_symbol": "F5",
+      "target_pref_name": "Coagulation factor V/Coagulation factor X/Serine/threonine-protein kinase BRSK2"
+    },
+    {
+      "uniprot": "P43235",
+      "gene_symbol": "CTSK",
+      "target_pref_name": "Cathepsin K"
+    },
+    {
+      "uniprot": "O60911",
+      "gene_symbol": "CTSV",
+      "target_pref_name": "Cathepsin L2"
+    },
+    {
+      "uniprot": "P25774",
+      "gene_symbol": "CTSS",
+      "target_pref_name": "Cathepsin S"
+    },
+    {
+      "uniprot": "P07711",
+      "gene_symbol": "CTSL",
+      "target_pref_name": "Procathepsin L"
+    },
+    {
+      "uniprot": "Q9UBX1",
+      "gene_symbol": "CTSF",
+      "target_pref_name": "Cathepsin F"
+    },
+    {
+      "uniprot": "P07858",
+      "gene_symbol": "CTSB",
+      "target_pref_name": "Cathepsin B"
+    },
+    {
+      "uniprot": "P42336",
+      "gene_symbol": "PIK3CA",
+      "target_pref_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+    },
+    {
+      "uniprot": "Q8NB16",
+      "gene_symbol": "MLKL",
+      "target_pref_name": "Mixed lineage kinase domain-like protein"
+    },
+    {
+      "uniprot": "Q8TD19",
+      "gene_symbol": "NEK9",
+      "target_pref_name": "Serine/threonine-protein kinase Nek9"
+    },
+    {
+      "uniprot": "O15357",
+      "gene_symbol": "INPPL1",
+      "target_pref_name": "Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2"
+    },
+    {
+      "uniprot": "P24530",
+      "gene_symbol": "EDNRB",
+      "target_pref_name": "Endothelin receptor type B"
+    },
+    {
+      "uniprot": "P30536",
+      "gene_symbol": "TSPO",
+      "target_pref_name": "Translocator protein"
+    },
+    {
+      "uniprot": "P42892",
+      "gene_symbol": "ECE1",
+      "target_pref_name": "MUS81-ECE1"
+    },
+    {
+      "uniprot": "Q96NY9",
+      "gene_symbol": "MUS81",
+      "target_pref_name": "MUS81-ECE1"
+    },
+    {
+      "uniprot": "P51956",
+      "gene_symbol": "NEK3",
+      "target_pref_name": "Serine/threonine-protein kinase Nek3"
+    },
+    {
+      "uniprot": "Q7RTN6",
+      "gene_symbol": "STRADA",
+      "target_pref_name": "STE20-related kinase adapter protein alpha"
+    },
+    {
+      "uniprot": "Q99835",
+      "gene_symbol": "SMO",
+      "target_pref_name": "Protein smoothened"
+    },
+    {
+      "uniprot": "Q15465",
+      "gene_symbol": "SHH",
+      "target_pref_name": "Sonic hedgehog protein"
+    },
+    {
+      "uniprot": "Q96RU2",
+      "gene_symbol": "USP28",
+      "target_pref_name": "Ubiquitin carboxyl-terminal hydrolase 28"
+    },
+    {
+      "uniprot": "Q92499",
+      "gene_symbol": "DDX1",
+      "target_pref_name": "ATP-dependent RNA helicase DDX1"
+    },
+    {
+      "uniprot": "Q9NWH9",
+      "gene_symbol": "SLTM",
+      "target_pref_name": "SAFB-like transcription modulator"
+    },
+    {
+      "uniprot": "Q00613",
+      "gene_symbol": "HSF1",
+      "target_pref_name": "Heat shock factor protein 1"
+    },
+    {
+      "uniprot": "Q76MJ5",
+      "gene_symbol": "ERN2",
+      "target_pref_name": "Serine/threonine-protein kinase/endoribonuclease IRE2"
+    },
+    {
+      "uniprot": "Q96PY6",
+      "gene_symbol": "NEK1",
+      "target_pref_name": "Serine/threonine-protein kinase Nek1"
+    },
+    {
+      "uniprot": "P01116",
+      "gene_symbol": "KRAS",
+      "target_pref_name": "GTPase KRas"
+    },
+    {
+      "uniprot": "Q9NZD1",
+      "gene_symbol": "GPRC5D",
+      "target_pref_name": "G-protein coupled receptor family C group 5 member D"
+    },
+    {
+      "uniprot": "Q9NYJ7",
+      "gene_symbol": "DLL3",
+      "target_pref_name": "Delta-like protein 3"
+    },
+    {
+      "uniprot": "P56856",
+      "gene_symbol": "CLDN18",
+      "target_pref_name": "Claudin-18"
+    },
+    {
+      "uniprot": "Q9UM44",
+      "gene_symbol": "CD3D",
+      "target_pref_name": "T-cell surface glycoprotein CD3 delta chain"
+    },
+    {
+      "uniprot": "P07766",
+      "gene_symbol": "CD3E",
+      "target_pref_name": "T-cell surface glycoprotein CD3 epsilon chain"
+    },
+    {
+      "uniprot": "P09693",
+      "gene_symbol": "CD3G",
+      "target_pref_name": "T-cell surface glycoprotein CD3 gamma chain"
+    },
+    {
+      "uniprot": "P09758",
+      "gene_symbol": "TACSTD2",
+      "target_pref_name": "Tumor-associated calcium signal transducer 2 (TROP2)"
+    },
+    {
+      "uniprot": "Q96NY8",
+      "gene_symbol": "NECTIN4",
+      "target_pref_name": "Nectin-4"
+    },
+    {
+      "uniprot": "Q13421",
+      "gene_symbol": "MSLN",
+      "target_pref_name": "Mesothelin"
+    },
+    {
+      "uniprot": "Q13641",
+      "gene_symbol": "TPBG",
+      "target_pref_name": "Trophoblast glycoprotein (5T4)"
+    },
+    {
+      "uniprot": "Q8WXI7",
+      "gene_symbol": "MUC16",
+      "target_pref_name": "Mucin-16 (CA125)"
+    },
+    {
+      "uniprot": "Q13433",
+      "gene_symbol": "SLC39A6",
+      "target_pref_name": "Zinc transporter ZIP6 (LIV-1)"
+    },
+    {
+      "uniprot": "P11279",
+      "gene_symbol": "LAMP1",
+      "target_pref_name": "Lysosome-associated membrane glycoprotein 1"
+    },
+    {
+      "uniprot": "Q5ZPR3",
+      "gene_symbol": "CD276",
+      "target_pref_name": "CD276 antigen (B7-H3)"
+    },
+    {
+      "uniprot": "Q7Z7D3",
+      "gene_symbol": "VTCN1",
+      "target_pref_name": "V-set domain-containing T-cell activation inhibitor 1 (B7-H4)"
+    },
+    {
+      "uniprot": "P28908",
+      "gene_symbol": "TNFRSF8",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 8 (CD30)"
+    },
+    {
+      "uniprot": "P20138",
+      "gene_symbol": "CD33",
+      "target_pref_name": "Myeloid cell surface antigen CD33"
+    },
+    {
+      "uniprot": "P28907",
+      "gene_symbol": "CD38",
+      "target_pref_name": "ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1 (CD38)"
+    },
+    {
+      "uniprot": "Q08722",
+      "gene_symbol": "CD47",
+      "target_pref_name": "Leukocyte surface antigen CD47"
+    },
+    {
+      "uniprot": "P78324",
+      "gene_symbol": "SIRPA",
+      "target_pref_name": "Tyrosine-protein phosphatase non-receptor type substrate 1 (SIRP\u03b1)"
+    },
+    {
+      "uniprot": "Q495A1",
+      "gene_symbol": "TIGIT",
+      "target_pref_name": "T-cell immunoreceptor with Ig and ITIM domains"
+    },
+    {
+      "uniprot": "Q8TDQ0",
+      "gene_symbol": "HAVCR2",
+      "target_pref_name": "Hepatitis A virus cellular receptor 2 (TIM-3)"
+    },
+    {
+      "uniprot": "Q7Z6A9",
+      "gene_symbol": "BTLA",
+      "target_pref_name": "B- and T-lymphocyte attenuator"
+    },
+    {
+      "uniprot": "P43489",
+      "gene_symbol": "TNFRSF4",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 4 (OX40)"
+    },
+    {
+      "uniprot": "Q9Y5U5",
+      "gene_symbol": "TNFRSF18",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 18 (GITR)"
+    },
+    {
+      "uniprot": "Q07011",
+      "gene_symbol": "TNFRSF9",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 9 (4-1BB/CD137)"
+    },
+    {
+      "uniprot": "Q9Y6W8",
+      "gene_symbol": "ICOS",
+      "target_pref_name": "Inducible T-cell costimulator"
+    },
+    {
+      "uniprot": "P25942",
+      "gene_symbol": "CD40",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 5 (CD40)"
+    },
+    {
+      "uniprot": "P29965",
+      "gene_symbol": "CD40LG",
+      "target_pref_name": "CD40 ligand"
+    },
+    {
+      "uniprot": "P26842",
+      "gene_symbol": "CD27",
+      "target_pref_name": "CD27 antigen"
+    },
+    {
+      "uniprot": "P26718",
+      "gene_symbol": "KLRK1",
+      "target_pref_name": "NKG2-D type II integral membrane protein"
+    },
+    {
+      "uniprot": "Q9H7M9",
+      "gene_symbol": "VSIR",
+      "target_pref_name": "V-type immunoglobulin domain-containing suppressor of T-cell activation (VISTA)"
+    },
+    {
+      "uniprot": "Q969D9",
+      "gene_symbol": "TSLP",
+      "target_pref_name": "Thymic stromal lymphopoietin"
+    },
+    {
+      "uniprot": "Q9NQ25",
+      "gene_symbol": "SLAMF7",
+      "target_pref_name": "SLAM family member 7"
+    },
+    {
+      "uniprot": "Q9HBE5",
+      "gene_symbol": "IL36R",
+      "target_pref_name": "Interleukin-36 receptor"
+    },
+    {
+      "uniprot": "Q14116",
+      "gene_symbol": "IL18",
+      "target_pref_name": "Interleukin-18"
+    },
+    {
+      "uniprot": "P40933",
+      "gene_symbol": "IL15",
+      "target_pref_name": "Interleukin-15"
+    },
+    {
+      "uniprot": "Q13261",
+      "gene_symbol": "IL15RA",
+      "target_pref_name": "Interleukin-15 receptor subunit alpha"
+    },
+    {
+      "uniprot": "P35225",
+      "gene_symbol": "IL13",
+      "target_pref_name": "Interleukin-13"
+    },
+    {
+      "uniprot": "P78552",
+      "gene_symbol": "IL13RA1",
+      "target_pref_name": "Interleukin-13 receptor subunit alpha-1"
+    },
+    {
+      "uniprot": "Q8NI17",
+      "gene_symbol": "IL31RA",
+      "target_pref_name": "Interleukin-31 receptor subunit alpha"
+    },
+    {
+      "uniprot": "Q99650",
+      "gene_symbol": "OSMR",
+      "target_pref_name": "Oncostatin-M-specific receptor subunit beta"
+    },
+    {
+      "uniprot": "Q96F46",
+      "gene_symbol": "IL17RA",
+      "target_pref_name": "Interleukin-17 receptor A"
+    },
+    {
+      "uniprot": "P02745",
+      "gene_symbol": "C1QA",
+      "target_pref_name": "Complement C1q subcomponent subunit A"
+    },
+    {
+      "uniprot": "P00736",
+      "gene_symbol": "C1R",
+      "target_pref_name": "Complement C1r subcomponent"
+    },
+    {
+      "uniprot": "P09871",
+      "gene_symbol": "C1S",
+      "target_pref_name": "Complement C1s subcomponent"
+    },
+    {
+      "uniprot": "P01024",
+      "gene_symbol": "C3",
+      "target_pref_name": "Complement C3"
+    },
+    {
+      "uniprot": "P21730",
+      "gene_symbol": "C5AR1",
+      "target_pref_name": "C5a anaphylatoxin chemotactic receptor 1"
+    },
+    {
+      "uniprot": "P03952",
+      "gene_symbol": "KLKB1",
+      "target_pref_name": "Plasma kallikrein"
+    },
+    {
+      "uniprot": "P00748",
+      "gene_symbol": "F12",
+      "target_pref_name": "Coagulation factor XII"
+    },
+    {
+      "uniprot": "P04275",
+      "gene_symbol": "VWF",
+      "target_pref_name": "von Willebrand factor"
+    },
+    {
+      "uniprot": "P00451",
+      "gene_symbol": "F8",
+      "target_pref_name": "Coagulation factor VIII"
+    },
+    {
+      "uniprot": "P00740",
+      "gene_symbol": "F9",
+      "target_pref_name": "Coagulation factor IX"
+    },
+    {
+      "uniprot": "P03951",
+      "gene_symbol": "F11",
+      "target_pref_name": "Coagulation factor XI"
+    },
+    {
+      "uniprot": "Q14790",
+      "gene_symbol": "F2RL1",
+      "target_pref_name": "Proteinase-activated receptor 2"
+    },
+    {
+      "uniprot": "Q9BQB4",
+      "gene_symbol": "SOST",
+      "target_pref_name": "Sclerostin"
+    },
+    {
+      "uniprot": "Q9Y6Q6",
+      "gene_symbol": "TNFRSF11A",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 11A (RANK)"
+    },
+    {
+      "uniprot": "Q8NBP7",
+      "gene_symbol": "PCSK9",
+      "target_pref_name": "Proprotein convertase subtilisin/kexin type 9"
+    },
+    {
+      "uniprot": "Q9Y5C1",
+      "gene_symbol": "ANGPTL3",
+      "target_pref_name": "Angiopoietin-related protein 3"
+    },
+    {
+      "uniprot": "P02656",
+      "gene_symbol": "APOC3",
+      "target_pref_name": "Apolipoprotein C-III"
+    },
+    {
+      "uniprot": "P08519",
+      "gene_symbol": "LPA",
+      "target_pref_name": "Apolipoprotein(a)"
+    },
+    {
+      "uniprot": "Q9NSA1",
+      "gene_symbol": "FGF21",
+      "target_pref_name": "Fibroblast growth factor 21"
+    },
+    {
+      "uniprot": "P48546",
+      "gene_symbol": "GIPR",
+      "target_pref_name": "Glucose-dependent insulinotropic peptide receptor"
+    },
+    {
+      "uniprot": "P47871",
+      "gene_symbol": "GCGR",
+      "target_pref_name": "Glucagon receptor"
+    },
+    {
+      "uniprot": "O15123",
+      "gene_symbol": "ANGPT2",
+      "target_pref_name": "Angiopoietin-2"
+    },
+    {
+      "uniprot": "P06881",
+      "gene_symbol": "CALCA",
+      "target_pref_name": "Calcitonin gene-related peptide 1"
+    },
+    {
+      "uniprot": "Q16602",
+      "gene_symbol": "CALCRL",
+      "target_pref_name": "Calcitonin gene-related peptide type 1 receptor"
+    },
+    {
+      "uniprot": "P01854",
+      "gene_symbol": "IGHE",
+      "target_pref_name": "Immunoglobulin epsilon chain C region"
+    },
+    {
+      "uniprot": "Q96RJ3",
+      "gene_symbol": "TNFRSF13C",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 13C (BAFF-R)"
+    },
+    {
+      "uniprot": "P15692",
+      "gene_symbol": "VEGFA",
+      "target_pref_name": "Vascular endothelial growth factor A"
+    },
+    {
+      "uniprot": "P49765",
+      "gene_symbol": "VEGFB",
+      "target_pref_name": "Vascular endothelial growth factor B"
+    },
+    {
+      "uniprot": "P49767",
+      "gene_symbol": "VEGFC",
+      "target_pref_name": "Vascular endothelial growth factor C"
+    },
+    {
+      "uniprot": "P04085",
+      "gene_symbol": "PDGFA",
+      "target_pref_name": "Platelet-derived growth factor subunit A"
+    },
+    {
+      "uniprot": "P01127",
+      "gene_symbol": "PDGFB",
+      "target_pref_name": "Platelet-derived growth factor subunit B"
+    },
+    {
+      "uniprot": "Q15116",
+      "gene_symbol": "PDCD1",
+      "target_pref_name": "Programmed cell death protein 1 (PD-1)"
+    },
+    {
+      "uniprot": "P16410",
+      "gene_symbol": "CTLA4",
+      "target_pref_name": "Cytotoxic T-lymphocyte protein 4"
+    },
+    {
+      "uniprot": "P18627",
+      "gene_symbol": "LAG3",
+      "target_pref_name": "Lymphocyte activation gene 3 protein"
+    },
+    {
+      "uniprot": "P11836",
+      "gene_symbol": "MS4A1",
+      "target_pref_name": "B-lymphocyte antigen CD20"
+    },
+    {
+      "uniprot": "P15391",
+      "gene_symbol": "CD19",
+      "target_pref_name": "B-lymphocyte antigen CD19"
+    },
+    {
+      "uniprot": "P20273",
+      "gene_symbol": "CD22",
+      "target_pref_name": "B-cell receptor CD22"
+    },
+    {
+      "uniprot": "Q02223",
+      "gene_symbol": "TNFRSF17",
+      "target_pref_name": "Tumor necrosis factor receptor superfamily member 17 (BCMA)"
+    },
+    {
+      "uniprot": "P31358",
+      "gene_symbol": "CD52",
+      "target_pref_name": "CAMPATH-1 antigen"
+    },
+    {
+      "uniprot": "P08887",
+      "gene_symbol": "IL6R",
+      "target_pref_name": "Interleukin-6 receptor subunit alpha"
+    },
+    {
+      "uniprot": "Q16552",
+      "gene_symbol": "IL17A",
+      "target_pref_name": "Interleukin-17A"
+    },
+    {
+      "uniprot": "Q9NPF7",
+      "gene_symbol": "IL23A",
+      "target_pref_name": "Interleukin-23 subunit alpha"
+    },
+    {
+      "uniprot": "P29460",
+      "gene_symbol": "IL12B",
+      "target_pref_name": "Interleukin-12 subunit beta"
+    },
+    {
+      "uniprot": "P05113",
+      "gene_symbol": "IL5",
+      "target_pref_name": "Interleukin-5"
+    },
+    {
+      "uniprot": "Q01344",
+      "gene_symbol": "IL5RA",
+      "target_pref_name": "Interleukin-5 receptor subunit alpha"
+    },
+    {
+      "uniprot": "P24394",
+      "gene_symbol": "IL4R",
+      "target_pref_name": "Interleukin-4 receptor subunit alpha"
+    },
+    {
+      "uniprot": "P14778",
+      "gene_symbol": "IL1R1",
+      "target_pref_name": "Interleukin-1 receptor type 1"
+    },
+    {
+      "uniprot": "P01589",
+      "gene_symbol": "IL2RA",
+      "target_pref_name": "Interleukin-2 receptor subunit alpha"
+    },
+    {
+      "uniprot": "Q9Y275",
+      "gene_symbol": "TNFSF13B",
+      "target_pref_name": "Tumor necrosis factor ligand superfamily member 13B (BAFF)"
+    },
+    {
+      "uniprot": "O14788",
+      "gene_symbol": "TNFSF11",
+      "target_pref_name": "Tumor necrosis factor ligand superfamily member 11 (RANKL)"
+    },
+    {
+      "uniprot": "P13612",
+      "gene_symbol": "ITGA4",
+      "target_pref_name": "Integrin alpha-4"
+    },
+    {
+      "uniprot": "P26010",
+      "gene_symbol": "ITGB7",
+      "target_pref_name": "Integrin beta-7"
+    },
+    {
+      "uniprot": "P13726",
+      "gene_symbol": "F3",
+      "target_pref_name": "Tissue factor / coagulation factor III"
+    },
+    {
+      "uniprot": "P17181",
+      "gene_symbol": "IFNAR1",
+      "target_pref_name": "Interferon alpha/beta receptor 1"
+    },
+    {
+      "uniprot": "P01008",
+      "gene_symbol": "SERPINC1",
+      "target_pref_name": "Antithrombin-III"
+    },
+    {
+      "uniprot": "P21453",
+      "gene_symbol": "S1PR1",
+      "target_pref_name": "Sphingosine 1-phosphate receptor 1"
+    },
+    {
+      "uniprot": "P10415",
+      "gene_symbol": "BCL2",
+      "target_pref_name": "B-cell lymphoma 2 protein"
+    },
+    {
+      "uniprot": "P48736",
+      "gene_symbol": "PIK3CG",
+      "target_pref_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma"
+    },
+    {
+      "uniprot": "O75874",
+      "gene_symbol": "IDH1",
+      "target_pref_name": "Isocitrate dehydrogenase (NADP) cytoplasmic 1"
+    },
+    {
+      "uniprot": "O14746",
+      "gene_symbol": "TERT",
+      "target_pref_name": "Telomerase reverse transcriptase"
+    },
+    {
+      "uniprot": "P61073",
+      "gene_symbol": "CXCR4",
+      "target_pref_name": "C-X-C chemokine receptor type 4"
+    },
+    {
+      "uniprot": "Q92542",
+      "gene_symbol": "NCSTN",
+      "target_pref_name": "Nicastrin"
+    },
+    {
+      "uniprot": "P12883",
+      "gene_symbol": "MYH7",
+      "target_pref_name": "Myosin-7 cardiac beta isoform"
+    },
+    {
+      "uniprot": "P10646",
+      "gene_symbol": "TFPI",
+      "target_pref_name": "Tissue factor pathway inhibitor"
+    },
+    {
+      "uniprot": "P11926",
+      "gene_symbol": "ODC1",
+      "target_pref_name": "Ornithine decarboxylase 1"
+    },
+    {
+      "uniprot": "Q9UHB4",
+      "gene_symbol": "NDOR1",
+      "target_pref_name": "NADPH-dependent diflavin oxidoreductase 1"
+    },
+    {
+      "uniprot": "P14735",
+      "gene_symbol": "IDE",
+      "target_pref_name": "Insulin-degrading enzyme"
+    },
+    {
+      "uniprot": "Q9Y5K8",
+      "gene_symbol": "ATP6V1D",
+      "target_pref_name": "V-type proton ATPase subunit D"
+    },
+    {
+      "uniprot": "P02775",
+      "gene_symbol": "PPBP",
+      "target_pref_name": "Platelet basic protein"
+    },
+    {
+      "uniprot": "P29622",
+      "gene_symbol": "SERPINA4",
+      "target_pref_name": "Kallistatin"
+    },
+    {
+      "uniprot": "P26006",
+      "gene_symbol": "ITGA3",
+      "target_pref_name": "Integrin alpha-3"
+    },
+    {
+      "uniprot": "Q9NRD8",
+      "gene_symbol": "DUOX2",
+      "target_pref_name": "Dual oxidase 2"
+    },
+    {
+      "uniprot": "P00751",
+      "gene_symbol": "CFB",
+      "target_pref_name": "Complement factor B (iptacopan target)"
+    },
+    {
+      "uniprot": "Q14213",
+      "gene_symbol": "EBI3",
+      "target_pref_name": "IL-27 / IL-35 subunit beta"
+    },
+    {
+      "uniprot": "Q9Y6Y9",
+      "gene_symbol": "LY96",
+      "target_pref_name": "MD-2 / lymphocyte antigen 96"
+    },
+    {
+      "uniprot": "P49675",
+      "gene_symbol": "ALAS1",
+      "target_pref_name": "Delta-aminolevulinate synthase nonspecific (NB drug)"
+    },
+    {
+      "uniprot": "Q99814",
+      "gene_symbol": "EPAS1",
+      "target_pref_name": "Endothelial PAS domain-containing protein 1 (HIF-2\u03b1)"
+    },
+    {
+      "uniprot": "P48735",
+      "gene_symbol": "IDH2",
+      "target_pref_name": "Isocitrate dehydrogenase NADP mitochondrial"
+    },
+    {
+      "uniprot": "Q15910",
+      "gene_symbol": "EZH2",
+      "target_pref_name": "Histone-lysine N-methyltransferase EZH2"
+    },
+    {
+      "uniprot": "O43613",
+      "gene_symbol": "HCRTR1",
+      "target_pref_name": "Orexin receptor type 1"
+    },
+    {
+      "uniprot": "O43614",
+      "gene_symbol": "HCRTR2",
+      "target_pref_name": "Orexin receptor type 2"
+    },
+    {
+      "uniprot": "P55899",
+      "gene_symbol": "FCGRT",
+      "target_pref_name": "IgG receptor FcRn large subunit p51"
+    },
+    {
+      "uniprot": "Q8TDS4",
+      "gene_symbol": "HCAR2",
+      "target_pref_name": "Hydroxycarboxylic acid receptor 2 (niacin)"
+    },
+    {
+      "uniprot": "Q16236",
+      "gene_symbol": "NFE2L2",
+      "target_pref_name": "Nuclear factor erythroid 2-related factor 2 (Nrf2)"
+    },
+    {
+      "uniprot": "P10912",
+      "gene_symbol": "GHR",
+      "target_pref_name": "Growth hormone receptor"
+    },
+    {
+      "uniprot": "Q12908",
+      "gene_symbol": "SLC10A2",
+      "target_pref_name": "Ileal sodium/bile acid cotransporter (NTCP)"
+    },
+    {
+      "uniprot": "P40967",
+      "gene_symbol": "PMEL",
+      "target_pref_name": "Premelanosome protein gp100"
+    },
+    {
+      "uniprot": "P39060",
+      "gene_symbol": "COL18A1",
+      "target_pref_name": "Endostatin precursor"
+    },
+    {
+      "uniprot": "Q13133",
+      "gene_symbol": "NR1H3",
+      "target_pref_name": "Oxysterols receptor LXR-alpha"
+    }
+  ]
+}

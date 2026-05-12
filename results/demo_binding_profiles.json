@@ -1,0 +1,2709 @@
+{
+  "sunitinib": {
+    "binding_profile": [
+      {
+        "uniprot": "P09619",
+        "gene_symbol": "PDGFRB",
+        "target_pref_name": "Platelet-derived growth factor receptor beta",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.075,
+        "pchembl_value": 10.12
+      },
+      {
+        "uniprot": "P35968",
+        "gene_symbol": "KDR",
+        "target_pref_name": "Vascular endothelial growth factor receptor 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.2,
+        "pchembl_value": 9.7
+      },
+      {
+        "uniprot": "P10721",
+        "gene_symbol": "KIT",
+        "target_pref_name": "Mast/stem cell growth factor receptor Kit",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.21,
+        "pchembl_value": 9.68
+      },
+      {
+        "uniprot": "P36888",
+        "gene_symbol": "FLT3",
+        "target_pref_name": "Receptor-type tyrosine-protein kinase FLT3",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.22,
+        "pchembl_value": 9.66
+      },
+      {
+        "uniprot": "P16234",
+        "gene_symbol": "PDGFRA",
+        "target_pref_name": "Platelet-derived growth factor receptor alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.79,
+        "pchembl_value": 9.1
+      },
+      {
+        "uniprot": "Q9UEE5",
+        "gene_symbol": "STK17A",
+        "target_pref_name": "Serine/threonine-protein kinase 17A",
+        "standard_type": "Kd",
+        "standard_value_nm": 1.0,
+        "pchembl_value": 9.0
+      },
+      {
+        "uniprot": "P48729",
+        "gene_symbol": "CSNK1A1",
+        "target_pref_name": "Casein kinase I isoform alpha",
+        "standard_type": "IC50",
+        "standard_value_nm": 1.0,
+        "pchembl_value": null
+      },
+      {
+        "uniprot": "P07949",
+        "gene_symbol": "RET",
+        "target_pref_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+        "standard_type": "IC50",
+        "standard_value_nm": 1.0,
+        "pchembl_value": null
+      },
+      {
+        "uniprot": "P17948",
+        "gene_symbol": "FLT1",
+        "target_pref_name": "Vascular endothelial growth factor receptor 1",
+        "standard_type": "IC50",
+        "standard_value_nm": 1.0,
+        "pchembl_value": 9.0
+      },
+      {
+        "uniprot": "P07333",
+        "gene_symbol": "CSF1R",
+        "target_pref_name": "Macrophage colony-stimulating factor 1 receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 2.0,
+        "pchembl_value": 8.7
+      },
+      {
+        "uniprot": "Q16816",
+        "gene_symbol": "PHKG1",
+        "target_pref_name": "Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",
+        "standard_type": "Kd",
+        "standard_value_nm": 5.5,
+        "pchembl_value": 8.26
+      },
+      {
+        "uniprot": "Q9NSY1",
+        "gene_symbol": "BMP2K",
+        "target_pref_name": "BMP-2-inducible protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 5.5,
+        "pchembl_value": 8.26
+      },
+      {
+        "uniprot": "P15735",
+        "gene_symbol": "PHKG2",
+        "target_pref_name": "Phosphorylase b kinase gamma catalytic chain, liver/testis isoform",
+        "standard_type": "Kd",
+        "standard_value_nm": 5.9,
+        "pchembl_value": 8.23
+      },
+      {
+        "uniprot": "P80370",
+        "gene_symbol": "DLK1",
+        "target_pref_name": "Protein delta homolog 1",
+        "standard_type": "Ki",
+        "standard_value_nm": 6.3,
+        "pchembl_value": 8.2
+      },
+      {
+        "uniprot": "O96017",
+        "gene_symbol": "CHEK2",
+        "target_pref_name": "Serine/threonine-protein kinase Chk2",
+        "standard_type": "Kd",
+        "standard_value_nm": 7.1,
+        "pchembl_value": 8.15
+      },
+      {
+        "uniprot": "P35916",
+        "gene_symbol": "FLT4",
+        "target_pref_name": "Vascular endothelial growth factor receptor 3",
+        "standard_type": "IC50",
+        "standard_value_nm": 8.9,
+        "pchembl_value": 8.05
+      },
+      {
+        "uniprot": "P06239",
+        "gene_symbol": "LCK",
+        "target_pref_name": "Tyrosine-protein kinase Lck",
+        "standard_type": "IC50",
+        "standard_value_nm": 8.9,
+        "pchembl_value": 8.05
+      },
+      {
+        "uniprot": "P23458",
+        "gene_symbol": "JAK1",
+        "target_pref_name": "Tyrosine-protein kinase JAK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 9.0,
+        "pchembl_value": 8.05
+      },
+      {
+        "uniprot": "P30530",
+        "gene_symbol": "AXL",
+        "target_pref_name": "Tyrosine-protein kinase receptor UFO",
+        "standard_type": "Kd",
+        "standard_value_nm": 9.0,
+        "pchembl_value": 8.05
+      },
+      {
+        "uniprot": "Q2M2I8",
+        "gene_symbol": "AAK1",
+        "target_pref_name": "AP2-associated protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 11.0,
+        "pchembl_value": 7.96
+      },
+      {
+        "uniprot": "P49674",
+        "gene_symbol": "CSNK1E",
+        "target_pref_name": "Casein kinase I isoform epsilon",
+        "standard_type": "Kd",
+        "standard_value_nm": 13.0,
+        "pchembl_value": 7.89
+      },
+      {
+        "uniprot": "Q08881",
+        "gene_symbol": "ITK",
+        "target_pref_name": "Tyrosine-protein kinase ITK/TSK",
+        "standard_type": "Kd",
+        "standard_value_nm": 13.0,
+        "pchembl_value": 7.89
+      },
+      {
+        "uniprot": "Q8IYT8",
+        "gene_symbol": "ULK2",
+        "target_pref_name": "Serine/threonine-protein kinase ULK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 13.0,
+        "pchembl_value": 7.89
+      },
+      {
+        "uniprot": "P51617",
+        "gene_symbol": "IRAK1",
+        "target_pref_name": "Interleukin-1 receptor-associated kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 14.0,
+        "pchembl_value": 7.85
+      },
+      {
+        "uniprot": "Q86YV6",
+        "gene_symbol": "MYLK4",
+        "target_pref_name": "Myosin light chain kinase family member 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 15.0,
+        "pchembl_value": 7.82
+      },
+      {
+        "uniprot": "P48730",
+        "gene_symbol": "CSNK1D",
+        "target_pref_name": "Casein kinase I isoform delta",
+        "standard_type": "Kd",
+        "standard_value_nm": 15.0,
+        "pchembl_value": 7.82
+      },
+      {
+        "uniprot": "Q5S007",
+        "gene_symbol": "LRRK2",
+        "target_pref_name": "Leucine-rich repeat serine/threonine-protein kinase 2",
+        "standard_type": "IC50",
+        "standard_value_nm": 15.0,
+        "pchembl_value": 7.82
+      },
+      {
+        "uniprot": "O75914",
+        "gene_symbol": "PAK3",
+        "target_pref_name": "Serine/threonine-protein kinase PAK 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 16.0,
+        "pchembl_value": 7.8
+      },
+      {
+        "uniprot": "Q92918",
+        "gene_symbol": "MAP4K1",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 16.0,
+        "pchembl_value": 7.8
+      },
+      {
+        "uniprot": "Q9BYT3",
+        "gene_symbol": "STK33",
+        "target_pref_name": "Serine/threonine-protein kinase 33",
+        "standard_type": "Kd",
+        "standard_value_nm": 17.0,
+        "pchembl_value": 7.77
+      },
+      {
+        "uniprot": "Q15349",
+        "gene_symbol": "RPS6KA2",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 17.0,
+        "pchembl_value": 7.77
+      },
+      {
+        "uniprot": "O75582",
+        "gene_symbol": "RPS6KA5",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-5",
+        "standard_type": "Kd",
+        "standard_value_nm": 17.0,
+        "pchembl_value": 7.77
+      },
+      {
+        "uniprot": "Q56UN5",
+        "gene_symbol": "MAP3K19",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 19",
+        "standard_type": "Kd",
+        "standard_value_nm": 17.0,
+        "pchembl_value": 7.77
+      },
+      {
+        "uniprot": "Q13043",
+        "gene_symbol": "STK4",
+        "target_pref_name": "Serine/threonine-protein kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 19.0,
+        "pchembl_value": 7.72
+      },
+      {
+        "uniprot": "Q13131",
+        "gene_symbol": "PRKAA1",
+        "target_pref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 19.0,
+        "pchembl_value": 7.72
+      },
+      {
+        "uniprot": "O94804",
+        "gene_symbol": "STK10",
+        "target_pref_name": "Serine/threonine-protein kinase 10",
+        "standard_type": "Kd",
+        "standard_value_nm": 19.0,
+        "pchembl_value": 7.72
+      },
+      {
+        "uniprot": "O14976",
+        "gene_symbol": "GAK",
+        "target_pref_name": "Cyclin-G-associated kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 20.0,
+        "pchembl_value": 7.7
+      },
+      {
+        "uniprot": "P49760",
+        "gene_symbol": "CLK2",
+        "target_pref_name": "Dual specificity protein kinase CLK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 20.0,
+        "pchembl_value": 7.7
+      },
+      {
+        "uniprot": "P49759",
+        "gene_symbol": "CLK1",
+        "target_pref_name": "Dual specificity protein kinase CLK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 22.0,
+        "pchembl_value": 7.66
+      },
+      {
+        "uniprot": "O43293",
+        "gene_symbol": "DAPK3",
+        "target_pref_name": "Death-associated protein kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 22.0,
+        "pchembl_value": 7.66
+      },
+      {
+        "uniprot": "Q15746",
+        "gene_symbol": "MYLK",
+        "target_pref_name": "Myosin light chain kinase, smooth muscle",
+        "standard_type": "Kd",
+        "standard_value_nm": 23.0,
+        "pchembl_value": 7.64
+      },
+      {
+        "uniprot": "O75385",
+        "gene_symbol": "ULK1",
+        "target_pref_name": "Serine/threonine-protein kinase ULK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 23.0,
+        "pchembl_value": 7.64
+      },
+      {
+        "uniprot": "Q32MK0",
+        "gene_symbol": "MYLK3",
+        "target_pref_name": "Myosin light chain kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 23.0,
+        "pchembl_value": 7.64
+      },
+      {
+        "uniprot": "Q9UKE5",
+        "gene_symbol": "TNIK",
+        "target_pref_name": "TRAF2 and NCK-interacting protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 25.0,
+        "pchembl_value": 7.6
+      },
+      {
+        "uniprot": "Q12866",
+        "gene_symbol": "MERTK",
+        "target_pref_name": "Tyrosine-protein kinase Mer",
+        "standard_type": "Kd",
+        "standard_value_nm": 26.0,
+        "pchembl_value": 7.58
+      },
+      {
+        "uniprot": "Q9HAZ1",
+        "gene_symbol": "CLK4",
+        "target_pref_name": "Dual specificity protein kinase CLK4",
+        "standard_type": "Kd",
+        "standard_value_nm": 29.0,
+        "pchembl_value": 7.54
+      },
+      {
+        "uniprot": "Q8N4C8",
+        "gene_symbol": "MINK1",
+        "target_pref_name": "Misshapen-like kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 29.0,
+        "pchembl_value": 7.54
+      },
+      {
+        "uniprot": "Q9H2X6",
+        "gene_symbol": "HIPK2",
+        "target_pref_name": "Homeodomain-interacting protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 31.0,
+        "pchembl_value": 7.51
+      },
+      {
+        "uniprot": "P00533",
+        "gene_symbol": "EGFR",
+        "target_pref_name": "Epidermal growth factor receptor",
+        "standard_type": "IC50",
+        "standard_value_nm": 31.8,
+        "pchembl_value": 7.5
+      },
+      {
+        "uniprot": "Q12851",
+        "gene_symbol": "MAP4K2",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 33.0,
+        "pchembl_value": 7.48
+      },
+      {
+        "uniprot": "Q9BRS2",
+        "gene_symbol": "RIOK1",
+        "target_pref_name": "Serine/threonine-protein kinase RIO1",
+        "standard_type": "Kd",
+        "standard_value_nm": 35.0,
+        "pchembl_value": 7.46
+      },
+      {
+        "uniprot": "Q15831",
+        "gene_symbol": "STK11",
+        "target_pref_name": "Serine/threonine-protein kinase STK11",
+        "standard_type": "Kd",
+        "standard_value_nm": 38.0,
+        "pchembl_value": 7.42
+      },
+      {
+        "uniprot": "P78356",
+        "gene_symbol": "PIP4K2B",
+        "target_pref_name": "Phosphatidylinositol 5-phosphate 4-kinase type-2 beta",
+        "standard_type": "Kd",
+        "standard_value_nm": 39.0,
+        "pchembl_value": 7.41
+      },
+      {
+        "uniprot": "Q9Y4K4",
+        "gene_symbol": "MAP4K5",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 5",
+        "standard_type": "Kd",
+        "standard_value_nm": 41.0,
+        "pchembl_value": 7.39
+      },
+      {
+        "uniprot": "Q9H422",
+        "gene_symbol": "HIPK3",
+        "target_pref_name": "Homeodomain-interacting protein kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 41.0,
+        "pchembl_value": 7.39
+      },
+      {
+        "uniprot": "Q6PHR2",
+        "gene_symbol": "ULK3",
+        "target_pref_name": "Serine/threonine-protein kinase ULK3",
+        "standard_type": "Kd",
+        "standard_value_nm": 42.0,
+        "pchembl_value": 7.38
+      },
+      {
+        "uniprot": "Q13163",
+        "gene_symbol": "MAP2K5",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 5",
+        "standard_type": "Kd",
+        "standard_value_nm": 46.0,
+        "pchembl_value": 7.34
+      },
+      {
+        "uniprot": "O60285",
+        "gene_symbol": "NUAK1",
+        "target_pref_name": "NUAK family SNF1-like kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 48.0,
+        "pchembl_value": 7.32
+      },
+      {
+        "uniprot": "P23443",
+        "gene_symbol": "RPS6KB1",
+        "target_pref_name": "Ribosomal protein S6 kinase beta-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 48.0,
+        "pchembl_value": 7.32
+      },
+      {
+        "uniprot": "Q06418",
+        "gene_symbol": "TYRO3",
+        "target_pref_name": "Tyrosine-protein kinase receptor TYRO3",
+        "standard_type": "Kd",
+        "standard_value_nm": 49.0,
+        "pchembl_value": 7.31
+      },
+      {
+        "uniprot": "Q9H1R3",
+        "gene_symbol": "MYLK2",
+        "target_pref_name": "Myosin light chain kinase 2, skeletal/cardiac muscle",
+        "standard_type": "Kd",
+        "standard_value_nm": 49.0,
+        "pchembl_value": 7.31
+      },
+      {
+        "uniprot": "Q9BVS4",
+        "gene_symbol": "RIOK2",
+        "target_pref_name": "Serine/threonine-protein kinase RIO2",
+        "standard_type": "Kd",
+        "standard_value_nm": 49.0,
+        "pchembl_value": 7.31
+      },
+      {
+        "uniprot": "Q9UM73",
+        "gene_symbol": "ALK",
+        "target_pref_name": "ALK tyrosine kinase receptor",
+        "standard_type": "IC50",
+        "standard_value_nm": 54.64,
+        "pchembl_value": 7.26
+      },
+      {
+        "uniprot": "P51812",
+        "gene_symbol": "RPS6KA3",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-3",
+        "standard_type": "Kd",
+        "standard_value_nm": 55.0,
+        "pchembl_value": 7.26
+      },
+      {
+        "uniprot": "P00519",
+        "gene_symbol": "ABL1",
+        "target_pref_name": "Tyrosine-protein kinase ABL1",
+        "standard_type": "Kd",
+        "standard_value_nm": 55.0,
+        "pchembl_value": 7.26
+      },
+      {
+        "uniprot": "Q86Z02",
+        "gene_symbol": "HIPK1",
+        "target_pref_name": "Homeodomain-interacting protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 55.0,
+        "pchembl_value": 7.26
+      },
+      {
+        "uniprot": "Q13188",
+        "gene_symbol": "STK3",
+        "target_pref_name": "Serine/threonine-protein kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 56.0,
+        "pchembl_value": 7.25
+      },
+      {
+        "uniprot": "Q9H2G2",
+        "gene_symbol": "SLK",
+        "target_pref_name": "STE20-like serine/threonine-protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 56.0,
+        "pchembl_value": 7.25
+      },
+      {
+        "uniprot": "Q9Y2U5",
+        "gene_symbol": "MAP3K2",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 57.0,
+        "pchembl_value": 7.24
+      },
+      {
+        "uniprot": "Q9UPE1",
+        "gene_symbol": "SRPK3",
+        "target_pref_name": "SRSF protein kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 59.0,
+        "pchembl_value": 7.23
+      },
+      {
+        "uniprot": "P54646",
+        "gene_symbol": "PRKAA2",
+        "target_pref_name": "5'-AMP-activated protein kinase catalytic subunit alpha-2",
+        "standard_type": "IC50",
+        "standard_value_nm": 61.7,
+        "pchembl_value": 7.21
+      },
+      {
+        "uniprot": "P33981",
+        "gene_symbol": "TTK",
+        "target_pref_name": "Dual specificity protein kinase TTK",
+        "standard_type": "Kd",
+        "standard_value_nm": 63.0,
+        "pchembl_value": 7.2
+      },
+      {
+        "uniprot": "Q9Y6E0",
+        "gene_symbol": "STK24",
+        "target_pref_name": "Serine/threonine-protein kinase 24",
+        "standard_type": "Kd",
+        "standard_value_nm": 63.0,
+        "pchembl_value": 7.2
+      },
+      {
+        "uniprot": "P51451",
+        "gene_symbol": "BLK",
+        "target_pref_name": "Tyrosine-protein kinase Blk",
+        "standard_type": "Kd",
+        "standard_value_nm": 65.0,
+        "pchembl_value": 7.19
+      },
+      {
+        "uniprot": "Q9NWZ3",
+        "gene_symbol": "IRAK4",
+        "target_pref_name": "Interleukin-1 receptor-associated kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 66.0,
+        "pchembl_value": 7.18
+      },
+      {
+        "uniprot": "O14757",
+        "gene_symbol": "CHEK1",
+        "target_pref_name": "Serine/threonine-protein kinase Chk1",
+        "standard_type": "IC50",
+        "standard_value_nm": 77.27,
+        "pchembl_value": 7.11
+      },
+      {
+        "uniprot": "Q9UQM7",
+        "gene_symbol": "CAMK2A",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 80.0,
+        "pchembl_value": 7.1
+      },
+      {
+        "uniprot": "P68400",
+        "gene_symbol": "CSNK2A1",
+        "target_pref_name": "Casein kinase II subunit alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 81.0,
+        "pchembl_value": 7.09
+      },
+      {
+        "uniprot": "Q14289",
+        "gene_symbol": "PTK2B",
+        "target_pref_name": "Protein-tyrosine kinase 2-beta",
+        "standard_type": "Kd",
+        "standard_value_nm": 82.0,
+        "pchembl_value": 7.09
+      },
+      {
+        "uniprot": "O43318",
+        "gene_symbol": "MAP3K7",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 7",
+        "standard_type": "Kd",
+        "standard_value_nm": 93.0,
+        "pchembl_value": 7.03
+      },
+      {
+        "uniprot": "O43283",
+        "gene_symbol": "MAP3K13",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 13",
+        "standard_type": "Kd",
+        "standard_value_nm": 95.0,
+        "pchembl_value": 7.02
+      },
+      {
+        "uniprot": "O75676",
+        "gene_symbol": "RPS6KA4",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-4",
+        "standard_type": "Kd",
+        "standard_value_nm": 96.0,
+        "pchembl_value": 7.02
+      },
+      {
+        "uniprot": "Q15418",
+        "gene_symbol": "RPS6KA1",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 96.0,
+        "pchembl_value": 7.02
+      },
+      {
+        "uniprot": "P04629",
+        "gene_symbol": "NTRK1",
+        "target_pref_name": "High affinity nerve growth factor receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 100.0,
+        "pchembl_value": 7.0
+      },
+      {
+        "uniprot": "Q12852",
+        "gene_symbol": "MAP3K12",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 12",
+        "standard_type": "Kd",
+        "standard_value_nm": 100.0,
+        "pchembl_value": 7.0
+      },
+      {
+        "uniprot": "P78368",
+        "gene_symbol": "CSNK1G2",
+        "target_pref_name": "Casein kinase I isoform gamma-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 110.0,
+        "pchembl_value": 6.96
+      },
+      {
+        "uniprot": "O94768",
+        "gene_symbol": "STK17B",
+        "target_pref_name": "Serine/threonine-protein kinase 17B",
+        "standard_type": "Kd",
+        "standard_value_nm": 110.0,
+        "pchembl_value": 6.96
+      },
+      {
+        "uniprot": "P36507",
+        "gene_symbol": "MAP2K2",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 110.0,
+        "pchembl_value": 6.96
+      },
+      {
+        "uniprot": "Q9C098",
+        "gene_symbol": "DCLK3",
+        "target_pref_name": "Serine/threonine-protein kinase DCLK3",
+        "standard_type": "Kd",
+        "standard_value_nm": 110.0,
+        "pchembl_value": 6.96
+      },
+      {
+        "uniprot": "P07947",
+        "gene_symbol": "YES1",
+        "target_pref_name": "Tyrosine-protein kinase Yes",
+        "standard_type": "Kd",
+        "standard_value_nm": 120.0,
+        "pchembl_value": 6.92
+      },
+      {
+        "uniprot": "P53355",
+        "gene_symbol": "DAPK1",
+        "target_pref_name": "Death-associated protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 120.0,
+        "pchembl_value": 6.92
+      },
+      {
+        "uniprot": "Q9UHD2",
+        "gene_symbol": "TBK1",
+        "target_pref_name": "Serine/threonine-protein kinase TBK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 120.0,
+        "pchembl_value": 6.92
+      },
+      {
+        "uniprot": "Q00536",
+        "gene_symbol": "CDK16",
+        "target_pref_name": "Cyclin-dependent kinase 16",
+        "standard_type": "Kd",
+        "standard_value_nm": 130.0,
+        "pchembl_value": 6.89
+      },
+      {
+        "uniprot": "Q02750",
+        "gene_symbol": "MAP2K1",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 130.0,
+        "pchembl_value": 6.89
+      },
+      {
+        "uniprot": "O95819",
+        "gene_symbol": "MAP4K4",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 140.0,
+        "pchembl_value": 6.85
+      },
+      {
+        "uniprot": "P32298",
+        "gene_symbol": "GRK4",
+        "target_pref_name": "G protein-coupled receptor kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 140.0,
+        "pchembl_value": 6.85
+      },
+      {
+        "uniprot": "O75116",
+        "gene_symbol": "ROCK2",
+        "target_pref_name": "Rho-associated protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 140.0,
+        "pchembl_value": 6.85
+      },
+      {
+        "uniprot": "Q9UEW8",
+        "gene_symbol": "STK39",
+        "target_pref_name": "STE20/SPS1-related proline-alanine-rich protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 140.0,
+        "pchembl_value": 6.85
+      },
+      {
+        "uniprot": "Q9UIK4",
+        "gene_symbol": "DAPK2",
+        "target_pref_name": "Death-associated protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 150.0,
+        "pchembl_value": 6.82
+      },
+      {
+        "uniprot": "Q9H093",
+        "gene_symbol": "NUAK2",
+        "target_pref_name": "NUAK family SNF1-like kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 150.0,
+        "pchembl_value": 6.82
+      },
+      {
+        "uniprot": "P12931",
+        "gene_symbol": "SRC",
+        "target_pref_name": "Proto-oncogene tyrosine-protein kinase Src",
+        "standard_type": "IC50",
+        "standard_value_nm": 152.8,
+        "pchembl_value": 6.82
+      },
+      {
+        "uniprot": "Q8NE63",
+        "gene_symbol": "HIPK4",
+        "target_pref_name": "Homeodomain-interacting protein kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 160.0,
+        "pchembl_value": 6.8
+      },
+      {
+        "uniprot": "P19784",
+        "gene_symbol": "CSNK2A2",
+        "target_pref_name": "Casein kinase II subunit alpha'",
+        "standard_type": "Kd",
+        "standard_value_nm": 160.0,
+        "pchembl_value": 6.8
+      },
+      {
+        "uniprot": "P11362",
+        "gene_symbol": "FGFR1",
+        "target_pref_name": "Fibroblast growth factor receptor 1",
+        "standard_type": "IC50",
+        "standard_value_nm": 170.0,
+        "pchembl_value": 6.77
+      },
+      {
+        "uniprot": "P06213",
+        "gene_symbol": "INSR",
+        "target_pref_name": "Insulin receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 180.0,
+        "pchembl_value": 6.75
+      },
+      {
+        "uniprot": "Q9P2K8",
+        "gene_symbol": "EIF2AK4",
+        "target_pref_name": "eIF-2-alpha kinase GCN2",
+        "standard_type": "Kd",
+        "standard_value_nm": 180.0,
+        "pchembl_value": 6.75
+      },
+      {
+        "uniprot": "Q8IVH8",
+        "gene_symbol": "MAP4K3",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 180.0,
+        "pchembl_value": 6.75
+      },
+      {
+        "uniprot": "Q8WTQ7",
+        "gene_symbol": "GRK7",
+        "target_pref_name": "Rhodopsin kinase GRK7",
+        "standard_type": "Kd",
+        "standard_value_nm": 180.0,
+        "pchembl_value": 6.75
+      },
+      {
+        "uniprot": "P78362",
+        "gene_symbol": "SRPK2",
+        "target_pref_name": "SRSF protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 190.0,
+        "pchembl_value": 6.72
+      },
+      {
+        "uniprot": "O00444",
+        "gene_symbol": "PLK4",
+        "target_pref_name": "Serine/threonine-protein kinase PLK4",
+        "standard_type": "Kd",
+        "standard_value_nm": 190.0,
+        "pchembl_value": 6.72
+      },
+      {
+        "uniprot": "P08631",
+        "gene_symbol": "HCK",
+        "target_pref_name": "Tyrosine-protein kinase HCK",
+        "standard_type": "IC50",
+        "standard_value_nm": 190.0,
+        "pchembl_value": 6.72
+      },
+      {
+        "uniprot": "Q13627",
+        "gene_symbol": "DYRK1A",
+        "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 1A",
+        "standard_type": "Kd",
+        "standard_value_nm": 200.0,
+        "pchembl_value": 6.7
+      },
+      {
+        "uniprot": "Q9Y2H9",
+        "gene_symbol": "MAST1",
+        "target_pref_name": "Microtubule-associated serine/threonine-protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 200.0,
+        "pchembl_value": 6.7
+      },
+      {
+        "uniprot": "Q52WX2",
+        "gene_symbol": "SBK1",
+        "target_pref_name": "Serine/threonine-protein kinase SBK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 200.0,
+        "pchembl_value": 6.7
+      },
+      {
+        "uniprot": "Q9H2K8",
+        "gene_symbol": "TAOK3",
+        "target_pref_name": "Serine/threonine-protein kinase TAO3",
+        "standard_type": "Kd",
+        "standard_value_nm": 210.0,
+        "pchembl_value": 6.68
+      },
+      {
+        "uniprot": "Q9UQB9",
+        "gene_symbol": "AURKC",
+        "target_pref_name": "Aurora kinase C",
+        "standard_type": "Kd",
+        "standard_value_nm": 220.0,
+        "pchembl_value": 6.66
+      },
+      {
+        "uniprot": "Q99759",
+        "gene_symbol": "MAP3K3",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 220.0,
+        "pchembl_value": 6.66
+      },
+      {
+        "uniprot": "Q96BR1",
+        "gene_symbol": "SGK3",
+        "target_pref_name": "Serine/threonine-protein kinase Sgk3",
+        "standard_type": "Kd",
+        "standard_value_nm": 220.0,
+        "pchembl_value": 6.66
+      },
+      {
+        "uniprot": "Q9Y6M4",
+        "gene_symbol": "CSNK1G3",
+        "target_pref_name": "Casein kinase I isoform gamma-3",
+        "standard_type": "Kd",
+        "standard_value_nm": 240.0,
+        "pchembl_value": 6.62
+      },
+      {
+        "uniprot": "Q96SB4",
+        "gene_symbol": "SRPK1",
+        "target_pref_name": "SRSF protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 250.0,
+        "pchembl_value": 6.6
+      },
+      {
+        "uniprot": "O75716",
+        "gene_symbol": "STK16",
+        "target_pref_name": "Serine/threonine-protein kinase 16",
+        "standard_type": "Kd",
+        "standard_value_nm": 250.0,
+        "pchembl_value": 6.6
+      },
+      {
+        "uniprot": "Q12809",
+        "gene_symbol": "KCNH2",
+        "target_pref_name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+        "standard_type": "IC50",
+        "standard_value_nm": 251.19,
+        "pchembl_value": 6.6
+      },
+      {
+        "uniprot": "O94921",
+        "gene_symbol": "CDK14",
+        "target_pref_name": "Cyclin-dependent kinase 14",
+        "standard_type": "Kd",
+        "standard_value_nm": 270.0,
+        "pchembl_value": 6.57
+      },
+      {
+        "uniprot": "P07948",
+        "gene_symbol": "LYN",
+        "target_pref_name": "Tyrosine-protein kinase Lyn",
+        "standard_type": "Kd",
+        "standard_value_nm": 270.0,
+        "pchembl_value": 6.57
+      },
+      {
+        "uniprot": "P09769",
+        "gene_symbol": "FGR",
+        "target_pref_name": "Tyrosine-protein kinase Fgr",
+        "standard_type": "Kd",
+        "standard_value_nm": 270.0,
+        "pchembl_value": 6.57
+      },
+      {
+        "uniprot": "O94806",
+        "gene_symbol": "PRKD3",
+        "target_pref_name": "Serine/threonine-protein kinase D3",
+        "standard_type": "Kd",
+        "standard_value_nm": 280.0,
+        "pchembl_value": 6.55
+      },
+      {
+        "uniprot": "O00506",
+        "gene_symbol": "STK25",
+        "target_pref_name": "Serine/threonine-protein kinase 25",
+        "standard_type": "Kd",
+        "standard_value_nm": 290.0,
+        "pchembl_value": 6.54
+      },
+      {
+        "uniprot": "P22607",
+        "gene_symbol": "FGFR3",
+        "target_pref_name": "Fibroblast growth factor receptor 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 290.0,
+        "pchembl_value": 6.54
+      },
+      {
+        "uniprot": "Q15835",
+        "gene_symbol": "GRK1",
+        "target_pref_name": "Rhodopsin kinase GRK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 290.0,
+        "pchembl_value": 6.54
+      },
+      {
+        "uniprot": "Q8NFD2",
+        "gene_symbol": "ANKK1",
+        "target_pref_name": "Ankyrin repeat and protein kinase domain-containing protein 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 310.0,
+        "pchembl_value": 6.51
+      },
+      {
+        "uniprot": "Q7KZI7",
+        "gene_symbol": "MARK2",
+        "target_pref_name": "Serine/threonine-protein kinase MARK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 310.0,
+        "pchembl_value": 6.51
+      },
+      {
+        "uniprot": "Q15139",
+        "gene_symbol": "PRKD1",
+        "target_pref_name": "Serine/threonine-protein kinase D1",
+        "standard_type": "Kd",
+        "standard_value_nm": 310.0,
+        "pchembl_value": 6.51
+      },
+      {
+        "uniprot": "Q86UE8",
+        "gene_symbol": "TLK2",
+        "target_pref_name": "Serine/threonine-protein kinase tousled-like 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 330.0,
+        "pchembl_value": 6.48
+      },
+      {
+        "uniprot": "P50613",
+        "gene_symbol": "CDK7",
+        "target_pref_name": "Cyclin-dependent kinase 7",
+        "standard_type": "Kd",
+        "standard_value_nm": 330.0,
+        "pchembl_value": 6.48
+      },
+      {
+        "uniprot": "Q9P289",
+        "gene_symbol": "STK26",
+        "target_pref_name": "Serine/threonine-protein kinase 26",
+        "standard_type": "Kd",
+        "standard_value_nm": 340.0,
+        "pchembl_value": 6.47
+      },
+      {
+        "uniprot": "Q14680",
+        "gene_symbol": "MELK",
+        "target_pref_name": "Maternal embryonic leucine zipper kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 350.0,
+        "pchembl_value": 6.46
+      },
+      {
+        "uniprot": "P29597",
+        "gene_symbol": "TYK2",
+        "target_pref_name": "Non-receptor tyrosine-protein kinase TYK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 360.0,
+        "pchembl_value": 6.44
+      },
+      {
+        "uniprot": "O15075",
+        "gene_symbol": "DCLK1",
+        "target_pref_name": "Serine/threonine-protein kinase DCLK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 370.0,
+        "pchembl_value": 6.43
+      },
+      {
+        "uniprot": "Q13546",
+        "gene_symbol": "RIPK1",
+        "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 370.0,
+        "pchembl_value": 6.43
+      },
+      {
+        "uniprot": "Q96GD4",
+        "gene_symbol": "AURKB",
+        "target_pref_name": "Aurora kinase B",
+        "standard_type": "Kd",
+        "standard_value_nm": 380.0,
+        "pchembl_value": 6.42
+      },
+      {
+        "uniprot": "Q9BZL6",
+        "gene_symbol": "PRKD2",
+        "target_pref_name": "Serine/threonine-protein kinase D2",
+        "standard_type": "Kd",
+        "standard_value_nm": 380.0,
+        "pchembl_value": 6.42
+      },
+      {
+        "uniprot": "Q13523",
+        "gene_symbol": "PRP4K",
+        "target_pref_name": "Serine/threonine-protein kinase PRP4 homolog",
+        "standard_type": "Kd",
+        "standard_value_nm": 390.0,
+        "pchembl_value": 6.41
+      },
+      {
+        "uniprot": "P27448",
+        "gene_symbol": "MARK3",
+        "target_pref_name": "MAP/microtubule affinity-regulating kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 410.0,
+        "pchembl_value": 6.39
+      },
+      {
+        "uniprot": "O60674",
+        "gene_symbol": "JAK2",
+        "target_pref_name": "Tyrosine-protein kinase JAK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 410.0,
+        "pchembl_value": 6.39
+      },
+      {
+        "uniprot": "Q15208",
+        "gene_symbol": "STK38",
+        "target_pref_name": "Serine/threonine-protein kinase 38",
+        "standard_type": "Kd",
+        "standard_value_nm": 410.0,
+        "pchembl_value": 6.39
+      },
+      {
+        "uniprot": "Q13557",
+        "gene_symbol": "CAMK2D",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit delta",
+        "standard_type": "Kd",
+        "standard_value_nm": 420.0,
+        "pchembl_value": 6.38
+      },
+      {
+        "uniprot": "Q8N5S9",
+        "gene_symbol": "CAMKK1",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 420.0,
+        "pchembl_value": 6.38
+      },
+      {
+        "uniprot": "P14616",
+        "gene_symbol": "INSRR",
+        "target_pref_name": "Insulin receptor-related protein",
+        "standard_type": "Kd",
+        "standard_value_nm": 430.0,
+        "pchembl_value": 6.37
+      },
+      {
+        "uniprot": "Q6ZSR9",
+        "gene_symbol": "Q6ZSR9",
+        "target_pref_name": "Uncharacterized protein FLJ45252",
+        "standard_type": "Kd",
+        "standard_value_nm": 431.0,
+        "pchembl_value": 6.37
+      },
+      {
+        "uniprot": "Q96NX5",
+        "gene_symbol": "CAMK1G",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1G",
+        "standard_type": "Kd",
+        "standard_value_nm": 440.0,
+        "pchembl_value": 6.36
+      },
+      {
+        "uniprot": "Q05397",
+        "gene_symbol": "PTK2",
+        "target_pref_name": "Focal adhesion kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 440.0,
+        "pchembl_value": 6.36
+      },
+      {
+        "uniprot": "Q13555",
+        "gene_symbol": "CAMK2G",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit gamma",
+        "standard_type": "Kd",
+        "standard_value_nm": 440.0,
+        "pchembl_value": 6.36
+      },
+      {
+        "uniprot": "Q9NRM7",
+        "gene_symbol": "LATS2",
+        "target_pref_name": "Serine/threonine-protein kinase LATS2",
+        "standard_type": "Kd",
+        "standard_value_nm": 460.0,
+        "pchembl_value": 6.34
+      },
+      {
+        "uniprot": "Q13464",
+        "gene_symbol": "ROCK1",
+        "target_pref_name": "Rho-associated protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 460.0,
+        "pchembl_value": 6.34
+      },
+      {
+        "uniprot": "Q9UPZ9",
+        "gene_symbol": "CILK1",
+        "target_pref_name": "Serine/threonine-protein kinase ICK",
+        "standard_type": "Kd",
+        "standard_value_nm": 470.0,
+        "pchembl_value": 6.33
+      },
+      {
+        "uniprot": "P54762",
+        "gene_symbol": "EPHB1",
+        "target_pref_name": "Ephrin type-B receptor 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 480.0,
+        "pchembl_value": 6.32
+      },
+      {
+        "uniprot": "O15146",
+        "gene_symbol": "MUSK",
+        "target_pref_name": "Muscle, skeletal receptor tyrosine-protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 490.0,
+        "pchembl_value": 6.31
+      },
+      {
+        "uniprot": "P51955",
+        "gene_symbol": "NEK2",
+        "target_pref_name": "Serine/threonine-protein kinase Nek2",
+        "standard_type": "Kd",
+        "standard_value_nm": 500.0,
+        "pchembl_value": 6.3
+      },
+      {
+        "uniprot": "P57058",
+        "gene_symbol": "HUNK",
+        "target_pref_name": "Hormonally up-regulated neu tumor-associated kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 500.0,
+        "pchembl_value": 6.3
+      },
+      {
+        "uniprot": "Q9NQU5",
+        "gene_symbol": "PAK6",
+        "target_pref_name": "Serine/threonine-protein kinase PAK 6",
+        "standard_type": "Ki",
+        "standard_value_nm": 500.0,
+        "pchembl_value": 6.3
+      },
+      {
+        "uniprot": "Q9P286",
+        "gene_symbol": "PAK5",
+        "target_pref_name": "Serine/threonine-protein kinase PAK 5",
+        "standard_type": "Ki",
+        "standard_value_nm": 500.0,
+        "pchembl_value": 6.3
+      },
+      {
+        "uniprot": "O96013",
+        "gene_symbol": "PAK4",
+        "target_pref_name": "Serine/threonine-protein kinase PAK 4",
+        "standard_type": "Ki",
+        "standard_value_nm": 500.0,
+        "pchembl_value": 6.3
+      },
+      {
+        "uniprot": "Q8IU85",
+        "gene_symbol": "CAMK1D",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1D",
+        "standard_type": "Kd",
+        "standard_value_nm": 510.0,
+        "pchembl_value": 6.29
+      },
+      {
+        "uniprot": "P06241",
+        "gene_symbol": "FYN",
+        "target_pref_name": "Tyrosine-protein kinase Fyn",
+        "standard_type": "Kd",
+        "standard_value_nm": 520.0,
+        "pchembl_value": 6.28
+      },
+      {
+        "uniprot": "O15111",
+        "gene_symbol": "CHUK",
+        "target_pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 520.0,
+        "pchembl_value": 6.28
+      },
+      {
+        "uniprot": "P21802",
+        "gene_symbol": "FGFR2",
+        "target_pref_name": "Fibroblast growth factor receptor 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 530.0,
+        "pchembl_value": 6.28
+      },
+      {
+        "uniprot": "P42685",
+        "gene_symbol": "FRK",
+        "target_pref_name": "Tyrosine-protein kinase FRK",
+        "standard_type": "Kd",
+        "standard_value_nm": 530.0,
+        "pchembl_value": 6.28
+      },
+      {
+        "uniprot": "O95747",
+        "gene_symbol": "OXSR1",
+        "target_pref_name": "Serine/threonine-protein kinase OSR1",
+        "standard_type": "Kd",
+        "standard_value_nm": 530.0,
+        "pchembl_value": 6.28
+      },
+      {
+        "uniprot": "Q8N752",
+        "gene_symbol": "CSNK1A1L",
+        "target_pref_name": "Casein kinase I isoform alpha-like",
+        "standard_type": "Kd",
+        "standard_value_nm": 550.0,
+        "pchembl_value": 6.26
+      },
+      {
+        "uniprot": "Q13873",
+        "gene_symbol": "BMPR2",
+        "target_pref_name": "Bone morphogenetic protein receptor type-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 570.0,
+        "pchembl_value": 6.24
+      },
+      {
+        "uniprot": "Q9H0K1",
+        "gene_symbol": "SIK2",
+        "target_pref_name": "Serine/threonine-protein kinase SIK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 580.0,
+        "pchembl_value": 6.24
+      },
+      {
+        "uniprot": "Q16620",
+        "gene_symbol": "NTRK2",
+        "target_pref_name": "BDNF/NT-3 growth factors receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 590.0,
+        "pchembl_value": 6.23
+      },
+      {
+        "uniprot": "O75460",
+        "gene_symbol": "ERN1",
+        "target_pref_name": "Serine/threonine-protein kinase/endoribonuclease IRE1",
+        "standard_type": "Kd",
+        "standard_value_nm": 600.0,
+        "pchembl_value": 6.22
+      },
+      {
+        "uniprot": "Q14164",
+        "gene_symbol": "IKBKE",
+        "target_pref_name": "Inhibitor of nuclear factor kappa-B kinase subunit epsilon",
+        "standard_type": "Kd",
+        "standard_value_nm": 620.0,
+        "pchembl_value": 6.21
+      },
+      {
+        "uniprot": "O95835",
+        "gene_symbol": "LATS1",
+        "target_pref_name": "Serine/threonine-protein kinase LATS1",
+        "standard_type": "Kd",
+        "standard_value_nm": 630.0,
+        "pchembl_value": 6.2
+      },
+      {
+        "uniprot": "Q9NRH2",
+        "gene_symbol": "SNRK",
+        "target_pref_name": "SNF-related serine/threonine-protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 640.0,
+        "pchembl_value": 6.19
+      },
+      {
+        "uniprot": "P19525",
+        "gene_symbol": "EIF2AK2",
+        "target_pref_name": "Interferon-induced, double-stranded RNA-activated protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 670.0,
+        "pchembl_value": 6.17
+      },
+      {
+        "uniprot": "Q13470",
+        "gene_symbol": "TNK1",
+        "target_pref_name": "Non-receptor tyrosine-protein kinase TNK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 680.0,
+        "pchembl_value": 6.17
+      },
+      {
+        "uniprot": "Q92630",
+        "gene_symbol": "DYRK2",
+        "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 680.0,
+        "pchembl_value": 6.17
+      },
+      {
+        "uniprot": "P45985",
+        "gene_symbol": "MAP2K4",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 700.0,
+        "pchembl_value": 6.16
+      },
+      {
+        "uniprot": "Q15375",
+        "gene_symbol": "EPHA7",
+        "target_pref_name": "Ephrin type-A receptor 7",
+        "standard_type": "Kd",
+        "standard_value_nm": 710.0,
+        "pchembl_value": 6.15
+      },
+      {
+        "uniprot": "Q16512",
+        "gene_symbol": "PKN1",
+        "target_pref_name": "Serine/threonine-protein kinase N1",
+        "standard_type": "Kd",
+        "standard_value_nm": 710.0,
+        "pchembl_value": 6.15
+      },
+      {
+        "uniprot": "Q9UKI8",
+        "gene_symbol": "TLK1",
+        "target_pref_name": "Serine/threonine-protein kinase tousled-like 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 740.0,
+        "pchembl_value": 6.13
+      },
+      {
+        "uniprot": "P34947",
+        "gene_symbol": "GRK5",
+        "target_pref_name": "G protein-coupled receptor kinase 5",
+        "standard_type": "IC50",
+        "standard_value_nm": 830.0,
+        "pchembl_value": 6.08
+      },
+      {
+        "uniprot": "O15197",
+        "gene_symbol": "EPHB6",
+        "target_pref_name": "Ephrin type-B receptor 6",
+        "standard_type": "Kd",
+        "standard_value_nm": 850.0,
+        "pchembl_value": 6.07
+      },
+      {
+        "uniprot": "Q8IY84",
+        "gene_symbol": "NIM1K",
+        "target_pref_name": "Serine/threonine-protein kinase NIM1",
+        "standard_type": "Kd",
+        "standard_value_nm": 850.0,
+        "pchembl_value": 6.07
+      },
+      {
+        "uniprot": "Q16566",
+        "gene_symbol": "CAMK4",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type IV",
+        "standard_type": "Kd",
+        "standard_value_nm": 890.0,
+        "pchembl_value": 6.05
+      },
+      {
+        "uniprot": "Q7L7X3",
+        "gene_symbol": "TAOK1",
+        "target_pref_name": "Serine/threonine-protein kinase TAO1",
+        "standard_type": "Kd",
+        "standard_value_nm": 890.0,
+        "pchembl_value": 6.05
+      },
+      {
+        "uniprot": "Q9HCP0",
+        "gene_symbol": "CSNK1G1",
+        "target_pref_name": "Casein kinase I isoform gamma-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 930.0,
+        "pchembl_value": 6.03
+      },
+      {
+        "uniprot": "Q9Y616",
+        "gene_symbol": "IRAK3",
+        "target_pref_name": "Interleukin-1 receptor-associated kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 940.0,
+        "pchembl_value": 6.03
+      },
+      {
+        "uniprot": "Q9UF33",
+        "gene_symbol": "EPHA6",
+        "target_pref_name": "Ephrin type-A receptor 6",
+        "standard_type": "Kd",
+        "standard_value_nm": 960.0,
+        "pchembl_value": 6.02
+      },
+      {
+        "uniprot": "P07332",
+        "gene_symbol": "FES",
+        "target_pref_name": "Tyrosine-protein kinase Fes/Fps",
+        "standard_type": "Kd",
+        "standard_value_nm": 960.0,
+        "pchembl_value": 6.02
+      },
+      {
+        "uniprot": "Q9Y2H1",
+        "gene_symbol": "STK38L",
+        "target_pref_name": "Serine/threonine-protein kinase 38-like",
+        "standard_type": "Kd",
+        "standard_value_nm": 970.0,
+        "pchembl_value": 6.01
+      },
+      {
+        "uniprot": "Q14012",
+        "gene_symbol": "CAMK1",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 970.0,
+        "pchembl_value": 6.01
+      },
+      {
+        "uniprot": "P42684",
+        "gene_symbol": "ABL2",
+        "target_pref_name": "Tyrosine-protein kinase ABL2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1000.0,
+        "pchembl_value": 6.0
+      },
+      {
+        "uniprot": "Q00526",
+        "gene_symbol": "CDK3",
+        "target_pref_name": "Cyclin-dependent kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 1024.0,
+        "pchembl_value": 5.99
+      },
+      {
+        "uniprot": "P30291",
+        "gene_symbol": "WEE1",
+        "target_pref_name": "Wee1-like protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 1100.0,
+        "pchembl_value": 5.96
+      },
+      {
+        "uniprot": "Q8IWQ3",
+        "gene_symbol": "BRSK2",
+        "target_pref_name": "Serine/threonine-protein kinase BRSK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1100.0,
+        "pchembl_value": 5.96
+      },
+      {
+        "uniprot": "P16591",
+        "gene_symbol": "FER",
+        "target_pref_name": "Tyrosine-protein kinase Fer",
+        "standard_type": "Kd",
+        "standard_value_nm": 1100.0,
+        "pchembl_value": 5.96
+      },
+      {
+        "uniprot": "Q92772",
+        "gene_symbol": "CDKL2",
+        "target_pref_name": "Cyclin-dependent kinase-like 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1100.0,
+        "pchembl_value": 5.96
+      },
+      {
+        "uniprot": "P54619",
+        "gene_symbol": "PRKAG1",
+        "target_pref_name": "5'-AMP-activated protein kinase subunit gamma-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 1140.0,
+        "pchembl_value": 5.94
+      },
+      {
+        "uniprot": "Q00537",
+        "gene_symbol": "CDK17",
+        "target_pref_name": "Cyclin-dependent kinase 17",
+        "standard_type": "Kd",
+        "standard_value_nm": 1200.0,
+        "pchembl_value": 5.92
+      },
+      {
+        "uniprot": "P52333",
+        "gene_symbol": "JAK3",
+        "target_pref_name": "Tyrosine-protein kinase JAK3",
+        "standard_type": "Kd",
+        "standard_value_nm": 1200.0,
+        "pchembl_value": 5.92
+      },
+      {
+        "uniprot": "Q9P0L2",
+        "gene_symbol": "MARK1",
+        "target_pref_name": "Serine/threonine-protein kinase MARK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 1200.0,
+        "pchembl_value": 5.92
+      },
+      {
+        "uniprot": "P08581",
+        "gene_symbol": "MET",
+        "target_pref_name": "Hepatocyte growth factor receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 1200.0,
+        "pchembl_value": 5.92
+      },
+      {
+        "uniprot": "P54756",
+        "gene_symbol": "EPHA5",
+        "target_pref_name": "Ephrin type-A receptor 5",
+        "standard_type": "Kd",
+        "standard_value_nm": 1200.0,
+        "pchembl_value": 5.92
+      },
+      {
+        "uniprot": "P18074",
+        "gene_symbol": "ERCC2",
+        "target_pref_name": "General transcription and DNA repair factor IIH helicase subunit XPD",
+        "standard_type": "Kd",
+        "standard_value_nm": 1225.0,
+        "pchembl_value": 5.91
+      },
+      {
+        "uniprot": "Q16584",
+        "gene_symbol": "MAP3K11",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 11",
+        "standard_type": "Kd",
+        "standard_value_nm": 1300.0,
+        "pchembl_value": 5.89
+      },
+      {
+        "uniprot": "Q16513",
+        "gene_symbol": "PKN2",
+        "target_pref_name": "Serine/threonine-protein kinase N2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1300.0,
+        "pchembl_value": 5.89
+      },
+      {
+        "uniprot": "Q6ZN16",
+        "gene_symbol": "MAP3K15",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 15",
+        "standard_type": "Kd",
+        "standard_value_nm": 1300.0,
+        "pchembl_value": 5.89
+      },
+      {
+        "uniprot": "Q8TDR2",
+        "gene_symbol": "STK35",
+        "target_pref_name": "Serine/threonine-protein kinase 35",
+        "standard_type": "Kd",
+        "standard_value_nm": 1300.0,
+        "pchembl_value": 5.89
+      },
+      {
+        "uniprot": "Q6XUX3",
+        "gene_symbol": "DSTYK",
+        "target_pref_name": "Dual serine/threonine and tyrosine protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 1300.0,
+        "pchembl_value": 5.89
+      },
+      {
+        "uniprot": "Q13554",
+        "gene_symbol": "CAMK2B",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase type II subunit beta",
+        "standard_type": "Kd",
+        "standard_value_nm": 1400.0,
+        "pchembl_value": 5.85
+      },
+      {
+        "uniprot": "Q96RR4",
+        "gene_symbol": "CAMKK2",
+        "target_pref_name": "Calcium/calmodulin-dependent protein kinase kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1500.0,
+        "pchembl_value": 5.82
+      },
+      {
+        "uniprot": "P43250",
+        "gene_symbol": "GRK6",
+        "target_pref_name": "G protein-coupled receptor kinase 6",
+        "standard_type": "Kd",
+        "standard_value_nm": 1615.0,
+        "pchembl_value": 5.79
+      },
+      {
+        "uniprot": "Q07002",
+        "gene_symbol": "CDK18",
+        "target_pref_name": "Cyclin-dependent kinase 18",
+        "standard_type": "Kd",
+        "standard_value_nm": 1700.0,
+        "pchembl_value": 5.77
+      },
+      {
+        "uniprot": "O14965",
+        "gene_symbol": "AURKA",
+        "target_pref_name": "Aurora kinase A",
+        "standard_type": "Kd",
+        "standard_value_nm": 1700.0,
+        "pchembl_value": 5.77
+      },
+      {
+        "uniprot": "P46734",
+        "gene_symbol": "MAP2K3",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 1700.0,
+        "pchembl_value": 5.77
+      },
+      {
+        "uniprot": "Q9UGJ0",
+        "gene_symbol": "PRKAG2",
+        "target_pref_name": "5'-AMP-activated protein kinase subunit gamma-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 1734.0,
+        "pchembl_value": 5.76
+      },
+      {
+        "uniprot": "P29376",
+        "gene_symbol": "LTK",
+        "target_pref_name": "Leukocyte tyrosine kinase receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 1800.0,
+        "pchembl_value": 5.75
+      },
+      {
+        "uniprot": "P0C264",
+        "gene_symbol": "SBK3",
+        "target_pref_name": "Uncharacterized serine/threonine-protein kinase SBK3",
+        "standard_type": "Kd",
+        "standard_value_nm": 1900.0,
+        "pchembl_value": 5.72
+      },
+      {
+        "uniprot": "Q08345",
+        "gene_symbol": "DDR1",
+        "target_pref_name": "Epithelial discoidin domain-containing receptor 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 2000.0,
+        "pchembl_value": 5.7
+      },
+      {
+        "uniprot": "P11802",
+        "gene_symbol": "CDK4",
+        "target_pref_name": "Cyclin-dependent kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 2000.0,
+        "pchembl_value": 5.7
+      },
+      {
+        "uniprot": "P29320",
+        "gene_symbol": "EPHA3",
+        "target_pref_name": "Ephrin type-A receptor 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 2100.0,
+        "pchembl_value": 5.68
+      },
+      {
+        "uniprot": "P57078",
+        "gene_symbol": "RIPK4",
+        "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 2100.0,
+        "pchembl_value": 5.68
+      },
+      {
+        "uniprot": "Q06187",
+        "gene_symbol": "BTK",
+        "target_pref_name": "Tyrosine-protein kinase BTK",
+        "standard_type": "Kd",
+        "standard_value_nm": 2100.0,
+        "pchembl_value": 5.68
+      },
+      {
+        "uniprot": "P22455",
+        "gene_symbol": "FGFR4",
+        "target_pref_name": "Fibroblast growth factor receptor 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 2100.0,
+        "pchembl_value": 5.68
+      },
+      {
+        "uniprot": "P54760",
+        "gene_symbol": "EPHB4",
+        "target_pref_name": "Ephrin type-B receptor 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 2200.0,
+        "pchembl_value": 5.66
+      },
+      {
+        "uniprot": "Q07912",
+        "gene_symbol": "TNK2",
+        "target_pref_name": "Activated CDC42 kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 2200.0,
+        "pchembl_value": 5.66
+      },
+      {
+        "uniprot": "Q9Y463",
+        "gene_symbol": "DYRK1B",
+        "target_pref_name": "Dual specificity tyrosine-phosphorylation-regulated kinase 1B",
+        "standard_type": "Kd",
+        "standard_value_nm": 2300.0,
+        "pchembl_value": 5.64
+      },
+      {
+        "uniprot": "Q9UK32",
+        "gene_symbol": "RPS6KA6",
+        "target_pref_name": "Ribosomal protein S6 kinase alpha-6",
+        "standard_type": "Kd",
+        "standard_value_nm": 2400.0,
+        "pchembl_value": 5.62
+      },
+      {
+        "uniprot": "Q86V86",
+        "gene_symbol": "PIM3",
+        "target_pref_name": "Serine/threonine-protein kinase pim-3",
+        "standard_type": "Kd",
+        "standard_value_nm": 2400.0,
+        "pchembl_value": 5.62
+      },
+      {
+        "uniprot": "O00238",
+        "gene_symbol": "BMPR1B",
+        "target_pref_name": "Bone morphogenetic protein receptor type-1B",
+        "standard_type": "Kd",
+        "standard_value_nm": 2400.0,
+        "pchembl_value": 5.62
+      },
+      {
+        "uniprot": "P45984",
+        "gene_symbol": "MAPK9",
+        "target_pref_name": "Mitogen-activated protein kinase 9",
+        "standard_type": "Kd",
+        "standard_value_nm": 2400.0,
+        "pchembl_value": 5.62
+      },
+      {
+        "uniprot": "P08069",
+        "gene_symbol": "IGF1R",
+        "target_pref_name": "Insulin-like growth factor 1 receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 2600.0,
+        "pchembl_value": 5.58
+      },
+      {
+        "uniprot": "P31751",
+        "gene_symbol": "AKT2",
+        "target_pref_name": "RAC-beta serine/threonine-protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 2700.0,
+        "pchembl_value": 5.57
+      },
+      {
+        "uniprot": "Q8N568",
+        "gene_symbol": "DCLK2",
+        "target_pref_name": "Serine/threonine-protein kinase DCLK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 2700.0,
+        "pchembl_value": 5.57
+      },
+      {
+        "uniprot": "Q16832",
+        "gene_symbol": "DDR2",
+        "target_pref_name": "Discoidin domain-containing receptor 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 2900.0,
+        "pchembl_value": 5.54
+      },
+      {
+        "uniprot": "Q9UNQ0",
+        "gene_symbol": "ABCG2",
+        "target_pref_name": "Broad substrate specificity ATP-binding cassette transporter ABCG2",
+        "standard_type": "IC50",
+        "standard_value_nm": 3000.0,
+        "pchembl_value": 5.52
+      },
+      {
+        "uniprot": "Q8NEV4",
+        "gene_symbol": "MYO3A",
+        "target_pref_name": "Myosin-IIIa",
+        "standard_type": "Kd",
+        "standard_value_nm": 3100.0,
+        "pchembl_value": 5.51
+      },
+      {
+        "uniprot": "P57059",
+        "gene_symbol": "SIK1",
+        "target_pref_name": "Serine/threonine-protein kinase SIK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3200.0,
+        "pchembl_value": 5.5
+      },
+      {
+        "uniprot": "Q9Y6R4",
+        "gene_symbol": "MAP3K4",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 3300.0,
+        "pchembl_value": 5.48
+      },
+      {
+        "uniprot": "P80192",
+        "gene_symbol": "MAP3K9",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 9",
+        "standard_type": "Kd",
+        "standard_value_nm": 3400.0,
+        "pchembl_value": 5.47
+      },
+      {
+        "uniprot": "O15530",
+        "gene_symbol": "PDPK1",
+        "target_pref_name": "3-phosphoinositide-dependent protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3500.0,
+        "pchembl_value": 5.46
+      },
+      {
+        "uniprot": "Q8TDC3",
+        "gene_symbol": "BRSK1",
+        "target_pref_name": "Serine/threonine-protein kinase BRSK1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3500.0,
+        "pchembl_value": 5.46
+      },
+      {
+        "uniprot": "O43683",
+        "gene_symbol": "BUB1",
+        "target_pref_name": "Mitotic checkpoint serine/threonine-protein kinase BUB1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3507.0,
+        "pchembl_value": 5.46
+      },
+      {
+        "uniprot": "Q96L34",
+        "gene_symbol": "MARK4",
+        "target_pref_name": "MAP/microtubule affinity-regulating kinase 4",
+        "standard_type": "Kd",
+        "standard_value_nm": 3600.0,
+        "pchembl_value": 5.44
+      },
+      {
+        "uniprot": "O14730",
+        "gene_symbol": "RIOK3",
+        "target_pref_name": "Serine/threonine-protein kinase RIO3",
+        "standard_type": "Kd",
+        "standard_value_nm": 3800.0,
+        "pchembl_value": 5.42
+      },
+      {
+        "uniprot": "O14578",
+        "gene_symbol": "CIT",
+        "target_pref_name": "Citron Rho-interacting kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 3900.0,
+        "pchembl_value": 5.41
+      },
+      {
+        "uniprot": "Q9BUB5",
+        "gene_symbol": "MKNK1",
+        "target_pref_name": "MAP kinase-interacting serine/threonine-protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3900.0,
+        "pchembl_value": 5.41
+      },
+      {
+        "uniprot": "P35590",
+        "gene_symbol": "TIE1",
+        "target_pref_name": "Tyrosine-protein kinase receptor Tie-1",
+        "standard_type": "Kd",
+        "standard_value_nm": 3900.0,
+        "pchembl_value": 5.41
+      },
+      {
+        "uniprot": "P16083",
+        "gene_symbol": "NQO2",
+        "target_pref_name": "Ribosyldihydronicotinamide dehydrogenase [quinone]",
+        "standard_type": "Kd",
+        "standard_value_nm": 4022.0,
+        "pchembl_value": 5.4
+      },
+      {
+        "uniprot": "Q8TDX7",
+        "gene_symbol": "NEK7",
+        "target_pref_name": "Serine/threonine-protein kinase Nek7",
+        "standard_type": "Kd",
+        "standard_value_nm": 4100.0,
+        "pchembl_value": 5.39
+      },
+      {
+        "uniprot": "Q04759",
+        "gene_symbol": "PRKCQ",
+        "target_pref_name": "Protein kinase C theta type",
+        "standard_type": "Kd",
+        "standard_value_nm": 4300.0,
+        "pchembl_value": 5.37
+      },
+      {
+        "uniprot": "P53779",
+        "gene_symbol": "MAPK10",
+        "target_pref_name": "Mitogen-activated protein kinase 10",
+        "standard_type": "Kd",
+        "standard_value_nm": 4300.0,
+        "pchembl_value": 5.37
+      },
+      {
+        "uniprot": "Q8WXR4",
+        "gene_symbol": "MYO3B",
+        "target_pref_name": "Myosin-IIIb",
+        "standard_type": "Kd",
+        "standard_value_nm": 4500.0,
+        "pchembl_value": 5.35
+      },
+      {
+        "uniprot": "Q13882",
+        "gene_symbol": "PTK6",
+        "target_pref_name": "Protein-tyrosine kinase 6",
+        "standard_type": "Kd",
+        "standard_value_nm": 4600.0,
+        "pchembl_value": 5.34
+      },
+      {
+        "uniprot": "Q9NYY3",
+        "gene_symbol": "PLK2",
+        "target_pref_name": "Serine/threonine-protein kinase PLK2",
+        "standard_type": "Kd",
+        "standard_value_nm": 4700.0,
+        "pchembl_value": 5.33
+      },
+      {
+        "uniprot": "Q9P1W9",
+        "gene_symbol": "PIM2",
+        "target_pref_name": "Serine/threonine-protein kinase pim-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 5000.0,
+        "pchembl_value": 5.3
+      },
+      {
+        "uniprot": "Q16288",
+        "gene_symbol": "NTRK3",
+        "target_pref_name": "NT-3 growth factor receptor",
+        "standard_type": "Kd",
+        "standard_value_nm": 5100.0,
+        "pchembl_value": 5.29
+      },
+      {
+        "uniprot": "P52564",
+        "gene_symbol": "MAP2K6",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 6",
+        "standard_type": "Kd",
+        "standard_value_nm": 5200.0,
+        "pchembl_value": 5.28
+      },
+      {
+        "uniprot": "Q99755",
+        "gene_symbol": "PIP5K1A",
+        "target_pref_name": "Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 5400.0,
+        "pchembl_value": 5.27
+      },
+      {
+        "uniprot": "Q9HBH9",
+        "gene_symbol": "MKNK2",
+        "target_pref_name": "MAP kinase-interacting serine/threonine-protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 5700.0,
+        "pchembl_value": 5.24
+      },
+      {
+        "uniprot": "P22303",
+        "gene_symbol": "ACHE",
+        "target_pref_name": "Acetylcholinesterase",
+        "standard_type": "IC50",
+        "standard_value_nm": 5870.0,
+        "pchembl_value": 5.23
+      },
+      {
+        "uniprot": "P17252",
+        "gene_symbol": "PRKCA",
+        "target_pref_name": "Protein kinase C alpha type",
+        "standard_type": "Kd",
+        "standard_value_nm": 6000.0,
+        "pchembl_value": 5.22
+      },
+      {
+        "uniprot": "O00764",
+        "gene_symbol": "PDXK",
+        "target_pref_name": "Pyridoxal kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 6021.0,
+        "pchembl_value": 5.22
+      },
+      {
+        "uniprot": "O15245",
+        "gene_symbol": "SLC22A1",
+        "target_pref_name": "Solute carrier family 22 member 1",
+        "standard_type": "IC50",
+        "standard_value_nm": 6100.0,
+        "pchembl_value": 5.21
+      },
+      {
+        "uniprot": "Q9BXA7",
+        "gene_symbol": "TSSK1B",
+        "target_pref_name": "Testis-specific serine/threonine-protein kinase 1",
+        "standard_type": "Kd",
+        "standard_value_nm": 6300.0,
+        "pchembl_value": 5.2
+      },
+      {
+        "uniprot": "Q00535",
+        "gene_symbol": "CDK5",
+        "target_pref_name": "Cyclin-dependent kinase 5",
+        "standard_type": "Kd",
+        "standard_value_nm": 6900.0,
+        "pchembl_value": 5.16
+      },
+      {
+        "uniprot": "P42679",
+        "gene_symbol": "MATK",
+        "target_pref_name": "Megakaryocyte-associated tyrosine-protein kinase",
+        "standard_type": "Kd",
+        "standard_value_nm": 7700.0,
+        "pchembl_value": 5.11
+      },
+      {
+        "uniprot": "Q9H2K2",
+        "gene_symbol": "TNKS2",
+        "target_pref_name": "Poly [ADP-ribose] polymerase tankyrase-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 8900.0,
+        "pchembl_value": 5.05
+      },
+      {
+        "uniprot": "Q13164",
+        "gene_symbol": "MAPK7",
+        "target_pref_name": "Mitogen-activated protein kinase 7",
+        "standard_type": "Kd",
+        "standard_value_nm": 9900.0,
+        "pchembl_value": 5.0
+      }
+    ],
+    "resolved_via": "catalog"
+  },
+  "olaparib": {
+    "binding_profile": [
+      {
+        "uniprot": "Q9UGN5",
+        "gene_symbol": "PARP2",
+        "target_pref_name": "Poly [ADP-ribose] polymerase 2",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.1,
+        "pchembl_value": 10.0
+      },
+      {
+        "uniprot": "P09874",
+        "gene_symbol": "PARP1",
+        "target_pref_name": "Poly [ADP-ribose] polymerase 1",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.1,
+        "pchembl_value": 10.0
+      },
+      {
+        "uniprot": "Q9H2K2",
+        "gene_symbol": "TNKS2",
+        "target_pref_name": "Poly [ADP-ribose] polymerase tankyrase-2",
+        "standard_type": "IC50",
+        "standard_value_nm": 5.2,
+        "pchembl_value": 8.28
+      },
+      {
+        "uniprot": "Q9Y6F1",
+        "gene_symbol": "PARP3",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP3",
+        "standard_type": "Kd",
+        "standard_value_nm": 5.8,
+        "pchembl_value": 8.24
+      },
+      {
+        "uniprot": "O95271",
+        "gene_symbol": "TNKS",
+        "target_pref_name": "Poly [ADP-ribose] polymerase tankyrase-1",
+        "standard_type": "IC50",
+        "standard_value_nm": 10.4,
+        "pchembl_value": 7.98
+      },
+      {
+        "uniprot": "Q9UKK3",
+        "gene_symbol": "PARP4",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP4",
+        "standard_type": "IC50",
+        "standard_value_nm": 13.5,
+        "pchembl_value": 7.87
+      },
+      {
+        "uniprot": "Q2NL67",
+        "gene_symbol": "PARP6",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP6",
+        "standard_type": "IC50",
+        "standard_value_nm": 120.0,
+        "pchembl_value": 6.92
+      },
+      {
+        "uniprot": "Q8N3A8",
+        "gene_symbol": "PARP8",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP8",
+        "standard_type": "IC50",
+        "standard_value_nm": 240.0,
+        "pchembl_value": 6.62
+      },
+      {
+        "uniprot": "Q53GL7",
+        "gene_symbol": "PARP10",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP10",
+        "standard_type": "IC50",
+        "standard_value_nm": 350.0,
+        "pchembl_value": 6.46
+      },
+      {
+        "uniprot": "Q7Z3E1",
+        "gene_symbol": "TIPARP",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase TIPARP",
+        "standard_type": "IC50",
+        "standard_value_nm": 631.0,
+        "pchembl_value": 6.2
+      },
+      {
+        "uniprot": "Q9H0J9",
+        "gene_symbol": "PARP12",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP12",
+        "standard_type": "IC50",
+        "standard_value_nm": 690.0,
+        "pchembl_value": 6.16
+      },
+      {
+        "uniprot": "Q460N3",
+        "gene_symbol": "PARP15",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP15",
+        "standard_type": "IC50",
+        "standard_value_nm": 2600.0,
+        "pchembl_value": 5.58
+      },
+      {
+        "uniprot": "Q8N5Y8",
+        "gene_symbol": "PARP16",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP16",
+        "standard_type": "IC50",
+        "standard_value_nm": 5100.0,
+        "pchembl_value": 5.29
+      },
+      {
+        "uniprot": "Q9NR21",
+        "gene_symbol": "PARP11",
+        "target_pref_name": "Protein mono-ADP-ribosyltransferase PARP11",
+        "standard_type": "IC50",
+        "standard_value_nm": 7811.0,
+        "pchembl_value": 5.11
+      }
+    ],
+    "resolved_via": "chembl"
+  },
+  "sotorasib": {
+    "binding_profile": [
+      {
+        "uniprot": "P01116",
+        "gene_symbol": "KRAS",
+        "target_pref_name": "GTPase KRas",
+        "standard_type": "IC50",
+        "standard_value_nm": 7.0,
+        "pchembl_value": null
+      },
+      {
+        "uniprot": "Q07889",
+        "gene_symbol": "SOS1",
+        "target_pref_name": "SOS1-KRAS",
+        "standard_type": "IC50",
+        "standard_value_nm": 15.8,
+        "pchembl_value": 7.8
+      }
+    ],
+    "resolved_via": "chembl"
+  },
+  "ibrutinib": {
+    "binding_profile": [
+      {
+        "uniprot": "Q06187",
+        "gene_symbol": "BTK",
+        "target_pref_name": "Tyrosine-protein kinase BTK",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.08,
+        "pchembl_value": 10.1
+      },
+      {
+        "uniprot": "Q15303",
+        "gene_symbol": "ERBB4",
+        "target_pref_name": "Receptor tyrosine-protein kinase erbB-4",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.1,
+        "pchembl_value": 10.0
+      },
+      {
+        "uniprot": "P51451",
+        "gene_symbol": "BLK",
+        "target_pref_name": "Tyrosine-protein kinase Blk",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.1,
+        "pchembl_value": 10.0
+      },
+      {
+        "uniprot": "P51813",
+        "gene_symbol": "BMX",
+        "target_pref_name": "Cytoplasmic tyrosine-protein kinase BMX",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.4,
+        "pchembl_value": 9.4
+      },
+      {
+        "uniprot": "P00533",
+        "gene_symbol": "EGFR",
+        "target_pref_name": "Epidermal growth factor receptor",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.5,
+        "pchembl_value": 9.3
+      },
+      {
+        "uniprot": "P42680",
+        "gene_symbol": "TEC",
+        "target_pref_name": "Tyrosine-protein kinase Tec",
+        "standard_type": "IC50",
+        "standard_value_nm": 0.5,
+        "pchembl_value": 9.3
+      },
+      {
+        "uniprot": "P42681",
+        "gene_symbol": "TXK",
+        "target_pref_name": "Tyrosine-protein kinase TXK",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.62,
+        "pchembl_value": 9.21
+      },
+      {
+        "uniprot": "P04626",
+        "gene_symbol": "ERBB2",
+        "target_pref_name": "Receptor tyrosine-protein kinase erbB-2",
+        "standard_type": "Kd",
+        "standard_value_nm": 0.75,
+        "pchembl_value": 9.12
+      },
+      {
+        "uniprot": "P09769",
+        "gene_symbol": "FGR",
+        "target_pref_name": "Tyrosine-protein kinase Fgr",
+        "standard_type": "IC50",
+        "standard_value_nm": 1.82,
+        "pchembl_value": 8.74
+      },
+      {
+        "uniprot": "P06239",
+        "gene_symbol": "LCK",
+        "target_pref_name": "Tyrosine-protein kinase Lck",
+        "standard_type": "IC50",
+        "standard_value_nm": 2.0,
+        "pchembl_value": 8.7
+      },
+      {
+        "uniprot": "P41240",
+        "gene_symbol": "CSK",
+        "target_pref_name": "Tyrosine-protein kinase CSK",
+        "standard_type": "IC50",
+        "standard_value_nm": 2.2,
+        "pchembl_value": 8.66
+      },
+      {
+        "uniprot": "Q08881",
+        "gene_symbol": "ITK",
+        "target_pref_name": "Tyrosine-protein kinase ITK/TSK",
+        "standard_type": "IC50",
+        "standard_value_nm": 2.7,
+        "pchembl_value": 8.57
+      },
+      {
+        "uniprot": "Q13882",
+        "gene_symbol": "PTK6",
+        "target_pref_name": "Protein-tyrosine kinase 6",
+        "standard_type": "IC50",
+        "standard_value_nm": 3.3,
+        "pchembl_value": 8.48
+      },
+      {
+        "uniprot": "P08631",
+        "gene_symbol": "HCK",
+        "target_pref_name": "Tyrosine-protein kinase HCK",
+        "standard_type": "IC50",
+        "standard_value_nm": 3.7,
+        "pchembl_value": 8.43
+      },
+      {
+        "uniprot": "P07947",
+        "gene_symbol": "YES1",
+        "target_pref_name": "Tyrosine-protein kinase Yes",
+        "standard_type": "IC50",
+        "standard_value_nm": 4.1,
+        "pchembl_value": 8.39
+      },
+      {
+        "uniprot": "P07949",
+        "gene_symbol": "RET",
+        "target_pref_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+        "standard_type": "IC50",
+        "standard_value_nm": 5.2,
+        "pchembl_value": 8.28
+      },
+      {
+        "uniprot": "Q92570",
+        "gene_symbol": "NR4A3",
+        "target_pref_name": "Nuclear receptor subfamily 4 group A member 3",
+        "standard_type": "IC50",
+        "standard_value_nm": 5.7,
+        "pchembl_value": 8.24
+      },
+      {
+        "uniprot": "P52333",
+        "gene_symbol": "JAK3",
+        "target_pref_name": "Tyrosine-protein kinase JAK3",
+        "standard_type": "IC50",
+        "standard_value_nm": 8.0,
+        "pchembl_value": 8.1
+      },
+      {
+        "uniprot": "P07948",
+        "gene_symbol": "LYN",
+        "target_pref_name": "Tyrosine-protein kinase Lyn",
+        "standard_type": "Ki",
+        "standard_value_nm": 14.0,
+        "pchembl_value": 7.85
+      },
+      {
+        "uniprot": "P12931",
+        "gene_symbol": "SRC",
+        "target_pref_name": "Proto-oncogene tyrosine-protein kinase Src",
+        "standard_type": "IC50",
+        "standard_value_nm": 15.88,
+        "pchembl_value": 7.8
+      },
+      {
+        "uniprot": "P06241",
+        "gene_symbol": "FYN",
+        "target_pref_name": "Tyrosine-protein kinase Fyn",
+        "standard_type": "IC50",
+        "standard_value_nm": 29.0,
+        "pchembl_value": 7.54
+      },
+      {
+        "uniprot": "P42685",
+        "gene_symbol": "FRK",
+        "target_pref_name": "Tyrosine-protein kinase FRK",
+        "standard_type": "IC50",
+        "standard_value_nm": 29.2,
+        "pchembl_value": 7.54
+      },
+      {
+        "uniprot": "O43353",
+        "gene_symbol": "RIPK2",
+        "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 2",
+        "standard_type": "Kd",
+        "standard_value_nm": 57.0,
+        "pchembl_value": 7.24
+      },
+      {
+        "uniprot": "P36888",
+        "gene_symbol": "FLT3",
+        "target_pref_name": "Receptor-type tyrosine-protein kinase FLT3",
+        "standard_type": "IC50",
+        "standard_value_nm": 73.0,
+        "pchembl_value": 7.14
+      },
+      {
+        "uniprot": "Q9Y572",
+        "gene_symbol": "RIPK3",
+        "target_pref_name": "Receptor-interacting serine/threonine-protein kinase 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 85.0,
+        "pchembl_value": 7.07
+      },
+      {
+        "uniprot": "P00519",
+        "gene_symbol": "ABL1",
+        "target_pref_name": "Tyrosine-protein kinase ABL1",
+        "standard_type": "IC50",
+        "standard_value_nm": 86.1,
+        "pchembl_value": 7.07
+      },
+      {
+        "uniprot": "Q9HCN6",
+        "gene_symbol": "GP6",
+        "target_pref_name": "Platelet glycoprotein VI",
+        "standard_type": "IC50",
+        "standard_value_nm": 120.0,
+        "pchembl_value": 6.92
+      },
+      {
+        "uniprot": "Q9UKK9",
+        "gene_symbol": "NUDT5",
+        "target_pref_name": "ADP-sugar pyrophosphatase",
+        "standard_type": "Kd",
+        "standard_value_nm": 200.0,
+        "pchembl_value": 6.7
+      },
+      {
+        "uniprot": "Q13163",
+        "gene_symbol": "MAP2K5",
+        "target_pref_name": "Dual specificity mitogen-activated protein kinase kinase 5",
+        "standard_type": "Kd",
+        "standard_value_nm": 243.0,
+        "pchembl_value": 6.61
+      },
+      {
+        "uniprot": "P21802",
+        "gene_symbol": "FGFR2",
+        "target_pref_name": "Fibroblast growth factor receptor 2",
+        "standard_type": "IC50",
+        "standard_value_nm": 280.0,
+        "pchembl_value": 6.55
+      },
+      {
+        "uniprot": "Q9BRX8",
+        "gene_symbol": "PRXL2A",
+        "target_pref_name": "Peroxiredoxin-like 2A",
+        "standard_type": "IC50",
+        "standard_value_nm": 900.0,
+        "pchembl_value": 6.05
+      },
+      {
+        "uniprot": "P42684",
+        "gene_symbol": "ABL2",
+        "target_pref_name": "Tyrosine-protein kinase ABL2",
+        "standard_type": "Kd",
+        "standard_value_nm": 919.0,
+        "pchembl_value": 6.04
+      },
+      {
+        "uniprot": "Q12809",
+        "gene_symbol": "KCNH2",
+        "target_pref_name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+        "standard_type": "IC50",
+        "standard_value_nm": 970.0,
+        "pchembl_value": 6.01
+      },
+      {
+        "uniprot": "O95848",
+        "gene_symbol": "NUDT14",
+        "target_pref_name": "Uridine diphosphate glucose pyrophosphatase NUDT14",
+        "standard_type": "IC50",
+        "standard_value_nm": 990.0,
+        "pchembl_value": 6.0
+      },
+      {
+        "uniprot": "P11274",
+        "gene_symbol": "BCR",
+        "target_pref_name": "Breakpoint cluster region protein",
+        "standard_type": "Kd",
+        "standard_value_nm": 1459.0,
+        "pchembl_value": 5.84
+      },
+      {
+        "uniprot": "Q9NYL2",
+        "gene_symbol": "MAP3K20",
+        "target_pref_name": "Mitogen-activated protein kinase kinase kinase 20",
+        "standard_type": "Kd",
+        "standard_value_nm": 1705.0,
+        "pchembl_value": 5.77
+      },
+      {
+        "uniprot": "O95835",
+        "gene_symbol": "LATS1",
+        "target_pref_name": "Serine/threonine-protein kinase LATS1",
+        "standard_type": "Kd",
+        "standard_value_nm": 1884.0,
+        "pchembl_value": 5.72
+      },
+      {
+        "uniprot": "P07333",
+        "gene_symbol": "CSF1R",
+        "target_pref_name": "Macrophage colony-stimulating factor 1 receptor",
+        "standard_type": "IC50",
+        "standard_value_nm": 5545.0,
+        "pchembl_value": 5.26
+      },
+      {
+        "uniprot": "P10632",
+        "gene_symbol": "CYP2C8",
+        "target_pref_name": "Cytochrome P450 2C8",
+        "standard_type": "IC50",
+        "standard_value_nm": 7900.0,
+        "pchembl_value": 5.1
+      },
+      {
+        "uniprot": "O75751",
+        "gene_symbol": "SLC22A3",
+        "target_pref_name": "Solute carrier family 22 member 3",
+        "standard_type": "IC50",
+        "standard_value_nm": 7900.0,
+        "pchembl_value": 5.1
+      },
+      {
+        "uniprot": "P16591",
+        "gene_symbol": "FER",
+        "target_pref_name": "Tyrosine-protein kinase Fer",
+        "standard_type": "IC50",
+        "standard_value_nm": 8070.0,
+        "pchembl_value": 5.09
+      },
+      {
+        "uniprot": "P11712",
+        "gene_symbol": "CYP2C9",
+        "target_pref_name": "Cytochrome P450 2C9",
+        "standard_type": "IC50",
+        "standard_value_nm": 8500.0,
+        "pchembl_value": 5.07
+      }
+    ],
+    "resolved_via": "chembl"
+  },
+  "dupilumab": {
+    "binding_profile": [
+      {
+        "uniprot": "P24394",
+        "gene_symbol": "IL4R",
+        "target_pref_name": "Interleukin-4 receptor subunit alpha",
+        "standard_type": "Kd",
+        "standard_value_nm": 1.0,
+        "source": "biologic_curated"
+      }
+    ],
+    "resolved_via": "biologic"
+  },
+  "adalimumab": {
+    "binding_profile": [
+      {
+        "uniprot": "P01375",
+        "gene_symbol": "TNF",
+        "target_pref_name": "Tumor necrosis factor",
+        "standard_type": "Kd",
+        "standard_value_nm": 1.0,
+        "source": "biologic_curated"
+      }
+    ],
+    "resolved_via": "biologic"
+  },
+  "tarlatamab": {
+    "binding_profile": [
+      {
+        "uniprot": "Q9NYJ7",
+        "gene_symbol": "DLL3",
+        "target_pref_name": "Delta-like protein 3",
+        "standard_type": "Kd",
+        "standard_value_nm": 1.0,
+        "source": "biologic_curated"
+      },
+      {
+        "uniprot": "P07766",
+        "gene_symbol": "CD3E",
+        "target_pref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+        "standard_type": "Kd",
+        "standard_value_nm": 1.0,
+        "source": "biologic_curated"
+      }
+    ],
+    "resolved_via": "biologic"
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "n": 6,
+  "gallery": [
+    {
+      "drug_id": "rofecoxib",
+      "trade_name": "Vioxx",
+      "manufacturer": "Merck",
+      "year_approved": 1999,
+      "year_withdrawn": 2004,
+      "failure_cause": "Myocardial infarction / stroke",
+      "causal_off_target": "PTGS2",
+      "headline_cost": "$4.85B class-action settlement",
+      "deaths_estimate": "Estimated 38,000+ excess CV events; ~27,000 deaths",
+      "narrative": "Selective COX-2 inhibition was meant to spare GI side effects of non-selective NSAIDs. The cardiovascular signal was visible in early trials but discounted. After 5 years on market, the VIGOR/APPROVe trials made the MI risk undeniable.",
+      "what_we_would_have_said_pre_market": "From the SMILES alone, the system flags myocardial infarction as a top-rank predicted AE based on the polypharmacology profile, with PTGS2 (COX-2) identified as the dominant driver. The counterfactual recommendation would have been: reduce COX-2 selectivity (the mitigation Pfizer eventually pursued with celecoxib).",
+      "smiles": "CS(=O)(=O)c1ccc(C2=C(c3ccccc3)C(=O)OC2)cc1",
+      "molregno": 21697,
+      "n_targets_predicted": 10,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0027051",
+          "name": "Myocardial infarction",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 2,
+          "umls": "C0017181",
+          "name": "Gastrointestinal haemorrhage",
+          "severity_tier": "serious",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 3,
+          "umls": "C0030920",
+          "name": "Peptic ulcer",
+          "severity_tier": "serious",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 4,
+          "umls": "C0020538",
+          "name": "Hypertension",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 5,
+          "umls": "C0038454",
+          "name": "Cerebrovascular accident",
+          "severity_tier": "critical",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 6,
+          "umls": "C0002994",
+          "name": "Angioedema",
+          "severity_tier": "common",
+          "organ_system": "Immune / Infectious"
+        },
+        {
+          "rank": 7,
+          "umls": "C0033774",
+          "name": "Pruritus",
+          "severity_tier": "common",
+          "organ_system": "Dermatologic"
+        },
+        {
+          "rank": 8,
+          "umls": "C0019158",
+          "name": "Hepatitis",
+          "severity_tier": "serious",
+          "organ_system": "Hepatic"
+        },
+        {
+          "rank": 9,
+          "umls": "C0002871",
+          "name": "Anaemia",
+          "severity_tier": "common",
+          "organ_system": "Hematologic"
+        },
+        {
+          "rank": 10,
+          "umls": "C0004096",
+          "name": "Asthma",
+          "severity_tier": "common",
+          "organ_system": "Pulmonary"
+        }
+      ],
+      "smiles_hit_rank": 1,
+      "ground_truth_umls": [
+        "C0027051"
+      ]
+    },
+    {
+      "drug_id": "cerivastatin",
+      "trade_name": "Baycol",
+      "manufacturer": "Bayer",
+      "year_approved": 1997,
+      "year_withdrawn": 2001,
+      "failure_cause": "Rhabdomyolysis",
+      "causal_off_target": "SLCO1B1",
+      "headline_cost": "$1.2B+ in litigation; brand destroyed",
+      "deaths_estimate": "52 deaths attributed; thousands hospitalized",
+      "narrative": "Cerivastatin was 100x more potent than other statins per mg, but the SLCO1B1-mediated DDI with gemfibrozil produced fatal rhabdomyolysis. PharmGKB Level 1A annotation now identifies the polymorphism risk.",
+      "what_we_would_have_said_pre_market": "From the SMILES, the system flags rhabdomyolysis at the top rank, naming the SLCO1B1 (hepatic uptake transporter) liability based on the statin-class curated prior. PharmGKB Level 1A evidence makes this a STRONG-prior prediction.",
+      "smiles": "COCc1c(C(C)C)nc(C(C)C)c(/C=C/[C@@H](O)C[C@@H](O)CC(=O)O)c1-c1ccc(F)cc1",
+      "molregno": 403465,
+      "n_targets_predicted": 4,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0035410",
+          "name": "Rhabdomyolysis",
+          "severity_tier": "critical",
+          "organ_system": "Musculoskeletal"
+        },
+        {
+          "rank": 2,
+          "umls": "C0026848",
+          "name": "Myopathy",
+          "severity_tier": "common",
+          "organ_system": "Musculoskeletal"
+        },
+        {
+          "rank": 3,
+          "umls": "C0853034",
+          "name": "Blood creatine phosphokinase increased",
+          "severity_tier": "common",
+          "organ_system": "Musculoskeletal"
+        },
+        {
+          "rank": 4,
+          "umls": "C0018801",
+          "name": "Cardiac failure",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 5,
+          "umls": "C0268000",
+          "name": "Fluid retention",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 6,
+          "umls": "C0085649",
+          "name": "Oedema peripheral",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 7,
+          "umls": "C0016658",
+          "name": "Fracture",
+          "severity_tier": "serious",
+          "organ_system": "Musculoskeletal"
+        },
+        {
+          "rank": 8,
+          "umls": "C0038358",
+          "name": "Gastric ulcer",
+          "severity_tier": "serious",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 9,
+          "umls": "C0025222",
+          "name": "Melaena",
+          "severity_tier": "common",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 10,
+          "umls": "C0022660",
+          "name": "Renal failure acute",
+          "severity_tier": "critical",
+          "organ_system": "Renal"
+        }
+      ],
+      "smiles_hit_rank": 1,
+      "ground_truth_umls": [
+        "C0035410"
+      ]
+    },
+    {
+      "drug_id": "terfenadine",
+      "trade_name": "Seldane",
+      "manufacturer": "Marion Merrell Dow",
+      "year_approved": 1985,
+      "year_withdrawn": 1998,
+      "failure_cause": "Torsade de pointes (hERG block)",
+      "causal_off_target": "KCNH2",
+      "headline_cost": "First major modern hERG-Torsade withdrawal",
+      "deaths_estimate": "~100+ reported Torsade fatalities",
+      "narrative": "Terfenadine was the original non-sedating antihistamine. Parent compound blocks hERG; the metabolite (fexofenadine) does not. CYP3A4 inhibitors (ketoconazole, erythromycin) prevented metabolism, leading to fatal Torsade. The case that taught the industry hERG/Torsade screening must be mandatory.",
+      "what_we_would_have_said_pre_market": "From the SMILES, the system flags QT prolongation / Torsade in the top-3, with KCNH2 (hERG) as the dominant driver. Standard hERG patch-clamp screening would have caught this; the system recommends in vitro hERG testing pre-clinically.",
+      "smiles": "CC(C)(C)c1ccc(C(O)CCCN2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1",
+      "molregno": 19569,
+      "n_targets_predicted": 20,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0015371",
+          "name": "Extrapyramidal disorder",
+          "severity_tier": "common",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 2,
+          "umls": "C0151878",
+          "name": "Electrocardiogram QT prolonged",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 3,
+          "umls": "C0040479",
+          "name": "Torsade de pointes",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 4,
+          "umls": "C0013384",
+          "name": "Dyskinesia",
+          "severity_tier": "common",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 5,
+          "umls": "C0392156",
+          "name": "Akathisia",
+          "severity_tier": "common",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 6,
+          "umls": "C0001824",
+          "name": "Agranulocytosis",
+          "severity_tier": "critical",
+          "organ_system": "Hematologic"
+        },
+        {
+          "rank": 7,
+          "umls": "C0699828",
+          "name": "Serotonin syndrome",
+          "severity_tier": "critical",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 8,
+          "umls": "C0020649",
+          "name": "Hypotension",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 9,
+          "umls": "C0043094",
+          "name": "Weight increased",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 10,
+          "umls": "C0043352",
+          "name": "Dry mouth",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        }
+      ],
+      "smiles_hit_rank": 2,
+      "ground_truth_umls": [
+        "C0003811",
+        "C0040479",
+        "C0085610",
+        "C0085612",
+        "C0085620"
+      ]
+    },
+    {
+      "drug_id": "mibefradil",
+      "trade_name": "Posicor",
+      "manufacturer": "Roche",
+      "year_approved": 1997,
+      "year_withdrawn": 1998,
+      "failure_cause": "Fatal CYP3A4-mediated drug interactions",
+      "causal_off_target": "CYP3A4 inhibition (plus arrhythmia)",
+      "headline_cost": "Withdrawn 12 months after launch",
+      "deaths_estimate": "24+ deaths from DDI-mediated complications",
+      "narrative": "Calcium channel blocker for hypertension. Potent CYP3A4 inhibition caused fatal interactions with cisapride, statins, beta-blockers, and many other co-administered drugs. The shortest-lived major launch in modern pharma.",
+      "what_we_would_have_said_pre_market": "Top-1 prediction: arrhythmia / DDI-mediated rhabdomyolysis. The system identifies the polypharmacology liability \u2014 broad target engagement is the signature.",
+      "smiles": "COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C",
+      "molregno": 72035,
+      "n_targets_predicted": 8,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0151878",
+          "name": "Electrocardiogram QT prolonged",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 2,
+          "umls": "C0040479",
+          "name": "Torsade de pointes",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 3,
+          "umls": "C0428977",
+          "name": "Bradycardia",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 4,
+          "umls": "C0042514",
+          "name": "Ventricular tachycardia",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 5,
+          "umls": "C0039070",
+          "name": "Syncope",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 6,
+          "umls": "C0020649",
+          "name": "Hypotension",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 7,
+          "umls": "C0009806",
+          "name": "Constipation",
+          "severity_tier": "serious",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 8,
+          "umls": "C0687133",
+          "name": "Drug interaction",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 9,
+          "umls": "C2830004",
+          "name": "Somnolence",
+          "severity_tier": "common",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 10,
+          "umls": "C0019158",
+          "name": "Hepatitis",
+          "severity_tier": "serious",
+          "organ_system": "Hepatic"
+        }
+      ],
+      "smiles_hit_rank": 1,
+      "ground_truth_umls": [
+        "C0003811",
+        "C0040479",
+        "C0085610",
+        "C0085612",
+        "C0085620"
+      ]
+    },
+    {
+      "drug_id": "troglitazone",
+      "trade_name": "Rezulin",
+      "manufacturer": "Parke-Davis (Warner-Lambert / Pfizer)",
+      "year_approved": 1997,
+      "year_withdrawn": 2000,
+      "failure_cause": "Fatal idiosyncratic hepatic failure",
+      "causal_off_target": "PPARG (on-target) + reactive metabolite",
+      "headline_cost": "Class destroyed once; PPAR\u03b3 class survived",
+      "deaths_estimate": "63 confirmed liver failure deaths",
+      "narrative": "First-in-class PPAR\u03b3 agonist for type-2 diabetes. Idiosyncratic hepatotoxicity emerged in post-marketing. The reactive-metabolite mechanism (thiazolidinedione ring oxidation) was identified post-hoc. Rosiglitazone (Avandia) survived with different scaffold; pioglitazone (Actos) remained on market.",
+      "what_we_would_have_said_pre_market": "The system flags hepatic failure in the top-10, with the thiazolidinedione class-effect prior triggered. PPAR\u03b3 binding is identified, and the recommendation would be: in vitro hepatotoxicity screening (high-content imaging + glutathione depletion) before clinical advancement.",
+      "smiles": "Cc1c(C)c2c(c(C)c1O)CCC(C)(COc1ccc(CC3SC(=O)NC3=O)cc1)O2",
+      "molregno": 666,
+      "n_targets_predicted": 6,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0018802",
+          "name": "Cardiac failure congestive",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 2,
+          "umls": "C0008370",
+          "name": "Cholestasis",
+          "severity_tier": "serious",
+          "organ_system": "Hepatic"
+        },
+        {
+          "rank": 3,
+          "umls": "C0027051",
+          "name": "Myocardial infarction",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 4,
+          "umls": "C0016658",
+          "name": "Fracture",
+          "severity_tier": "serious",
+          "organ_system": "Musculoskeletal"
+        },
+        {
+          "rank": 5,
+          "umls": "C0013604",
+          "name": "Oedema",
+          "severity_tier": "common",
+          "organ_system": "General / Constitutional"
+        },
+        {
+          "rank": 6,
+          "umls": "C0019158",
+          "name": "Hepatitis",
+          "severity_tier": "serious",
+          "organ_system": "Hepatic"
+        },
+        {
+          "rank": 7,
+          "umls": "C0038454",
+          "name": "Cerebrovascular accident",
+          "severity_tier": "critical",
+          "organ_system": "Neurologic / Psychiatric"
+        },
+        {
+          "rank": 8,
+          "umls": "C0020456",
+          "name": "Hyperglycaemia",
+          "severity_tier": "serious",
+          "organ_system": "Endocrine"
+        },
+        {
+          "rank": 9,
+          "umls": "C0002871",
+          "name": "Anaemia",
+          "severity_tier": "common",
+          "organ_system": "Hematologic"
+        },
+        {
+          "rank": 10,
+          "umls": "C0015230",
+          "name": "Rash",
+          "severity_tier": "common",
+          "organ_system": "Dermatologic"
+        }
+      ],
+      "smiles_hit_rank": 6,
+      "ground_truth_umls": [
+        "C0019158",
+        "C0019163",
+        "C0023895",
+        "C0080226",
+        "C0085605"
+      ]
+    },
+    {
+      "drug_id": "valdecoxib",
+      "trade_name": "Bextra",
+      "manufacturer": "Pfizer",
+      "year_approved": 2001,
+      "year_withdrawn": 2005,
+      "failure_cause": "Myocardial infarction + SJS/TEN",
+      "causal_off_target": "PTGS2 (COX-2) + sulfonamide-related skin reactions",
+      "headline_cost": "$2.3B settlement (Pfizer 2009 \u2014 largest at that time)",
+      "deaths_estimate": "Withdrawn during Vioxx fallout",
+      "narrative": "Second COX-2 inhibitor withdrawn in the post-Vioxx safety review. Carried both the COX-2 class CV liability and a sulfonamide-linked Stevens-Johnson Syndrome signal.",
+      "what_we_would_have_said_pre_market": "Top-1 prediction: MI, COX-2 driven. Same SCM signature as rofecoxib \u2014 the class effect would have been flagged immediately.",
+      "smiles": "Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1",
+      "molregno": 67010,
+      "n_targets_predicted": 19,
+      "smiles_predictions_top10": [
+        {
+          "rank": 1,
+          "umls": "C0027051",
+          "name": "Myocardial infarction",
+          "severity_tier": "critical",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 2,
+          "umls": "C0220981",
+          "name": "Metabolic acidosis",
+          "severity_tier": "serious",
+          "organ_system": "Renal"
+        },
+        {
+          "rank": 3,
+          "umls": "C0392525",
+          "name": "Nephrolithiasis",
+          "severity_tier": "common",
+          "organ_system": "Renal"
+        },
+        {
+          "rank": 4,
+          "umls": "C0017178",
+          "name": "Gastrointestinal disorder",
+          "severity_tier": "common",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 5,
+          "umls": "C0025222",
+          "name": "Melaena",
+          "severity_tier": "common",
+          "organ_system": "Gastrointestinal"
+        },
+        {
+          "rank": 6,
+          "umls": "C0002994",
+          "name": "Angioedema",
+          "severity_tier": "common",
+          "organ_system": "Immune / Infectious"
+        },
+        {
+          "rank": 7,
+          "umls": "C0020538",
+          "name": "Hypertension",
+          "severity_tier": "serious",
+          "organ_system": "Cardiac"
+        },
+        {
+          "rank": 8,
+          "umls": "C0038325",
+          "name": "Stevens-Johnson syndrome",
+          "severity_tier": "critical",
+          "organ_system": "Dermatologic"
+        },
+        {
+          "rank": 9,
+          "umls": "C0002871",
+          "name": "Anaemia",
+          "severity_tier": "common",
+          "organ_system": "Hematologic"
+        },
+        {
+          "rank": 10,
+          "umls": "C0030312",
+          "name": "Pancytopenia",
+          "severity_tier": "critical",
+          "organ_system": "Hematologic"
+        }
+      ],
+      "smiles_hit_rank": 1,
+      "ground_truth_umls": [
+        "C0027051"
+      ]
+    }
+  ]
+}
